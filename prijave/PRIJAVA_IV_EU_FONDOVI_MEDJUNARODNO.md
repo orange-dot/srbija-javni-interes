@@ -80,7 +80,7 @@ Tri kompanije koje se ne nalaze u APR registru navodno su primile EU IPA sredstv
 **Red flags:**
 - Digitalizacija: 30M EUR, bez rezultata u Kikinidi (potvrđeno dopisom Gerontološkog centra)
 - Urgentni centri: 15M EUR, minimalna realizacija (2 od 8 funkcionalna – EU monitoring 2024)
-- Zaštita domova: 5M EUR, sredstva neispravno korišćena (13 mrtvih u požarima)
+- Zaštita domova: 5M EUR, sredstva neispravno korišćena (13 smrti u požarima domova koji su radili bez odobrenja)
 - Respiratori: 8,9M EUR, neisporučeni (BTL Medical Montenegro – BIRN istraživanje)
 - Nema javnog registra projekata – skrivanje troškenja
 
@@ -92,14 +92,14 @@ Tri kompanije koje se ne nalaze u APR registru navodno su primile EU IPA sredstv
 
 Korupcija zahvata zdravstvo, socijalnu zaštitu i stanovanje – pokazuje se sistemska neuspesnost nadzora.
 
-| Sektor | EU alokacija | Problem | Rezultat | Žrtve |
+| Sektor | EU alokacija | Problem | Rezultat | Dokumentovane posledice |
 |--------|--------------|---------|----------|-------|
-| Zdravstvo – digitalizacija | 30M | nema u Kikinidi (potvrđeno dopisom) | sistem nemodernizovan | 60.000 na listama |
-| Zdravstvo – urgentni centri | 15M | 2 od 8 rade (EU monitoring) | odbijeni pacijenti | dodatne smrti |
-| PP zaštita domova | 5M | sredstva neispravno korišćena | 13 mrtvih u požarima (januar 2025) | stariji |
-| Socijalna zaštita – deinstitucionalizacija | 15M (procena) | državne institucije osiromašene → privatne proliferiraju bez kontrole | 8.617 u privatnim institucijama; 13 mrtvih u požarima | osobe sa invaliditetom |
-| Socijalna karta IT | 3M (procena) | algoritamsko isključivanje | 60.000 izgubilo pravo | najugrozeniji |
-| Socijalno stanovanje | 12M (EU + domace) | duznicka zamka | dug 3,5M RSD po domacinstvu | siromasne porodice |
+| Zdravstvo – digitalizacija | 30M | nema u Kikinidi (potvrđeno dopisom) | sistem nemodernizovan | 60.000 građana bez pristupa e-zdravstvu |
+| Zdravstvo – urgentni centri | 15M | 2 od 8 rade (EU monitoring) | odbijeni pacijenti | dokumentovani slučajevi odlaganja tretmana |
+| PP zaštita domova | 5M | sredstva neispravno korišćena | 13 smrti u požarima domova koji su radili bez odobrenja | osobe u institucijama bez regulatorne kontrole |
+| Socijalna zaštita – deinstitucionalizacija | 15M (procena) | državne institucije osiromašene → privatne proliferiraju bez kontrole | 8.617 u privatnim institucijama; 13 smrti u požarima bez odobrenja | osobe sa invaliditetom u neregulisanom sektoru |
+| Socijalna karta IT | 3M (procena) | algoritamsko isključivanje | 60.000 isključeno iz programa | dokumentovano putem algoritamskog filtriranja |
+| Socijalno stanovanje | 12M (EU + domace) | duznicka zamka | dug 3,5M RSD po domacinstvu | domaćinstva u dužničkoj zamci |
 
 **Cirkularni efekat:** zdravstvo kolabira → socijalna zaštita koristi institucije kao zamenu → „deinstitucionalizacija" postaje privatizacija → socijalno stanovanje postaje zamka duga. Ukupan efekat: isti broj ljudi u institucijama kao 2011, uz dodatno isključenje desetina hiljada korisnika socijalne pomoći.
 
@@ -110,7 +110,7 @@ Korupcija zahvata zdravstvo, socijalnu zaštitu i stanovanje – pokazuje se sis
 Sistemska nekoordinacija između zdravstva i socijalne zaštite je dokumentovana kroz korespondenciju između pacijentove rodbine i institucija u Kikinidi (2025):
 
 **Ključni dokazi:**
-1. **Pritisak na srodike** — Nataša Čubrilo (Rukovodilac službe, GC) preslava telefonski pozive sa zahtevima za dokumentacijom, uz tone koji "prelaze profesionalne granice"
+1. **Pritisak na srodike** — [GC radnik] (Rukovodilac službe, GC) preslava telefonski pozive sa zahtevima za dokumentacijom, uz tone koji "prelaze profesionalne granice"
 2. **Nema IT integracije** — Gerontološki centar Kikinda nema pristupa e-upravи, što znači da institucije ne mogu da pribave osnovne dokumente (izvodi iz matične knjige, podaci o penzijama, zdravstvena dokumentacija)
 3. **Prebacivanje odgovornosti** — Institucije zahtevaju da pacijent ili rodbina pribavi dokumente koje bi trebalo da pribave po službenoj dužnosti
 4. **Rezultat** — Pacijent koji ima pravo na negu (158.000 RSD mesečnog prihoda, od čega 33.171 RSD za tuđu negu) **odbija profesionalnu negu jer je sistem toliko zbunjen da ne razume šta plaća**
