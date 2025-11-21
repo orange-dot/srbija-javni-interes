@@ -83,8 +83,8 @@ Organizovana grupa iste metode koristi i u socijalnoj zaštiti.
 ### 1. Sistem privatnih domova
 - Podaci MDRI-S/HRW/DRI: 14.512 osoba u državnim, 8.617 u privatnim institucijama; ukupno ~23.000 (isto kao 2011).
 - **Uzrok proliferacije privatnih domova:** Državne institucije nemaju kapaciteta (nema sredstava, nema kadra). Čekanja su mesecima, korisnici primorani na privatni sektor.
-- „Deinstitucionalizacija" u praksi: prebacivanje na privatne institucije uz javno finansiranje – bez poboljšanja qualiteta, samo privatizacija profita
-- Privatni domovi: manja regulacija, lošija bezbednost (videti 13 mrtvih u požarima)
+- **Kontrola privatnog sektora:** Minimalna - inspekcije nisu sprovedene, dozvole izdavane bez provere sigurnosti. Rezultat: 13 mrtvih u požarima (januar 2025)
+- „Deinstitucionalizacija" u praksi: prebacivanje na privatne institucije, ali bez nadzora i bez poboljšanja kvaliteta
 
 ### 2. Finansijski tokovi
 - Budžet za zajedničko stanovanje se preusmerava u privatne domove bez javne kontrole.  

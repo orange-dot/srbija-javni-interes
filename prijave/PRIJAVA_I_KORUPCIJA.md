@@ -36,7 +36,7 @@ Podnosim krivičnu prijavu protiv N.N. lica na najvišim državnim funkcijama Re
 - Isti obrazac: privatna institucija, nedostatak nadzora, usmerenost na profit umesto bezbednosti
 
 **Napomena:** EU je kroz IPA fondove izdvojila oko 5 miliona evra za unapređenje PP zaštite domova. Novac je nestao, ljudi su izgoreli.
-- Dodatni problem: umesto ulaganja u kapacitet državnih institucija, fondovi su išli ka privatnim (gde je lošija kontrola i veći rizici)
+- **Strukturni problem:** Privatni domovi nigde nisu regulisani - inspektori Min. za rad izdavali su dozvole bez PP zaštite (potvrđeno hapšenjem 4 službenika). Rezultat: 13 mrtvih u privatnim domovima sa minimalno nadzora.
 
 ### 2. Liste čekanja – 60.000 žrtava
 
@@ -143,9 +143,9 @@ Korupcija u zdravstvu je deo šireg obrasca zloupotrebe budžeta koji obuhvata i
 
 ### 3. Institucionalna „privatizacija"
 - **Korijen problema:** Državne institucije nemaju kapaciteta (nedostatak zaposlenih, nefinansirane). Čekanja su dugačke.
-- **Rezultat korupcije:** Umesto investicije u kapacitet državnih institucija, fondovi se preusmeravaju privatnom sektoru bez kontrole
-- Broj institucionalizovanih ostaje oko 23.000 (isto kao 2011) – segregacija se nastavlja, samo je privatizovana
-- Privatni domovi su manje regulisani, osoblje lošije plaćeno, bezbednost minimalna (videti požare)
+- **Rezultat:** Korisnici primorani na privatni sektor jer u javnom nema mesta
+- Broj institucionalizovanih ostaje oko 23.000 (isto kao 2011) – segregacija se nastavlja, samo privatno umesto javno
+- **Kontrola private sektora:** Minimalna - inspekcije nisu sprovedene, dozvole izdavane bez provere sigurnosti (potvrđeno hapšenjem inspektora). Rezultat: 13 mrtvih u požarima
 
 ---
 

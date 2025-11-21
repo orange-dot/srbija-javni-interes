@@ -159,10 +159,10 @@ Isti obrazac političkog nečinjenja i pogrešnog usmeravanja sredstava vidljiv 
 
 ### Deinstitutionalizacija – 15 godina bez napretka
 - 14.512 osoba u državnim institucijama, 8.617 u privatnim (MDRI-S, HRW) – **ukupno isto kao 2011**
-- **Problem:** Umesto otvaranja zajedničkih usluga, državne institucije su osiromašene, a privatne su proliferirale – bez kvalitete, sa lošijom bezbednosti
-- Privatni domovi: manja regulacija, lošija plaćenost zaposlenih, minimalnan nadzor → 13 mrtvih u požarima (januar 2025)
-- 33.212 godišnjih prijema u psihijatrijske bolnice – zdravstvo koristi kao zamenu za socijalnu zaštitu
-- Strategija iz 2011. nije sprovedena; budžeti usmereni na prestiž projekte, ne na zajedničke usluge
+- **Problem:** Umesto otvaranja zajedničkih usluga, državne institucije su osiromašene. Korisnici primorani na privatni sektor.
+- **Kontrola privatnog sektora:** Minimalna - inspekcije nisu sprovedene, dozvole izdavane bez provere sigurnosti (potvrđeno hapšenjem 4 inspektora Min. za rad)
+- Rezultat: 13 mrtvih u požarima (januar 2025); 33.212 godišnjih prijema u psihijatrijske bolnice (zdravstvo koristi kao zamenu); broj institucionalizovanih nepromenjen
+- Strategija iz 2011. nije sprovedena; budžeti usmereni na prestiž projekte, ne na zajedničke usluge ili poboljšanje kontrole private sektora
 
 ### Socijalno stanovanje – Zemun Polje
 - A11 (avgust 2025): 600+ stanovnika, 60+ bez struje, dugovi >3,5 miliona RSD po domaćinstvu, pretnja prinudnih iseljenja  
