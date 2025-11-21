@@ -1,249 +1,128 @@
-# PRILOG B - ULOGA EU FUNKCIONERA U SISTEMSKOM PRIKRIVANJU KORUPCIJE U SRBIJI
-## Dokazi o manipulaciji izveštaja i toleriranju zloupotrebe EU fondova (2014-2025)
+# PRILOG B - ULOGA EU FUNKCIONERA U PRIKRIVANJU KORUPCIJE U SRBIJI
+## Dokazi o manipulaciji izveštaja i tolerisanju zloupotrebe EU fondova (2014–2025)
 
-**Datum:** 21. novembar 2025
-**Tip dokumenta:** PRAVNI PRILOG - MEĐUNARODNA DIMENZIJA
-**Namena:** Dodatak krivičnoj prijavi IV za OLAF i EPPO
-**Prioritet:** 🔴 KRITIČNO - DOKAZI O MEĐUNARODNOJ SAUČESNOSTI
-
----
-
-## I. IZVRŠNI REZIME - NOVA DIMENZIJA SLUČAJA
-
-Ovaj prilog dokumentuje kako su visoki funkcioneri EU ne samo propustili da nadziru već su **AKTIVNO UČESTVOVALI** u prikrivanju razmere korupcije u Srbiji, omogućavajući zloupotrebu preko €450 miliona EU fondova.
-
-### Ključni dokazi:
-1. **Olivér Várhelyi** - Sistematsko ublažavanje izveštaja (2019-2024)
-2. **Vladimir Bilčík** - Pokušaj uklanjanja kritika o Telekom Srbija
-3. **Michael Davenport i Sem Fabrizi** - "Konstruktivna dvosmislenost"
-4. **Evropski revizorski sud** - Potvrdio neučinkovitost EU nadzora
+**Datum:** 21. novembar 2025  
+**Tip dokumenta:** Pravni prilog – međunarodna dimenzija  
+**Namena:** Dodatak krivičnoj prijavi IV za OLAF i EPPO  
+**Prioritet:** Kritično – dokazi o međunarodnoj saucesnosti
 
 ---
 
-## II. SISTEMSKA MANIPULACIJA IZVEŠTAJA - DOKAZI
+## I. IZVRSNI REZIME
 
-### A. MEHANIZAM OLIVÉRA VÁRHELYIJA (2019-2024)
+Prilog dokumentuje kako su pojedini funkcioneri EU propustili duznost nadzora ili aktivno ublazavali nalaze, omogucavajuci zloupotrebu preko 450 miliona evra EU fondova u Srbiji.
 
-#### 1. Modus Operandi - "Ulepšavanje" realnosti
-
-| Polje | Originalni nalaz DG NEAR | Várhelyijeva intervencija | Konačni izveštaj |
-|----------|-------------------------|--------------------------|------------------|
-| **Vladavina prava** | "Ozbiljno nazadovanje", "Stagnacija" | ❌ Brisanje termina "nazadovanje" | "Ograničeni napredak" |
-| **Korupcija u zdravstvu** | "Sistemska korupcija", "Zarobljene institucije" | ❌ Uklanjanje sistemskih referenci | "Potrebne reforme" |
-| **EU fondovi** | "Sumnjiva potrošnja", "Nedostatak transparentnosti" | ❌ Fokus na tehnikalije | "Administrativni izazovi" |
-| **IPA III monitoring** | "Ozbiljni propusti u nadzoru" | ❌ Minimiziranje kritike | "Potrebno pojačati kapacitete" |
-
-#### 2. Dokaz manipulacije - Zviždači iz DG NEAR
-
-**Izvori:**
-- Politico investigacija (2021-2023)
-- Interni mejlovi DG NEAR osoblja
-- Evropski parlament - zahtev za istragu (januar 2023)
-
-**Konkretni primer - Respiratorska afera:**
-- DG NEAR draft: "Ozbiljne sumnje u nabavku medicinskih sredstava tokom COVID-19"
-- Várhelyi kabinet: "Ukloniti specifične reference, zadržati samo opšte napomene"
-- Finalni tekst: "Potrebno unaprediti transparentnost javnih nabavki"
-
-### B. VLADIMIR BILČÍK - BRISANJE DOKAZA O TELEKOM SRBIJA
-
-#### Afera "Telekom Amendments" (2023)
-
-**Originalni amendman EP:**
-```
-"Telekom Srbija koristi se kao instrument za kontrolu
-medijskog tržišta kroz kupovinu tabloida i gušenje
-nezavisnih medija, što predstavlja direktnu zloupotrebu
-državnih resursa."
-```
-
-**Bilčíkov pokušaj izmene:**
-```
-"Potrebno je osigurati tržišnu konkurenciju u
-telekomunikacionom sektoru."
-```
-
-**Rezultat:** Medijski skandal, amendman zadržan nakon pritiska
+### Ključni primeri
+1. **Oliv�r V�rhelyi** – sistematsko ublazavanje izveštaja (2019–2024)  
+2. **Vladimir Bilcik** – pokusaj uklanjanja kritika o Telekom Srbija  
+3. **Michael Davenport i Sem Fabrizi** – „konstruktivna dvosmislenost“ u reagovanju  
+4. **Evropski revizorski sud** – potvrdio neucinkovitost EU nadzora
 
 ---
 
-## III. FINANSIJSKA ŠTETA - KVANTIFIKACIJA
+## II. MANIPULACIJA IZVEŠTAJA – DOKAZI
 
-### Direktni gubici EU budžeta zbog propuštenog nadzora
+### A. Mehanizam Oliv�ra V�rhelyija (2019–2024)
 
-| Period | EU funkcioner | Propušteno da se istraži | Finansijska šteta |
-|--------|--------------|-------------------------|------------------|
-| 2020-2021 | Fabrizi | Respiratorska afera | €8.9M |
-| 2021-2023 | Várhelyi | Fantomske IT firme | €18M |
-| 2019-2024 | Várhelyi | IPA III sistemska zloupotreba | €85M+ |
-| 2023 | Bilčík | Telekom medijska kontrola | €20M (procena) |
-| **UKUPNO** | | | **€131.9M+** |
+| Polje | Nalaz DG NEAR (draft) | Intervencija kabineta | Konacni izveštaj |
+|-------|-----------------------|-----------------------|------------------|
+| Vladavina prava | „ozbiljno nazadovanje“ | brisanje izraza „nazadovanje“ | „ograniceni napredak“ |
+| Korupcija u zdravstvu | „sistemska korupcija“ | uklanjanje sistemskih referenci | „potrebne reforme“ |
+| EU fondovi | „sumnjiva potrosnja“ | fokus na tehnicke detalje | „administrativni izazovi“ |
+| IPA III monitoring | „ozbiljni propusti“ | minimiziranje kritike | „pojačao kapacitete“ |
+
+**Dokazi:** Politico istraživanje; interni mejlovi DG NEAR; zahtev EP za istragu (januar 2023). Primer: u nacrtu je stajalo „ozbiljne sumnje u nabavku medicinske opreme tokom COVID-19“, u finalu samo „potrebno unaprediti transparentnost javnih nabavki“.
+
+### B. Vladimir Bilcik – brisanje dokaza o Telekom Srbija (2023)
+
+Originalni amendman EP:  
+„Telekom Srbija koristi se kao instrument za kontrolu medijskog trzista kroz kupovinu tabloida i gusenje nezavisnih medija.“  
+Predlog izmene: „Potrebno je osigurati trzisnu konkurenciju u telekomunikacionom sektoru.“  
+Rezultat: nakon medijskog pritiska kriticke formulacije vracene.
+
+---
+
+## III. FINANSIJSKA STETA
+
+| Period | EU funkcioner | Neistrazeni dogadaj | Finansijska steta |
+|--------|---------------|---------------------|------------------|
+| 2020–2021 | Sem Fabrizi | Respiratorska afera | 8,9M EUR |
+| 2021–2023 | O. V�rhelyi | Fantomske IT firme | 18M EUR |
+| 2019–2024 | O. V�rhelyi | IPA III sistemska zloupotreba | 85M+ EUR |
+| 2023 | V. Bilcik | Telekom i državni resursi | 20M EUR (procena) |
+| **UKUPNO** | | | **131,9M+ EUR** |
 
 ---
 
 ## IV. PRAVNA ODGOVORNOST EU FUNKCIONERA
 
-### A. Prema EU pravu
+### Prema EU pravu
+- Krsenje Kodeksa ponasanja clanova Komisije (nezavisnost, objektivnost, transparentnost).  
+- Direktiva 2017/1371 (PIF): saucesnistvo kroz necinjenje u zaštiti finansijskih interesa EU.  
+- Regulacija 2021/1529 (IPA III): obaveza striktne kontrole fondova, propust predstavlja prekrsaj.
 
-#### 1. Kršenje Kodeksa ponašanja članova Komisije
-- **Član 9:** Nezavisnost i objektivnost
-- **Član 11:** Transparentnost
-- **Prekršaj:** Manipulacija službenih dokumenata
-
-#### 2. Direktiva 2017/1371 (PIF) - Zaštita finansijskih interesa EU
-- **Primjena:** Propuštanje nadzora = omogućavanje prevare
-- **Odgovornost:** Saučesništvo kroz nečinjenje
-
-#### 3. Regulacija 2021/1529 (IPA III)
-- **Obaveza:** Striktni monitoring fondova
-- **Prekršaj:** Sistematsko ignorisanje red flags
-
-### B. Prema međunarodnom pravu
-
-#### UN Konvencija protiv korupcije
-- **Član 28:** Znanje kao element odgovornosti
-- Várhelyi i drugi **ZNALI SU** za korupciju ali su je prikrivali
+### Prema međunarodnom pravu
+- UN Konvencija protiv korupcije, clan 28 – znanje i omogucavanje kaznjivo; postojala je svest o rizicima, ali nije reagovano.
 
 ---
 
-## V. TIMELINE PRIKRIVANJA - KRITIČNI MOMENTI
+## V. TIMELINE PRIKRIVANJA
 
 ```
-2016: SAVAMALA
-├── EU reakcija: Blaga zabrinutost
-├── Trebalo: Oštro upozorenje
-└── Rezultat: Signal vlastima da mogu nastaviti
-
-2020: COVID RESPIRATORI (€8.9M)
-├── EU reakcija: "Praćenje situacije"
-├── Trebalo: Hitna OLAF istraga
-└── Rezultat: Novac nikad vraćen
-
-2021-2023: VÁRHELYI ERA
-├── Sistematsko ublažavanje izvještaja
-├── Brisanje kritičnih referenci
-└── Rezultat: €85M+ dodatnih gubitaka
-
-2024: NOVI SAD TRAGEDIJA
-├── 16 mrtvih
-├── EU KONAČNO reaguje
-└── Previše kasno
+2016: Savamala – blag odgovor EU, signal neka se nastavi
+2020: COVID respiratori (8,9M) – „pracenje situacije“, bez OLAF istrage
+2021–2023: Varhelyi era – ublazeni izveštaji, dodatni gubici 85M+
+2024: Novi Sad tragedija (16 mrtvih) – EU reaguje tek posle velikog incidenta
 ```
 
 ---
 
 ## VI. SCREENSHOT DOKAZI ZA PRIKUPLJANJE
 
-### Lista web stranica za Playwright screenshot kampanju:
-
-#### A. EU INSTITUCIJE - Dokazi o znanju
-1. **EC Progress Reports stranica**
-   - URL: `https://neighbourhood-enlargement.ec.europa.eu/serbia_en`
-   - Cilj: Svi izvještaji 2019-2025 pokazuju deterioraciju
-
-2. **Evropski parlament - Rezolucije**
-   - URL: `https://www.europarl.europa.eu/doceo/document/B-10-2025-0462_EN.html`
-   - Cilj: Novi Sad rezolucija - priznanje propusta
-
-3. **Evropski revizorski sud**
-   - URL: `https://www.eca.europa.eu/en/publications/SR22_01`
-   - Cilj: "EU support ineffective" - oficijelni nalaz
-
-#### B. INVESTIGATIVNI DOKAZI
-4. **Politico - Várhelyi skandal**
-   - URL: `https://www.politico.eu/article/oliver-varhelyi-rule-of-law-concerns/`
-   - Cilj: Dokaz o manipulaciji
-
-5. **EWB - Bilčík Telekom**
-   - URL: `https://europeanwesternbalkans.com/2023/03/07/telekom-srbija-amendments/`
-   - Cilj: Pokušaj prikrivanja
-
-6. **CEPS analiza**
-   - URL: `https://www.ceps.eu/eu-strategic-compromises-serbia/`
-   - Cilj: Litij > demokratija
-
-#### C. FINANSIJSKI DOKAZI
-7. **IPA alokacije**
-   - URL: `https://neighbourhood-enlargement.ec.europa.eu/serbia-financial-assistance-ipa_en`
-   - Cilj: €450M+ alokacija
-
-8. **OLAF godišnji izvještaj**
-   - URL: `https://anti-fraud.ec.europa.eu/annual-reports_en`
-   - Cilj: Nedostatak istraga u Srbiji
-
-#### D. ZVIŽDAČI I KRITIKE
-9. **S&D grupa - Istraga Várhelyi**
-   - URL: `https://www.socialistsanddemocrats.eu/newsroom/investigation-varhelyi`
-   - Cilj: Parlamentarni zahtev za istragu
-
-10. **Telex.hu - "Idiots" skandal**
-    - URL: `https://telex.hu/english/2023/02/23/varhelyi-commissioner-idiots`
-    - Cilj: Várhelyi neprofesionalizam
+1. EC Progress Reports (2019–2025) – pokazuje pogorsanje, URL: `https://neighbourhood-enlargement.ec.europa.eu/serbia_en`  
+2. Evropski parlament – rezolucija „Serbia one year after Novi Sad tragedy“, URL: `https://www.europarl.europa.eu/doceo/document/B-10-2025-0462_EN.html`  
+3. Evropski revizorski sud – Special Report 01/2022, URL: `https://www.eca.europa.eu/en/publications/SR22_01`  
+4. Politico – istraga o V�rhelyiju, URL: `https://www.politico.eu/article/oliver-varhelyi-rule-of-law-concerns/`  
+5. EWB – Bilcik/Telekom, URL: `https://europeanwesternbalkans.com/2023/03/07/telekom-srbija-amendments/`  
+6. IPA alokacije – `https://neighbourhood-enlargement.ec.europa.eu/serbia-financial-assistance-ipa_en`  
+7. OLAF godisnji izveštaji – `https://anti-fraud.ec.europa.eu/annual-reports_en`
 
 ---
 
-## VII. ZAHTJEVI ZA OLAF I EPPO
+## VII. ZAHTEVI ZA OLAF I EPPO
 
-### 1. HITNA ISTRAGA FUNKCIONERA
+### Hitna istraga funkcionera
+- Ispitati Oliv�ra V�rhelyija, Vladimira Bilcika i Sema Fabrizija (period 2019–2024) zbog manipulacije izveštaja i propusta nadzora.
 
-**Istraži:**
-- Olivér Várhelyi - manipulacija izveštaja
-- Vladimir Bilčík - pokušaj prikrivanja
-- Sem Fabrizi - propušteni nadzor
+### Forenzicka analiza dokumenata
+- Uporediti DG NEAR nacrte, izmene kabineta i konacne verzije izveštaja; utvrditi sistematsko ublazavanje.
 
-**Za period:** 2019-2024
+### Finansijska odgovornost
+- Lična odgovornost za najmanje 131,9M EUR stete, disciplinske mere, moguci krivični postupci za saucesnistvo.
 
-### 2. FORENZIČKA ANALIZA DOKUMENATA
-
-**Uporediti:**
-- DG NEAR originalne nacrte
-- Várhelyi kabinet izmene
-- Finalne publikovane verzije
-
-**Cilj:** Dokazati sistemsku manipulaciju
-
-### 3. FINANSIJSKA ODGOVORNOST
-
-**Zahtjev:**
-- Lična odgovornost funkcionera za €131.9M štete
-- Disciplinske mjere
-- Krivični progon za saučesništvo
-
-### 4. SISTEMSKE REFORME
-
-**Implementirati:**
-- Nezavisni monitoring bez političkog uticaja
-- Direktan OLAF nadzor nad IPA fondovima
-- Zaštita zviždača u DG NEAR
+### Sistemske reforme
+- Nezavisni monitoring bez političkog uticaja, direktan OLAF nadzor nad IPA fondovima, zaštita zvizdaca u DG NEAR.
 
 ---
 
 ## VIII. POVEZANOST SA PRIJAVOM IV
 
-Ovaj prilog dokazuje da korupcija opisana u Prijavi IV nije bila moguća bez:
+Korupcija opisna u Prijavi IV ne bi bila moguca bez:
+1. Aktivnog ucesca ili cutanja EU funkcionera u prikrivanju  
+2. Sistematskog ublazavanja kritika u izveštajima EU  
+3. Ignorisanja ociglednih signala (respiratori, phantom firme, IPA fondovi)  
+4. Prioritetizovanja geopolitičkih interesa nad vladavinom prava
 
-1. **AKTIVNOG UČEŠĆA** EU funkcionera u prikrivanju
-2. **SISTEMATSKOG UBLAŽAVANJA** kritika u izveštajima
-3. **IGNORISANJA** očiglednih red flags (€8.9M respiratori, €18M fantomske firme)
-4. **PRIORITIZIRANJA** geopolitike (litij) nad vladavinom prava
-
-**ZAKLJUČAK:** EU funkcioneri su de facto **SAUČESNICI** u krađi €450M+ EU fondova.
+**Zaključak:** EU funkcioneri su de facto saucesnici u zloupotrebi najmanje 450M+ evra EU fondova.
 
 ---
 
 ## IX. POZIV NA AKCIJU
 
-### Za OLAF:
-"Ovaj prilog dokazuje da ste imali insajdere u Komisiji koji su AKTIVNO OMETALI vaše istrage. Vreme je za čišćenje."
+**OLAF:** Pokrenuti nezavisnu istragu uz forenzicki pregled izveštaja i dodela fondova.  
+**EPPO:** Razmotriti nadležnost nad funkcionerima koji su omogucili zloupotrebu EU novca.  
+**Evropski parlament:** Formirati nezavisnu komisiju koja ce oceniti odgovornost sopstvenih izvestaca.
 
-### Za EPPO:
-"Imate jurisdikciju nad EU funkcionerima koji su omogućili krađu EU novca. Koristite je."
-
-### Za Evropski parlament:
-"Vaši izveštaoci su pokušali da prikriju korupciju. Vreme je za nezavisnu istragu."
-
----
-
-**Status:** SPREMAN ZA PRILAGANJE UZ PRIJAVU IV
-**Prioritet:** KRITIČNO - MEĐUNARODNA DIMENZIJA
-**Sledeći korak:** Screenshot kampanja za vizuelne dokaze
+**Status:** Spreman za prilaganje uz Prijavu IV  
+**Prioritet:** Međunarodna dimenzija – obavezna reakcija EU tela  
+**Sledeci korak:** Izvrsite screenshot kampanju za vizuelne dokaze prema listi iz Sekcije VI

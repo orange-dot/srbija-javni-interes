@@ -1,386 +1,247 @@
 # KRIVIČNA PRIJAVA - ORGANIZOVANI KRIMINAL U ZDRAVSTVU
-## Sa međunarodnom kriminalnom dimenzijom
+## Međunarodna kriminalna dimenzija
 
-**ZA:**
-- Tužilaštvo za organizovani kriminal Republike Srbije
+**Za:**  
+- Tužilaštvo za organizovani kriminal Republike Srbije  
 - **CC:** EUROPOL, OLAF
 
 **Datum:** Novembar 2025
 
 ---
 
-## PREDMET: Organizovana kriminalna grupa koja systematski uništava zdravstvo - 13 mrtvih, 60.000 žrtava
+## PREDMET: Organizovana kriminalna grupa koja sistematski unistava zdravstvo – 13 mrtvih, 60.000 ljudi ostecenih
 
-Podnosim krivičnu prijavu protiv organizovane kriminalne grupe koja deluje na najvišim nivoima državne vlasti Republike Srbije (2021-2025), koja je kroz koordinisano kriminalno delovanje dovela do:
-- **13 SMRTI** u požarima (januar 2025)
-- **60.000 građana** osuđenih na invaliditet
-- **Stotina smrti** kroz uskraćivanje lečenja
-- **Krađe €50+ miliona** EU fondova
+Podnosim krivicnu prijavu protiv organizovane kriminalne grupe koja deluje na najvišim nivoima državne vlasti (2021–2025) i koja je kroz koordinisano delovanje dovela do:
+- **13 smrtnih slucajeva** u požarima (januar 2025)  
+- **60.000 građana** osudenih na invaliditet zbog cekanja  
+- **Stotina dodatnih smrti** usled uskracenog lecenja  
+- **Krade najmanje 50+ miliona evra** EU fondova
 
 ---
 
 ## I. STRUKTURA KRIMINALNE ORGANIZACIJE
 
-### VRHOVNI NIVO - "Komandni lanac"
+### Vrhovni nivo – „komandni lanac“
 
-#### Političko rukovodstvo (donose odluke):
-- **Predsednici vlada** (2021-2025): Ana Brnabić, Miloš Vučević, Đuro Macut
-- **Ministri zdravlja:** Zlatibor Lončar (2021-2024), Danica Grujičić (2024-2025)
-- **Ministar finansija:** Siniša Mali
+#### Političko rukovodstvo (donosi odluke)
+- Predsednici vlada (2021–2025): Ana Brnabić, Milos Vučević, Duro Macut  
+- Ministri zdravlja: Zlatibor Lončar, Danica Grujičić  
+- Ministar finansija: Sinisa Mali
 
-#### Koordinatori (sprovode):
-- Direktori RFZO
-- Direktori "jedinica za upravljanje projektima"
+#### Koordinatori (sprovode)
+- Direktori RFZO  
+- Direktori „jedinica za upravljanje projektima“  
 - Direktori velikih zdravstvenih ustanova
 
-#### Izvršioci (operativa):
-- Vlasnici fantomskih firmi
-- Direktori privatnih klinika (primaju preusmerena sredstva)
+#### Izvrsioci (operativa)
+- Vlasnici fantomskih firmi  
+- Direktori privatnih klinika koji primaju preusmeren novac  
 - Offshore operateri (Kipar, Malta)
 
-### MODUS OPERANDI
+### Modus operandi
 
-#### Faza 1 - PLANIRANJE:
-- Identifikuju EU projekte i budžetske linije
-- Osnivaju fantomske firme pre tendera
-- Dogovaraju podelu plena
-
-#### Faza 2 - IZVRŠENJE:
-- Raspisuju namještene tendere
-- Dodeljuju ugovore fantomskim firmama
-- Lažno izveštavaju o rezultatima
-
-#### Faza 3 - PRIKRIVANJE:
-- Novac ide na offshore račune
-- Vraća se kroz "investicije"
-- Mediji pod kontrolom šire lažne uspehe
+**Faza 1 – planiranje:** pronalazak EU projekata i budzetskih linija, osnivanje fantomskih firmi, dogovor podele plena.  
+**Faza 2 – izvrsenje:** namesteni tenderi, ugovori sa fantomskim firmama, lazno izvestavanje.  
+**Faza 3 – prikrivanje:** novac ide na offshore racune, vraca se kao „investicija“, medijska kontrola.
 
 ---
 
 ## II. KONKRETNI KRIMINALNI PODUHVATI
 
-### A. OPERACIJA "DIGITALIZACIJA" (€30 miliona)
+### A. Operacija „Digitalizacija“ (30 miliona EUR)
+- Ucesnici: Ministarstvo zdravlja, Health Tech Solutions (8M), Digital Transformation Experts (6M)  
+- Firme osnovane mesec dana pre tendera; vlasnici povezani sa funkcionerima  
+- Rezultat: 30M isplaceno, 0% digitalizacije; Milja Janjatovic umrla cekajuci papirnu proceduru; 60.000 ljudi i dalje na papirnim listama
 
-**Učesnici:**
-- Ministarstvo zdravlja (nalogodavac)
-- Health Tech Solutions d.o.o. (izvršilac - €8M)
-- Digital Transformation Experts (izvršilac - €6M)
+### B. Operacija „Urgentni centri“ (20 miliona EUR)
+- Ucesnici: Ministarstvo zdravlja, fantomski izvodaci, dobavljači polovne opreme  
+- EU monitoring: „5 od 8 centara ne postoji“; polovna vozila kupljena kao nova (3x skuplje)  
+- Milan Janjatovic odbijen od „modernizovanog“ centra
 
-**Dokaz kriminala:**
-- Firme osnovane mesec pre tendera
-- Vlasnici povezani sa funkcionerima
-- €30M nestalo, 0% digitalizacije
-
-**Posledice:**
-- Milja Janjatović umrla čekajući papirnu proceduru
-- 60.000 na papirnim listama bez prioritizacije
-
-### B. OPERACIJA "URGENTNI CENTRI" (€20 miliona)
-
-**Učesnici:**
-- Ministarstvo zdravlja
-- Fantomski izvođači radova
-- Dobavljači polovne opreme
-
-**Dokaz kriminala:**
-- EU monitoring: "5 od 8 centara ne postoji"
-- Polovna vozila kupljena kao nova (3x skuplje)
-- Milan Janjatović odbijen od "modernizovanog" centra
-
-### C. OPERACIJA "POŽARNA BEZBEDNOST" (€5 miliona)
-
-**Rezultat:** 13 MRTVIH u požarima
-- Dom Barajevo: 11 mrtvih
-- Dom Vojka: 2 mrtva
-- **4 službenika već uhapšena** - dokaz kriminala
+### C. Operacija „Požarna bezbednost“ (5 miliona EUR)
+- Rezultat: 13 mrtvih u požarima (Barajevo 11, Vojka 2)  
+- Cetiri sluzbenika vec uhapsena – potvrdjen kriminalni obrazac
 
 ---
 
-## III. MEĐUNARODNA KRIMINALNA MREŽA
+## III. MEĐUNARODNA KRIMINALNA MREZA
 
-### OFFSHORE KOMPONENTA
+### Offshore komponenta
+- **Kipar:** racuni za pranje novca, povratne „investicije“ u privatne klinike  
+- **Malta:** registracija fantomskih firmi i finansijski transferi
 
-#### Kipar:
-- Računi za pranje novca
-- Povratne "investicije" u privatne klinike
-
-#### Malta:
-- Registracija fantomskih firmi
-- Finansijske transakcije
-
-### EU PREVARA
-
-#### Lažno izveštavanje EU institucijama:
-- 2023: "65% digitalizacije završeno" (realnost: 0%)
-- 2024: "8 urgentnih centara operativno" (realnost: 0-2)
-- 2025: "85% ciljeva ostvareno" (realnost: <15%)
-
-**European Court of Auditors (2025):**
-> "High risk of fraud"
+### Prevara prema EU
+- Lazno izvestavanje: „65% digitalizacije“ (2023), „8 urgentnih centara“ (2024), „85% ciljeva ostvareno“ (2025) – realnost ispod 15%  
+- Evropski revizorski sud (2025): „High risk of fraud“
 
 ---
 
-## III.A. PRIVATNI DOMOVI KAO DEO ORGANIZOVANE ŠEME - INSTITUCIONALNA PRIVATIZACIJA
+## III.A. PRIVATNI DOMOVI KAO DEO ORGANIZOVANE SEME
 
-Pored zdravstvenih fondova, ista organizovana grupa koristi privatizaciju institucionalnih domova kao mehanizam za kontinuirano vršenje kriminala. Trans-institucionalizacija (Engl. trans-institutionalization) - zamena javnih institucija privatnim dok segregacija ostaje - predstavlja strukturniju šemu od pojedinačnih fondovskih krađa.
+Organizovana grupa iste metode koristi i u socijalnoj zaštiti.
 
-### 1. SISTEMSKA ANALIZA INSTITUCIONALNE PRIVATIZACIJE
+### 1. Sistem privatnih domova
+- Podaci MDRI-S/HRW/DRI: 14.512 osoba u državnim, 8.617 u privatnim institucijama; ukupno ~23.000 (isto kao 2011).  
+- „Deinstitucionalizacija“ u praksi: prebacivanje na privatne institucije uz javno finansiranje.
 
-**Dokumentovani podaci (Izvor: MDRI-S, Human Rights Watch, DRI izveštaji):**
-- Države institucije: 14.512 osoba u institucionalnoj brizi
-- Privatne institucije: 8.617 osoba u institucionalnoj brizi
-- **Ukupno:** ~23.000 osoba u institucijama (ista ili veća brojka kao 2011, pre "deinstitucionalizacije")
-- Vremenska linija: 2011-2025 = 15 godina bez napretka
-- Međunarodni standard: Deinstitucionalizacija znači ZATVARANJE institucija i razvoj zajedničkog stanovanja
-- Srpska praksa: Deinstitucionalizacija znači TRANSFER SA JAVNIH NA PRIVATNE institucije
+### 2. Finansijski tokovi
+- Budzet za zajednicko stanovanje se preusmerava u privatne domove bez javne kontrole.  
+- Privatni sektor profitira, javni sektor osiromasen, segregacija nastavlja.
 
-### 2. FINANSIJSKI TOKOVI - JAVNI NOVAC U PRIVATNE DŽEPOVE
+### 3. Mehanizam
+- Faza 1 (2011–2015): osnivanje „privatnih“ firmi bliskih donosiocima odluka, predstavljeno kao reforma.  
+- Faza 2 (2015–2020): deljenje budzeta izmedu javnih i privatnih; javni domovi nedofinansirani.  
+- Faza 3 (2020–2025): ekspanzija privatnih domova, vlada tvrdi „reformu“, realnost je privatizovana segregacija.
 
-**Mehanizam kriminala:**
-
-Umesto što se budžet koristi za zajedničko stanovanje sa podrškom (kako zahtevaju međunarodni standardi), isti budžet se preusmerava ka privatnim domovima, čime se:
-
-1. **Javni sektor osiromašuje:** Budžet za institucionalnu briju ostaje približno ista, ali je osiromašen (jer privatni provajderi zarađuju)
-2. **Privatni sektor bogati:** Privatni domovi finansirani publičkim sredstvima ali bez javne kontrole
-3. **Segregacija nastavlja:** Osobe ostaju u institucijama, samo sada u "privatnim" nego u "javnim"
-4. **Vlada može tvrditi "reformu":** Vlada može tvrditi "da je deinstitucionalizacija u toku" dok struktura ostaje segregaciona
-
-**Dokazi organizovanosti:**
-- MDRI-S Policy brief: Privatizovani domovi nemaju većih standarda nego javni
-- Balkan Insight, 25. augusta 2025: "40% osoba u institucijama bi moglo da živi nezavisno sa podrškom, ali:
-  - Zajedničko stanovanje nije finansirano (~27 osoba u 145 opština)
-  - Privatni domovi se ekspanduju (jer su privatizovani fondovi pristupačniji)
-  - Rezultat je 'trans-institucionalizacija' umesto 'deinstitucionalizacije'"
-- A11 Initiative: Pokazuje da alternativni (NGO) modeli kao "Zvuci Srca" cafeteria rade, ali su donor-zavisni jer nemaju sistematskog finansiranja
-
-### 3. POVEZANOST SA ZDRAVSTVENOM ORGANIZOVANOM ŠEMOM
-
-Ista grupacija kreira "privatne" zdravstvene institucije koje zatim koriste kao "privatne klinike", čime:
-
-1. **Javni zdravstveni budžet se usmjerava ka "privatnom" sektoru** (vlasnicima je ista grupa, samo drugačiji biznis)
-2. **Privatne klinike postaju "preopterećene" jer su jedine dostupne** (jer javni sistem preusmeren)
-3. **Pacijenti se prinuđavaju na privatne procedure** (jer javni sistem ne može da obezbedi)
-4. **Rezultat:** Dva strujanja novca u iste džepove:
-   - Javni fondovi → privatnim domovima (za institucionalnu briju)
-   - Javni fondovi → privatnim klinikama (za privatne operacije)
-
-**Primer:** Privatni domovi mogu biti "osnovani" kao javne institucije ali se financiraju kao privatni, dok osobe u njima ostaju segregirane (ista segregacija, samo privatizovana).
-
-### 4. MEHANIZAM ORGANIZOVANE ŠEME
-
-**Faze:**
-
-**Faza 1 - Osnivanje (2011-2015):**
-- Prave se "privatne" firme za upravljanje domovima
-- Vlasnici su poslovni partneri ministara/direktora RFZO
-- Lažno se predstavlja kao "reforma" i "deinstitucionalizacija"
-
-**Faza 2 - Finansiranje (2015-2020):**
-- Javni budžet za institucionalnu briju se "dele" između javnih i privatnih
-- Javni domovi postaju nedofinansijrani
-- Privatni domovi ostaju financirani ali bez javne kontrole
-
-**Faza 3 - Ekspanzija (2020-2025):**
-- Privatni domovi se razvijaju dok javni propadaju
-- Vlada tvrdi "deinstitucionalizacija je u toku"
-- Realnost: segregacija je samo privatizovana
-
-### 5. SVEUČNA ŠEMA - ISTA GRUPA UPRAVLJA VISE SEKTORA
-
-Isti oficijali koji kradu iz zdravstva kradu i iz institucija:
-
-| Sektor | Šema | Rezultat |
-|--------|------|----------|
-| **Zdravstvo** | Fantomske zdravstvene firme za "digitalizaciju" | €30M ukrađeno, 0% rezultata |
-| **Institucije** | Privatni domovi financirani javno | 8.617 osoba bez standarda, segregirane |
-| **Socijalna pomoć** | "Socijalna karta" algoritam koji isključuje 60.000 | Budžet smanjen bez transparentnosti |
-| **Stanovanje** | "Socijalno stanovanje" postaje dužnička zamka | 3.5M RSD duga po domaćinstvu |
-
-**Povezanost:** Svi ovi sektori deluju preko istih ministara (Mali, Lončar, Brnabić, Grujičić) sa istom šemom - privatizacija sredstava preko "reformi" koje izgleda dobro za javnost ali su zapravo mehanizmi za transfer javnog novca u privatne džepove.
-
-### 6. MEĐUNARODNE POSLEDICE
-
-- **EU fondovi za deinstitucionalizaciju** se koriste za financiranje privatne ekspanzije umesto alternativa
-- **Odgovornost:** Srbija obavezana da implementira EU/CRPD standarde (konvencija o pravima osoba sa invaliditetom)
-- **Šema je posebna jer:** IZGLEDA KAKO REFORMI (privatizacija = modernizacija, "decentralizacija") dok je zapravo preusmeravanje budžeta
-- **Važno:** Razlika između "privatizacije kao reforme" i "privatizacije kao šeme":
-  - **Reforma:** Privatni sektor bi trebao da bude bolji/jeftiniji/transparentniji
-  - **Šema:** Privatni sektor je samo transferna tačka za isti novac do istih ljudi sa manje kontrole
+### 4. Povezanost sa zdravstvenom semom
+- Javni budzet preusmeren ka privatnim domovima i privatnim klinikama; isti krug ljudi upravlja dvema strujama novca.  
+- Pacijenti prinudeni na privatne usluge, javni sistem ostavljen da propada.
 
 ---
 
 ## IV. DOKAZI ORGANIZOVANOSTI
 
-### 1. ISTI OBRAZAC KROZ VREME
-- Sve fantomske firme osnovane 1-2 meseca pre tendera
-- Isti vlasnici/direktori u različitim firmama
-- Iste offshore destinacije
-
-### 2. KOORDINISANO DELOVANJE
-- Ministri potpisuju lažne izveštaje
-- RFZO odobrava fantomska plaćanja
-- Mediji istovremeno objavljuju "uspehe"
-
-### 3. HIJERARHIJA I DISCIPLINA
-- Jasna komandna linija
-- Niko ne odstupa od plana
-- Uzbunjivači kažnjavani/ucenjeni
-
-### 4. KONTINUITET (2021-2025)
-- Isti modus operandi 5 godina
-- Promene ministara ne menjaju šemu
-- Povećanje obima krađe svake godine
+1. Sve fantomske firme osnovane 1–2 meseca pre tendera; isti vlasnici/direktori se ponavljaju.  
+2. Ministri potpisuju lazne izveštaje, RFZO odobrava sporna placanja, mediji istovremeno objavljuju „uspehe“.  
+3. Jasna hijerarhija: komandna linija, disciplina, uzbunjivaci trpe pritisak.  
+4. Kontinuitet 2021–2025: modus operandi ne menja se uprkos promenama ministara; obim krade raste.
 
 ---
 
 ## V. ŽRTVE ORGANIZOVANOG KRIMINALA
 
-### DIREKTNE ŽRTVE (smrti) - GLAVNI FOKUS:
-- **13 IZGORELIH U POŽARIMA** (januar 2025) - najteža posledica sistemske korupcije
-- **Stotine drugih** dokumentovanih smrti zbog sistemskog kolapsa
+### Direktne žrtve
+- **13 poginulih** u požarima (januar 2025) – najteza posledica sistemske korupcije  
+- Dodatne smrtne posledice usled kolapsa usluga
 
-### ILUSTRACIJE SISTEMSKOG UNIŠTAVANJA:
-*Primeri kako organizovani kriminal ubija kroz birokratiju:*
-- **Boja Janjatović** (jul 2023) - čekala 3-4 nedelje na analize, IOV "štedeo reagense"
-- **Milja Janjatović** (januar 2023) - lek uskraćen zbog procedura
-- Nepotrebna putovanja 240km za prepisivanje, odbijanje zbog "nepravilnog uputa"
+### Ilustracije sistemskog unistavanja
+- Boja Janjatovic (jul 2023) – cekala analize, IOV „stedeo reagense“  
+- Milja Janjatovic (januar 2023) – lek uskracen zbog procedura  
+- Nepotrebna putovanja 240 km za recepte, odbijanja zbog „nepravilan uput“
 
-### MASOVNE INDIREKTNE ŽRTVE:
-- **60.000 NA LISTAMA ČEKANJA** - postaju invalidi dok čekaju operacije
-- **Hiljades plaćaju privatno** - finansijski uništeni
-- **Milioni bez osnovne nege** - svakodnevne patnje
+### Masovne indirektne žrtve
+- **60.000 na listama cekanja** – rizik trajnog invaliditeta  
+- Hiljade placaju privatno – finansijski unisteni  
+- Milioni bez osnovne nege – svakodnevne patnje
 
-### SISTEMSKE ŽRTVE:
-- **Zdravstveni sistem** - kolabiran
-- **Poverenje građana** - uništeno
-- **EU integracije** - sabotirane
+### Sistemske posledice
+- Kolaps poverenja građana i sabotirani EU procesi
 
 ---
 
 ## VI. KRIVIČNA DELA
 
-### Čl. 346 KZ - Udruživanje radi vršenja krivičnih dela
-- Organizovana grupa 3+ lica
-- Kontinuirano delovanje 2021-2025
-- **Kazna:** 6 meseci do 5 godina (članovi), do 10 godina (organizatori)
+#### Cl. 346 KZ – udruživanje radi vršenja krivičnih dela
+- Organizovana grupa 3+ lica, kontinuirano delovanje 2021–2025  
+- Kazna: do 5 godina (clanovi), do 10 godina (organizatori)
 
-### Čl. 359 KZ - Zloupotreba službenog položaja
-- Sistemska zloupotreba
-- **Kazna:** do 12 godina
+#### Cl. 359 KZ – zloupotreba sluzbenog položaja
+- Sistemska zloupotreba javnog položaja  
+- Kazna: do 12 godina
 
-### Čl. 208 KZ - Pronevera u produženom trajanju
-- €65+ miliona
-- **Kazna:** do 10 godina
+#### Cl. 208 KZ – pronevera u produzenom trajanju
+- Steta procenjena na 65+ miliona EUR  
+- Kazna: do 10 godina
 
-### Čl. 367 KZ - Pranje novca
-- Organizovano, međunarodno
-- **Kazna:** do 12 godina
+#### Cl. 367 KZ – pranje novca
+- Organizovano i međunarodno  
+- Kazna: do 12 godina
 
-### Čl. 127 KZ - Nepružanje pomoći (posledično)
-- 13 mrtvih u požarima
-- **Kazna:** do 3 godine
+#### Cl. 127 KZ – nepruzanje pomoći (posledicno)
+- 13 mrtvih u požarima  
+- Kazna: do 3 godine
 
 ---
 
 ## VII. SVEDOCI I DOKAZI
 
-### ZAŠTIĆENI SVEDOCI (potrebna zaštita):
-- **Dr Mihailo Jovanović** - može biti ugrožen
-- **EU Delegation staff** - anonimno svedočenje
-- **Medicinski radnici** - u strahu od odmazde
+### Zaštićeni svedoci (potrebna zaštita)
+- Dr Mihailo Jovanovic – stanje digitalizacije  
+- EU Delegation staff – anonimna svedocenja  
+- Medicinski radnici – u strahu od odmazde
 
-### MATERIJALNI DOKAZI:
-1. **Gerontološki centar** - potvrda nepostojanja digitalizacije
-2. **EU monitoring** - potvrda nepostojanja centara
-3. **APR** - fantomske firme
-4. **Bankovni transferi** - offshore tokovi
-5. **4 hapšenja** - već potvrđen kriminal
-6. **RFZO netransparentnost** - Sanja Radak De Jongx navela da ne postoji obaveza vođenja statistike (09.08.2023), što je suprotno ZUP čl. 211
+### Materijalni dokazi
+1. Dopisi gerontoloskih centara – potvrda nepostojanja digitalizacije  
+2. EU monitoring – potvrda nepostojanja urgentnih centara  
+3. APR – registracija fantomskih firmi  
+4. Bankovni transferi – offshore tokovi (za pribaviti)  
+5. Cetiri hapsenja – vec potvrdjen kriminalni obrazac  
+6. RFZO netransparentnost – Sanja Radak De Jongx (09.08.2023) navela da ne postoji obaveza vodjenja statistike, suprotno ZUP cl. 211
 
-### SVEDOCI ŽRTVE:
-- Porodice 13 poginulih
-- 60.000 na listama čekanja
-- Prof. dr Lazar Popović (slučaj M. Janjatović)
-- Dr Vladimir Suvajac (privatne operacije)
+### Svedoci žrtve
+- Porodice 13 poginulih  
+- Osobe na listama cekanja (60.000)  
+- Prof. dr Lazar Popovic (slucaj M. Janjatovic)  
+- Dr Vladimir Suvajač (privatne operacije)
 
 ---
 
 ## VIII. MEĐUNARODNA SARADNJA
 
-### EUROPOL može:
-- Pratiti međunarodne finansijske tokove
-- Identifikovati offshore operacije
+### EUROPOL moze
+- Pratiti međunarodne finansijske tokove  
+- Identifikovati offshore operacije  
 - Koordinisati sa Kiprom/Maltom
 
-### OLAF mora:
-- Blokirati dalje EU fondove
-- Zahtevati povraćaj €50M
+### OLAF treba
+- Blokirati dalje EU fondove  
+- Zahtevati povraćaj najmanje 50M EUR  
 - Procesuirati EU prevare
 
-### INTERPOL:
-- Crvene poternice za bežanje
+### INTERPOL
+- Crvene poternice za bekstvo osumnjicenih  
 - Zamrzavanje offshore imovine
 
 ---
 
 ## IX. HITNOST AKCIJE
 
-### RAZLOZI ZA HITNOST:
+### Razlozi
+1. Unistavanje dokaza je u toku  
+2. Novi tenderi planirani, rizik ponavljanja seme  
+3. Svedoci pod pritiskom (Dr Jovanovic i drugi)  
+4. Nove žrtve nastaju svakog dana
 
-1. **Uništavanje dokaza** - u toku
-2. **Novi tenderi** - planiraju se
-3. **Svedoci pod pritiskom** - Dr Jovanović
-4. **Nove žrtve** - svaki dan
-
-### TRENUTNI RIZICI:
-- Planira se nova "digitalizacija" (€25M)
-- Novi "urgentni centri" (€15M)
-- Domovi još uvek bez PP zaštite
+### Trenutni rizici
+- Planirana nova „digitalizacija“ (25M EUR)  
+- Novi „urgentni centri“ (15M EUR)  
+- Domovi jos uvek bez PP zaštite
 
 ---
 
 ## X. ZAHTEVI
 
-### HITNE MERE (24-48h):
-1. **Uhapsiti** ključne osumnjičene
-2. **Blokirati** sve račune (domaće i offshore)
-3. **Zaštititi** svedoke
-4. **Zapečatiti** dokumentaciju
+### Hitne mere (24–48h)
+1. Uhapsiti ključne osumnjicene  
+2. Blokirati sve racune (domace i offshore)  
+3. Zaštititi svedoke  
+4. Zapecatiti dokumentaciju
 
-### ISTRAŽNE MERE:
-1. **Formirati** međunarodni istražni tim
-2. **Angažovati** EUROPOL/OLAF
-3. **Pratiti** finansijske tokove
-4. **Ispitati** sve učesnike
+### Istragne mere
+1. Formirati međunarodni istrazni tim  
+2. Uključiti EUROPOL/OLAF  
+3. Pratiti finansijske tokove  
+4. Ispitati sve ucesnike
 
-### DUGOROČNO:
-1. **Procesuirati** celu mrežu
-2. **Vratiti** ukradeni novac
-3. **Reformisati** sistem
-4. **Obešteti** žrtve
+### Dugorocno
+1. Procesuirati celu mrezu  
+2. Vratiti ukradeni novac  
+3. Reformisati sistem nabavki i nadzora  
+4. Obesteti žrtve
 
 ---
 
 ## ZAKLJUČAK
 
-Ova kriminalna organizacija predstavlja **NAJVEĆU PRETNJU** javnom zdravlju i bezbednosti građana Srbije:
+Organizovani kriminal u zdravstvu predstavlja **najvecu pretnju** javnom zdravlju i bezbednosti građana Srbije:
+- **Ubili su** 13 ljudi u požarima  
+- **Ostavili** 60.000 ljudi na listama bez lecenja  
+- **Krade** milione dok građani trpe
 
-- **UBILI SU** 13 ljudi u požarima
-- **OSUĐUJU** 60.000 na invaliditet
-- **KRADU** milione dok ljudima umiru
+Sema je realna i smrtonosna.  
+**Zahteva se hitna akcija pre novih žrtava.**
 
-Organizovani kriminal u zdravstvu nije metafora - to je **REALNOST KOJA UBIJA**.
-
-Dok čitate ovu prijavu, negde u Srbiji:
-- Neko umire jer nema lek
-- Neko postaje invalid na listi čekanja
-- Neko prodaje imovinu za operaciju
-
-**ZAUSTAVITE IH PRE NOVIH ŽRTAVA!**
-
----
-
-**Podnosilac:** [Identitet zaštićen]
-**Datum:** Novembar 2025
-**Prilozi:** Sva dokumentacija
+**Podnosilac:** [Identitet zaštićen]  
+**Datum:** Novembar 2025  
+**Prilozi:** Prateca dokumentacija  
 **Kopija:** EUROPOL, OLAF, INTERPOL
