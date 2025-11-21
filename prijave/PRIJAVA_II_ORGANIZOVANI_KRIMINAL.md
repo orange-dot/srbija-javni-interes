@@ -143,11 +143,11 @@ Organizovana grupa iste metode koristi i u socijalnoj zaštiti.
 
 #### Čl. 245 KZ – pranje novca
 - Konverzija/prenos imovine stečene krivičnim delom - organizovano i međunarodno
-- Kazna: do 12 godina (ako izvršeno u organizovanoj grupi – stav 4)
+- Kazna: do 12 godina (ako izvršeno u organizovanoj grupi – stav 3)
 
-#### Čl. 127 KZ – nepružanje pomoći (posledično)
-- 13 mrtvih u požarima  
-- Kazna: do 3 godine
+#### Čl. 127 KZ – nepružanje pomoći
+- Sistemska nepružanja pomoći starima u požarima
+- Kazna: 1 do 8 godina (ako je usled nepružanja pomoći nastupila smrt – stav 3)
 
 ---
 

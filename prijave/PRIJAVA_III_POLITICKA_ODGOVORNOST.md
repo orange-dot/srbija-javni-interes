@@ -106,12 +106,12 @@ Podnosim krivičnu prijavu zbog političke odgovornosti najviših državnih funk
 - Kazna: do 12 godina
 
 #### Čl. 361 KZ – nesavestan rad u službi
-- Gruba povreda dužnosti čuvanja narodnog zdravlja  
-- Kazna: do 5 godina
+- Gruba povreda dužnosti čuvanja narodnog zdravlja
+- Kazna: 6 meseci do 5 godina (ako je nastupila teža povreda prava ili veća imovinska šteta – stav 2)
 
 #### Čl. 127 KZ – nepružanje pomoći
-- 13 mrtvih u požarima; znali za rizike  
-- Kazna: do 3 godine
+- 13 mrtvih u požarima; znali za rizike
+- Kazna: 1 do 8 godina (ako je usled nepružanja pomoći nastupila smrt – stav 3)
 
 #### Međunarodni princip komandne odgovornosti
 - Znali ili morali znati; nisu sprečili niti kaznili

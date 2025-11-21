@@ -118,7 +118,7 @@ Podnosim krivičnu prijavu protiv N.N. lica na najvišim državnim funkcijama Re
 
 #### Čl. 245 KZ – pranje novca
 - Konverzija/prenos imovine stečene krivičnim delom preko offshore firmi (Kipar, Malta)
-- Kazna: do 12 godina (ako izvršeno u organizovanoj grupi – stav 4)
+- Kazna: do 12 godina (ako izvršeno u organizovanoj grupi – stav 3)
 
 #### PIF Direktiva EU
 - Zaštita finansijskih interesa EU  
