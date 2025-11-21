@@ -36,7 +36,7 @@ Prepiska iz novembra 2025. između Bojana Janjatovića i institucija u Kikinidi 
 - Nataša Čubrilo (lično): telefonski pozivi, SMS sa zahtevima, optužujući ton
 - Kristina Nemčev (zvanična korespondencija): "Centar za socijalni rad Kik nije zatražio od srodnika (...) ni jedan dokument"
 
-Oba iskaza ne mogu biti tačna — jedan je litota, drugi laž.
+Oba iskaza ne mogu biti tačna — jedan je agresivna akcija, drugi je javna laž (negiranje da se tražilo nešto što se aktivno zahtevalo).
 
 ### 1.3 Licemerje i Sistem "Zajebi Pacijenta"
 
