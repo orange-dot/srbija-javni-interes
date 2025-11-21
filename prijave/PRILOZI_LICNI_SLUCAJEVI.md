@@ -179,7 +179,7 @@ Oba slučaja dokumentuju sistemsku disfunkciju: administrativne prepreke blokira
 
 ### Povezanost sa drugim prijavama
 - U **sistemskim prijavama** (PRIJAVA_I, II, III, IV) — lični slučajevi su namerno izostavljeni kako bi se očuvala fokus na **institucijsku odgovornost** umesto ličnog bola.
-- Ovaj prilog služi kao **zaseban dosije za ličnu štetu** i predstavlja **osnov za civilnu odgovornost** i eventualni naknad štete.
+- Ovaj prilog služi kao **zaseban dosije sa konkretnim slučajevima koji do sada nisu bili predmet sudskog postupka** i predstavlja **osnov za pokretanje novog postupka**.
 - Videti posebno: **DOKAZ_NEKOORDINACIJA_KIKINDA.md** — detaljni sled neusaglašenosti u jednom od slučajeva.
 
 ### Dokazi na raspolaganju
