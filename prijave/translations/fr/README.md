@@ -2,7 +2,7 @@
 ## Documentation et preuves complètes
 
 **Préparé :** 21 novembre 2025
-**Statut :** ✅ PRÊT POUR SOUMISSION
+**Statut :** ✅ PRÊT À ÊTRE DÉPOSÉ
 **Version :** 4.0 - FINAL AVEC TOUTES LES 30 PREUVES PHOTOGRAPHIQUES
 **Documentation :** Complète avec 10 fichiers
 
@@ -60,7 +60,7 @@
    - Analyse systématique de 15+ ans
    - Statut : ✅ Complet
 
-8. **INTEGRATION_SUMMARY_BRNABC_LONCAR_MALI.md** (Résumé d'intégration)
+8. **INTEGRATION_SUMMARY_BRNABIC_LONCAR_MALI.md** (Résumé d'intégration)
    - Comment les preuves en ligne renforcent les plaintes
    - 5 connexions clés
    - Aperçu bref pour compréhension rapide
@@ -152,7 +152,7 @@
 - ✅ PRILOG_LEGAL_APPENDIX_EVIDENCE.md
 - ✅ INDEKS_DOKAZA_KROSREFERENCE_PRIJAVE.md
 - ✅ EVIDENCE_COLLECTION_BRNABIC_LONCAR_MALI.md
-- ✅ INTEGRATION_SUMMARY_BRNABC_LONCAR_MALI.md
+- ✅ INTEGRATION_SUMMARY_BRNABIC_LONCAR_MALI.md
 - ✅ FINAL_REVIEW_ALL_COMPLAINTS.md
 - ✅ FILING_PREPARATION_COMPLETE.md
 - ✅ SCREENSHOT_EVIDENCE_MANIFEST.md
@@ -224,7 +224,7 @@ prijave/
 ├── PRILOG_LEGAL_APPENDIX_EVIDENCE.md
 ├── INDEKS_DOKAZA_KROSREFERENCE_PRIJAVE.md
 ├── EVIDENCE_COLLECTION_BRNABIC_LONCAR_MALI.md
-├── INTEGRATION_SUMMARY_BRNABC_LONCAR_MALI.md
+├── INTEGRATION_SUMMARY_BRNABIC_LONCAR_MALI.md
 ├── FINAL_REVIEW_ALL_COMPLAINTS.md
 ├── FILING_PREPARATION_COMPLETE.md
 └── SCREENSHOT_EVIDENCE_MANIFEST.md

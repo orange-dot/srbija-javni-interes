@@ -1,26 +1,26 @@
 # KRIVIČNA PRIJAVA - POLITIČKA ODGOVORNOST ZA KOLAPS ZDRAVSTVA
-## Poziv na medunarodnu odgovornost
+## Poziv na međunarodnu odgovornost
 
 **Za:**  
 - Republičko javno tužilaštvo  
 - Više javno tužilaštvo u Beogradu  
 - **CC:** Evropska komisija, OLAF, WHO Europa
 
-**Datum:** Novembar 2025
+**Datum:** novembar 2025
 
 ---
 
 ## PREDMET: Sistemska politička odgovornost za 13 smrti i patnju 60.000 građana
 
-Podnosim krivicnu prijavu zbog politicke odgovornosti najviših državnih funkcionera (2021–2025) cije su svesne odluke dovele do:
-- **13 smrtnih slucajeva** u požarima zbog nepostojanja osnovne zaštite  
-- **60.000 građana** osudenih na godine cekanja i invaliditet  
-- **Kolapsa zdravstvenog sistema** uprkos raspolozivim sredstvima  
-- **Zloupotrebe oko 50 miliona evra** EU pomoći namenjene spasavanju života
+Podnosim krivičnu prijavu zbog političke odgovornosti najviših državnih funkcionera (2021–2025) čije su svesne odluke dovele do:
+- **13 smrtnih slučajeva** u požarima zbog nepostojanja osnovne zaštite  
+- **60.000 građana** osuđenih na godine čekanja i invaliditet  
+- **Kolapsa zdravstvenog sistema** uprkos raspoloživim sredstvima  
+- **Zloupotrebe oko 50 miliona evra** EU pomoći namenjene spašavanju života
 
 ---
 
-## I. POLITIČKI KONTEKST – SVESNO ZRTVOVANJE ZDRAVSTVA
+## I. POLITIČKI KONTEKST – SVESNO ŽRTVOVANJE ZDRAVSTVA
 
 ### Činjenice o prioritetima
 
@@ -29,49 +29,49 @@ Podnosim krivicnu prijavu zbog politicke odgovornosti najviših državnih funkci
 - 2025: 280 milijardi RSD  
 - **Smanjenje:** oko 70 milijardi RSD (−20%)
 
-**Prestiz projekti (luksuz):**  
+**Prestiž projekti (luksuz):**  
 - Stadion: 180 miliona EUR  
 - Fontane: 20 miliona EUR  
 - EXPO: stotine miliona EUR  
 - Metro: više milijardi EUR
 
-**Odnos:** dok 60.000 ljudi ceka operacije, sredstva odlaze na prestiz.
+**Odnos:** dok 60.000 ljudi čeka operacije, sredstva odlaze na prestiž.
 
-### Politicke odluke koje produzavaju stetu
+### Političke odluke koje produžavaju štetu
 
-1. **Zabrana zaposljavanja u zdravstvu**  
+1. **Zabrana zapošljavanja u zdravstvu**  
    - Kikinda: sa 14 na 7 medicinskih radnika, 24h pokrivanje svelo se na 8h  
-   - Posledica: nedostatak palijativne nege, smrt majke podnosioca  
-2. **Smanjenje budzeta zdravstva**  
+   - Posledica: nedostatak palijativne nege i smanjen pristup uslugama  
+2. **Smanjenje budžeta zdravstva**  
    - Nema novca za PP opremu → 13 mrtvih  
-   - Nema novca za operacije → 60.000 ljudi ceka  
-   - Nema novca za lekove → Milja J. nije dobila terapiju  
+   - Nema novca za operacije → 60.000 ljudi čeka  
+   - Nema novca za lekove → pacijenti ostaju bez terapije  
 3. **EU fondovi za „digitalizaciju“**  
-   - 30 miliona evra potroseno, digitalizacija 0%  
+   - 30 miliona evra potrošeno, digitalizacija 0%  
    - Papirne procedure ostale
 
 ---
 
-## II. HRONOLOGIJA POLITICKE ODGOVORNOSTI
+## II. HRONOLOGIJA POLITIČKE ODGOVORNOSTI
 
-- **2021–2022: Ana Brnabić (premijerka)** – potpisala smanjenje budzeta, odobrila zabranu zaposljavanja, EU izvestavala o „napretku“ u digitalizaciji.  
-- **2022–2024: Zlatibor Lončar (ministar zdravlja)** – ignorisao 60.000 na listama, dozvolio kolaps urgentnih sluzbi, potpisivao lazne EU izveštaje.  
+- **2021–2022: Ana Brnabić (premijerka)** – potpisala smanjenje budžeta, odobrila zabranu zapošljavanja, EU izveštavala o „napretku“ digitalizacije.  
+- **2022–2024: Zlatibor Lončar (ministar zdravlja)** – ignorisao 60.000 na listama, dozvolio kolaps urgentnih službi, potpisivao lažne EU izveštaje.  
 - **2024–2025: Danica Grujičić (ministarka)** – nastavila isti kurs; 13 mrtvih u požarima pod njenim mandatom; javno tvrdila da je „sve dobro“.  
-- **2021–2025: Sinisa Mali (finansije)** – 45 sumnjivih racuna (ASK), preusmeravao novac sa zdravstva na prestiz projekte.
+- **2021–2025: Siniša Mali (finansije)** – 45 sumnjivih računa (ASK), preusmeravao novac sa zdravstva na prestiž projekte.
 
 ---
 
 ## III. EU DIMENZIJA – MEĐUNARODNA SRAMOTA
 
-### Lazno predstavljanje EU
+### Lažno predstavljanje EU
 
-**Sta Srbija prijavljuje:**  
+**Šta Srbija prijavljuje:**  
 - 2023: „65% digitalizacije implementirano“  
 - 2024: „8 urgentnih centara operativno“  
 - 2025: „85% ciljeva dostignuto“
 
-**Sta pokazuju dokazi:**  
-- Digitalizacija 0% (dopisi gerontoloskih centara)  
+**Šta pokazuju dokazi:**  
+- Digitalizacija 0% (dopisi gerontoloških centara)  
 - Urgentni centri 0–2 (EU monitoring)  
 - Stvarni rezultati <15%
 
@@ -81,7 +81,7 @@ Podnosim krivicnu prijavu zbog politicke odgovornosti najviših državnih funkci
 - EU Delegation (2024): „Discrepancies between reported and observed“  
 - WHO Europa (2024): „Concerning deterioration of health indicators“
 
-**Posledice:** zastoj u Poglavlju 28, gubitak kredibiliteta, moguce suspendovanje IPA fondova.
+**Posledice:** zastoj u Poglavlju 28, gubitak kredibiliteta, moguće suspendovanje IPA fondova.
 
 ---
 
@@ -94,45 +94,28 @@ Podnosim krivicnu prijavu zbog politicke odgovornosti najviših državnih funkci
 - Dom Vojka: 2 mrtva  
 - Razlog: politička odluka o preusmeravanju novca; EU dala 5M EUR za PP zaštitu – sredstva nestala
 
-**Liste cekanja – 60.000 ljudi**  
-- Ortopedske operacije: 2–5 godina cekanja, trajni invaliditet  
-- Razlog: političko odredjivanje prioriteta van zdravstva
-
-### Lične žrtve (ilustracije sistemske stete)
-
-**Boja Janjatovic (majka podnosioca)**  
-- 3–4 nedelje cekanja na analize zbog „stednje reagensa“  
-- 240 km putovanja za prepisivanje terapije  
-- Odbijen pregled zbog birokratije  
-- Preminula u julu 2023.
-
-**Milja Janjatovic (sestra)**  
-- Lek uskracen zbog procedura  
-- Sest meseci papirne birokratije umesto digitalizacije placene 30M EUR  
-- Preminula u januaru 2023.
-
-**Milan Janjatovic (76, zivi sam)**  
-- Teska hipoglikemija (0.7 mmol/L), odbijen od urgentnog  
-- „Modernizacija“ centra ne postoji u praksi
+**Liste čekanja – 60.000 ljudi**  
+- Ortopedske operacije: 2–5 godina čekanja, trajni invaliditet  
+- Razlog: političko određivanje prioriteta van zdravstva
 
 ---
 
-## V. KRIVIČNA DELA KROZ POLITICKU ODGOVORNOST
+## V. KRIVIČNA DELA KROZ POLITIČKU ODGOVORNOST
 
-#### Cl. 359 KZ – zloupotreba sluzbenog položaja
-- Svesno donosenje stetnih odluka, ignorisanje posledica  
+#### Čl. 359 KZ – zloupotreba službenog položaja
+- Svesno donošenje štetnih odluka, ignorisanje posledica  
 - Kazna: do 12 godina
 
-#### Cl. 361 KZ – nesavestan rad u sluzbi
-- Gruba povreda duznosti cuvanja narodnog zdravlja  
+#### Čl. 361 KZ – nesavestan rad u službi
+- Gruba povreda dužnosti čuvanja narodnog zdravlja  
 - Kazna: do 5 godina
 
-#### Cl. 127 KZ – nepruzanje pomoći
+#### Čl. 127 KZ – nepružanje pomoći
 - 13 mrtvih u požarima; znali za rizike  
 - Kazna: do 3 godine
 
 #### Međunarodni princip komandne odgovornosti
-- Znali ili morali znati; nisu sprecili niti kaznili
+- Znali ili morali znati; nisu sprečili niti kaznili
 
 ---
 
@@ -141,92 +124,91 @@ Podnosim krivicnu prijavu zbog politicke odgovornosti najviših državnih funkci
 ### Upozorenja koja su ignorisana
 - 2022: Sindikat zdravstva – „Sistem je pred kolapsom“ → bez reakcije  
 - 2023: WHO – „Kritično stanje zdravstva u Srbiji“ → javno negiranje problema  
-- 2024: EU Delegation – „Zabrinjavajuci nedostatak napretka“ → lazni izveštaji  
-- Januar 2025: 13 mrtvih → nazvano „izolovani incident“
+- 2024: EU Delegation – „Zabrinjavajući nedostatak napretka“ → lažni izveštaji  
+- Januar 2025: 13 mrtvih → nazivano „izolovani incident“
 
 ### Svesnost posledica
-- Znali su za liste cekanja, manjak opreme i požarne rizike  
+- Znali su za liste čekanja, manjak opreme i požarne rizike  
 - Svesno ih ignorisali
 
 ### Netransparentnost podataka
 - RFZO ne objavljuje evidenciju odbijenih pacijenata  
-- Sanja Radak De Jongx (09.08.2023): „ne postoji obaveza vodjenja evidencije“ – suprotno ZUP cl. 211
+- Sanja Radak De Jongx (09.08.2023): „ne postoji obaveza vođenja evidencije“ – suprotno ZUP čl. 211
 
 ---
 
 ## VII. SISTEMSKI DOKAZI
 
 ### Prioriteti (dokumentovano)
-1. Budzeti 2021–2025: smanjenje za zdravstvo  
-2. Odluke vlade: prestiz projekti umesto zdravstva  
-3. EU izveštaji: lazno predstavljanje  
+1. Budžeti 2021–2025: smanjenje za zdravstvo  
+2. Odluke vlade: prestiž projekti umesto zdravstva  
+3. EU izveštaji: lažno predstavljanje  
 4. Medijske izjave: negiranje problema
 
 ### Posledice (dokumentovano)
 1. 13 mrtvih u požarima  
-2. 60.000 ljudi na listama cekanja  
-3. Dopisi gerontoloskih centara – potvrda kolapsa  
+2. 60.000 ljudi na listama čekanja  
+3. Dopisi gerontoloških centara – potvrda kolapsa  
 4. EU monitoring – potvrda prevare
 
 ---
 
-## VII.A. PROSIRENA SISTEMSKA ANALIZA – SOCIJALNA ZAŠTITA I STANOVANJE
+## VII.A. PROŠIRENA SISTEMSKA ANALIZA – SOCIJALNA ZAŠTITA I STANOVANJE
 
-Isti obrazac političkog necinjenja i pogresnog usmeravanja sredstava vidljiv je i u socijalnoj zaštiti.
+Isti obrazac političkog nečinjenja i pogrešnog usmeravanja sredstava vidljiv je i u socijalnoj zaštiti.
 
 ### Deinstitutionalizacija – 15 godina bez napretka
 - 14.512 osoba u državnim institucijama, 8.617 u privatnim (MDRI-S, HRW)  
-- 33.212 godisnjih prijema u psihijatrijske bolnice – zdravstvo koristi kao zamenu za socijalnu zaštitu  
-- Strategija iz 2011. nije sprovedena; budzeti usmereni na prestiz projekte, ne na zajednicke usluge
+- 33.212 godišnjih prijema u psihijatrijske bolnice – zdravstvo koristi kao zamenu za socijalnu zaštitu  
+- Strategija iz 2011. nije sprovedena; budžeti usmereni na prestiž projekte, ne na zajedničke usluge
 
 ### Socijalno stanovanje – Zemun Polje
-- A11 (avgust 2025): 600+ stanovnika, 60+ bez struje, dugovi >3,5 miliona RSD po domacinstvu, pretnja prinudnih iseljenja  
-- Subvencija 30% samo uz placanje racuna u celosti – nemoguce za korisnike pomoći
+- A11 (avgust 2025): 600+ stanovnika, 60+ bez struje, dugovi >3,5 miliona RSD po domaćinstvu, pretnja prinudnih iseljenja  
+- Subvencija 30% samo uz plaćanje računa u celosti – nemoguće za korisnike pomoći
 
 ### Algoritamska diskriminacija – „Socijalna karta“
 - Uvedena 1. marta 2022.  
 - Amnesty International (decembar 2023): oko 60.000 ljudi izgubilo pravo; broj korisnika pao sa 211.000 na 176.000 za 10 meseci  
-- Privremena porodicna pomoć tretirana kao prihod; Romi i osobe sa invaliditetom posebno pogodeni
+- Privremena porodična pomoć tretirana kao prihod; Romi i osobe sa invaliditetom posebno pogođeni
 
 ### Uloga imuniteta
-- Parlamentarni imuniteti stite donosioce odluka (Brnabić, Mali, Lončar, Grujičić) od odgovornosti  
-- Bez ukidanja imuniteta, nema posledica; politika se nastavlja uprkos dokazanoj steti
+- Parlamentarni imuniteti štite donosioce odluka (Brnabić, Mali, Lončar, Grujičić) od odgovornosti  
+- Bez ukidanja imuniteta, nema posledica; politika se nastavlja uprkos dokazanoj šteti
 
-**Izvori:** MDRI-S, Disability Rights International, Balkan Insight (25. avgust 2025), A11 Initiative (27. avgust 2025), Amnesty International (decembar 2023), HRW, vladini podaci i prilozeni screenshot dokazi.
+**Izvori:** MDRI-S, Disability Rights International, Balkan Insight (25. avgust 2025), A11 Initiative (27. avgust 2025), Amnesty International (decembar 2023), HRW, vladini podaci i priloženi screenshot dokazi.
 
 ---
 
 ## VIII. SVEDOCI
 
 ### Institucionalni
-- Dr Mihailo Jovanovic – stanje sistema digitalizacije  
-- EU Delegation – lazno izvestavanje  
+- Dr Mihailo Jovanović – stanje sistema digitalizacije  
+- EU Delegation – lažno izveštavanje  
 - WHO predstavnici – ignorisana upozorenja  
 - Sanja Radak De Jongx (RFZO) – izjava o nepostojanju evidencije odbijenih
 
 ### Medicinski
-- Prof. dr Lazar Popovic – borba za pacijente  
-- Dr Vladimir Suvajač – privatizacija lecenja  
-- Dragana Jevremovic – RFZO procedure
+- Prof. dr Lazar Popović – analiza sistemskih propusta  
+- Dr Vladimir Suvajac – privatizacija lečenja  
+- Dragana Jevremović – RFZO procedure
 
 ### Žrtve
 - Porodice 13 poginulih  
-- 60.000 ljudi na listama cekanja  
-- Podnosilac (tri smrtna slucaja u porodici)
+- 60.000 ljudi na listama čekanja
 
 ---
 
 ## IX. MEĐUNARODNI PRITISAK
 
-### EU moze
+### EU može
 - Suspendovati IPA fondove  
 - Blokirati Poglavlje 28  
 - Javno osuditi i zahtevati odgovornost
 
-### WHO moze
-- Objaviti kritican izveštaj  
+### WHO može
+- Objaviti kritičan izveštaj  
 - Poslati urgentnu misiju  
-- Aktivirati medunarodnu pomoć
+- Aktivirati međunarodnu pomoć
 
 ### Savet Evrope
 - Pitanja ljudskih prava i pravo na zdravlje  
@@ -237,13 +219,13 @@ Isti obrazac političkog necinjenja i pogresnog usmeravanja sredstava vidljiv je
 ## X. ZAHTEVI
 
 ### Od tužilaštva
-1. Utvrditi politicku odgovornost za odluke 2021–2025  
+1. Utvrditi političku odgovornost za odluke 2021–2025  
 2. Ispitati sve ministre i premijere iz navedenog perioda  
 3. Dokumentovati vezu odluka i posledica  
-4. Procesuirati za posledice po živote i materijalnu stetu
+4. Procesuirati za posledice po živote i materijalnu štetu
 
 ### Od EU/međunarodnih tela
-1. Suspendovati fondove do utvrdjivanja odgovornosti  
+1. Suspendovati fondove do utvrđivanja odgovornosti  
 2. Zahtevati nezavisnu istragu  
 3. Objaviti nalaze  
 4. Usloviti dalju pomoć stvarnim reformama
@@ -252,24 +234,24 @@ Isti obrazac političkog necinjenja i pogresnog usmeravanja sredstava vidljiv je
 
 ## XI. POSEBAN FOKUS – KOMPARACIJA
 
-**Hrvatska (slični resursi):** liste cekanja do 6 meseci; digitalizacija 75%; EU fondovi iskoriscenost 85%.  
-**Srbija:** liste cekanja 2–5 godina; digitalizacija 0% uprkos 30M EUR; EU fondovi nestali.
+**Hrvatska (slični resursi):** liste čekanja do 6 meseci; digitalizacija 75%; EU fondovi iskorišćenost 85%.  
+**Srbija:** liste čekanja 2–5 godina; digitalizacija 0% uprkos 30M EUR; EU fondovi nestali.
 
-**Zaključak:** problem nije u resursima vec u političkoj volji i nepostovanju zakona.
+**Zaključak:** problem nije u resursima već u političkoj volji i nepoštovanju zakona.
 
 ---
 
 ## ZAKLJUČAK
 
 - **13 mrtvih** – posledica političkih prioriteta  
-- **60.000 ljudi invalidizovano** – posledica budzeta i zabrane zaposljavanja  
-- **Kolaps sistema** – posledica svesnih odluka o „stednji“
+- **60.000 ljudi invalidizovano** – posledica budžeta i zabrane zapošljavanja  
+- **Kolaps sistema** – posledica svesnih odluka o „šteđnji“
 
 Dok se grade fontane i stadioni, ljudi gore u domovima i umiru na listama. Politička odgovornost je obaveza.
 
-**Svaki dan bez akcije znaci nove žrtve.**
+**Svaki dan bez akcije znači nove žrtve.**
 
-**Podnosilac:** [Podaci dostupni tuzilastvu]  
-**Datum:** Novembar 2025  
+**Podnosilac:** [Podaci dostupni tužilaštvu]  
+**Datum:** novembar 2025  
 **Prilozi:** Kompletna dokumentacija  
 **Kopija:** EU Komisija, OLAF, WHO Europa, Savet Evrope, mediji

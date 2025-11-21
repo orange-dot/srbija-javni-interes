@@ -498,7 +498,7 @@ This manifest documents all 36 screenshots collected online to support the four 
 **Files for Direct Reference:**
 - PRILOG_LEGAL_APPENDIX_EVIDENCE.md (legal citations)
 - INDEKS_DOKAZA_KROSREFERENCE_PRIJAVE.md (evidence index)
-- INTEGRATION_SUMMARY_BRNABC_LONCAR_MALI.md (connection summary)
+- INTEGRATION_SUMMARY_BRNABIC_LONCAR_MALI.md (connection summary)
 - EVIDENCE_COLLECTION_BRNABIC_LONCAR_MALI.md (comprehensive evidence)
 
 ---
