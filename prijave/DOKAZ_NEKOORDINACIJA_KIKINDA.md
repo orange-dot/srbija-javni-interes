@@ -54,10 +54,10 @@ Iz mejla od 20.11.2025:
 > "Gerontoloski centar Kikinda nije u mogućnosti da pribavi neophodnu dokumentaciju po službenoj dužnosti, obzirom da nemamo pristup e-upravи."
 
 **Konkretno:**
-> "neophodno je i fotokopija lične karte korisnika, uverenje o državljanstvu, zdravstvena dokumentacija (prepisana terapija korisnika, tačne vrijeme davanja insulina, itd...)"
+> "neophodno je i fotokopija lične karte korisnika, uverenje o državljanstvu, zdravstvena dokumentacija (prepisana terapija korisnika, tačno vrijeme davanja insulina, itd...)"
 
 **Rešenja koja nude:**
-> "služba ПУK voljno da pomogne i da Zahtev za pružanje usluga i saglasnost pošalje putem poste kako bi imenovani mogao da popuni neophodnu papirologiju i istu vrati poštom"
+> "služba PUK voljno da pomogne i da Zahtev za pružanje usluga i saglasnost pošalje putem poste kako bi imenovani mogao da popuni neophodnu papirologiju i istu vrati poštom"
 
 ---
 
@@ -77,8 +77,8 @@ Iz mejla Bojana:
 ## DIREKTNI CITATI — NEMA PRISTUPA E-UPRAVИ
 
 **Iz mejla GC (20.11.2025):**
-1. "nemamo pristup е-upravи"
-2. "Nije u mogućnosti da pribavi dokumentaciju po službenoj dužnosti, obzirom da nemamo pristup е-upravи"
+1. "nemamo pristup e-upravи"
+2. "Nije u mogućnosti da pribavi dokumentaciju po službenoj dužnosti, obzirom da nemamo pristup e-upravи"
 
 **Dokumentacija koju GC ne može pribaviti:**
 - Izvod iz matične knjige (MUP)
@@ -93,7 +93,7 @@ Iz mejla Bojana:
 ### Dom zdravlja — Zdravstvena dokumentacija
 
 **Bojan je tražio od Dom zdravlja:**
-> "detaljnu kompleтnu, tačnu i ažuriranu listu terапije za pacijenta... tačne doza‌je i tačno vrijeme dava‌nja"
+> "detaljnu kompletnu, tačnu i ažuriranu listu terapije za pacijenta... tačne doze i tačno vrijeme davanja"
 
 Bojan je to tražio jer je pokrenuo procedure pred CSR i pokušava da vidi ko je odgovoran za šta. Nijedna od institucija nije znala tačne terapije.
 
@@ -210,7 +210,7 @@ Tvrdnja "nismo ništa tražili" je u neusklađnosti sa činjenicom da je spis pa
 ### 3. Nema IT Integracije — Katastrofa
 
 Gerontološki centar Kikinda:
-- **Nema pristupa e-upravі** (što znači nema pristupa javnim bazama podataka)
+- **Nema pristupa e-upravи** (što znači nema pristupa javnim bazama podataka)
 - Ne može da pribavi: izvode iz matične knjige, podatke o penziji, uverenja o državljanstvu, zdravstvenu dokumentaciju
 - Rešenje: sve se šalje poštom, pacijent čeka mesece
 
