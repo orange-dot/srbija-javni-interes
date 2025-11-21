@@ -10,26 +10,26 @@
 
 ## I. IZVRSNI REZIME
 
-Prilog dokumentuje kako su pojedini funkcioneri EU propustili duznost nadzora ili aktivno ublazavali nalaze, omogucavajuci zloupotrebu preko 450 miliona evra EU fondova u Srbiji.
+Prilog dokumentuje kako su pojedini funkcioneri EU propustili dužnost nadzora ili aktivno ublažavali nalaze, omogućavajući zloupotrebu preko 450 miliona EUR EU fondova u Srbiji.
 
 ### Ključni primeri
-1. **Oliv�r V�rhelyi** – sistematsko ublazavanje izveštaja (2019–2024)  
-2. **Vladimir Bilcik** – pokusaj uklanjanja kritika o Telekom Srbija  
-3. **Michael Davenport i Sem Fabrizi** – „konstruktivna dvosmislenost“ u reagovanju  
-4. **Evropski revizorski sud** – potvrdio neucinkovitost EU nadzora
+1. **Oliver Varhelyi** – sistematsko ublažavanje izveštaja (2019–2024)
+2. **Vladimir Bilcik** – pokušaj uklanjanja kritika o Telekom Srbija
+3. **Michael Davenport i Sem Fabrizi** – „konstruktivna dvosmislenost" u reagovanju
+4. **Evropski revizorski sud** – potvrdio neučinkovitost EU nadzora
 
 ---
 
 ## II. MANIPULACIJA IZVEŠTAJA – DOKAZI
 
-### A. Mehanizam Oliv�ra V�rhelyija (2019–2024)
+### A. Mehanizam Olivera Varhelyija (2019–2024)
 
-| Polje | Nalaz DG NEAR (draft) | Intervencija kabineta | Konacni izveštaj |
+| Polje | Nalaz DG NEAR (draft) | Intervencija kabineta | Konačni izveštaj |
 |-------|-----------------------|-----------------------|------------------|
-| Vladavina prava | „ozbiljno nazadovanje“ | brisanje izraza „nazadovanje“ | „ograniceni napredak“ |
-| Korupcija u zdravstvu | „sistemska korupcija“ | uklanjanje sistemskih referenci | „potrebne reforme“ |
-| EU fondovi | „sumnjiva potrosnja“ | fokus na tehnicke detalje | „administrativni izazovi“ |
-| IPA III monitoring | „ozbiljni propusti“ | minimiziranje kritike | „pojačao kapacitete“ |
+| Vladavina prava | „ozbiljno nazadovanje" | brisanje izraza „nazadovanje" | „ograničeni napredak" |
+| Korupcija u zdravstvu | „sistemska korupcija" | uklanjanje sistemskih referenci | „potrebne reforme" |
+| EU fondovi | „sumnjiva potrošnja" | fokus na tehničke detalje | „administrativni izazovi" |
+| IPA III monitoring | „ozbiljni propusti" | minimiziranje kritike | „pojačao kapacitete" |
 
 **Dokazi:** Politico istraživanje; interni mejlovi DG NEAR; zahtev EP za istragu (januar 2023). Primer: u nacrtu je stajalo „ozbiljne sumnje u nabavku medicinske opreme tokom COVID-19“, u finalu samo „potrebno unaprediti transparentnost javnih nabavki“.
 
@@ -44,11 +44,11 @@ Rezultat: nakon medijskog pritiska kriticke formulacije vracene.
 
 ## III. FINANSIJSKA STETA
 
-| Period | EU funkcioner | Neistrazeni dogadaj | Finansijska steta |
+| Period | EU funkcioner | Neistraživani događaj | Finansijska šteta |
 |--------|---------------|---------------------|------------------|
 | 2020–2021 | Sem Fabrizi | Respiratorska afera | 8,9M EUR |
-| 2021–2023 | O. V�rhelyi | Fantomske IT firme | 18M EUR |
-| 2019–2024 | O. V�rhelyi | IPA III sistemska zloupotreba | 85M+ EUR |
+| 2021–2023 | O. Varhelyi | Fantomske IT firme | 18M EUR |
+| 2019–2024 | O. Varhelyi | IPA III sistemska zloupotreba | 85M+ EUR |
 | 2023 | V. Bilcik | Telekom i državni resursi | 20M EUR (procena) |
 | **UKUPNO** | | | **131,9M+ EUR** |
 
@@ -57,21 +57,21 @@ Rezultat: nakon medijskog pritiska kriticke formulacije vracene.
 ## IV. PRAVNA ODGOVORNOST EU FUNKCIONERA
 
 ### Prema EU pravu
-- Krsenje Kodeksa ponasanja clanova Komisije (nezavisnost, objektivnost, transparentnost).  
-- Direktiva 2017/1371 (PIF): saucesnistvo kroz necinjenje u zaštiti finansijskih interesa EU.  
-- Regulacija 2021/1529 (IPA III): obaveza striktne kontrole fondova, propust predstavlja prekrsaj.
+- Kršenje Kodeksa ponašanja članova Komisije (nezavisnost, objektivnost, transparentnost).
+- Direktiva 2017/1371 (PIF): sučesništvo kroz nečinjenje u zaštiti finansijskih interesa EU.
+- Regulacija 2021/1529 (IPA III): obaveza striktne kontrole fondova, propust predstavlja prekršaj.
 
 ### Prema međunarodnom pravu
-- UN Konvencija protiv korupcije, clan 28 – znanje i omogucavanje kaznjivo; postojala je svest o rizicima, ali nije reagovano.
+- UN Konvencija protiv korupcije, članu 28 – znanje i omogućavanje kaznjivo; postojala je svest o rizicima, ali nije reagovano.
 
 ---
 
-## V. TIMELINE PRIKRIVANJA
+## V. SLED PRIKRIVANJA
 
 ```
 2016: Savamala – blag odgovor EU, signal neka se nastavi
-2020: COVID respiratori (8,9M) – „pracenje situacije“, bez OLAF istrage
-2021–2023: Varhelyi era – ublazeni izveštaji, dodatni gubici 85M+
+2020: COVID respiratori (8,9M) – „praćenje situacije", bez OLAF istrage
+2021–2023: Varhelyi era – ublaženi izveštaji, dodatni gubici 85M+
 2024: Novi Sad tragedija (16 mrtvih) – EU reaguje tek posle velikog incidenta
 ```
 
@@ -92,16 +92,16 @@ Rezultat: nakon medijskog pritiska kriticke formulacije vracene.
 ## VII. ZAHTEVI ZA OLAF I EPPO
 
 ### Hitna istraga funkcionera
-- Ispitati Oliv�ra V�rhelyija, Vladimira Bilcika i Sema Fabrizija (period 2019–2024) zbog manipulacije izveštaja i propusta nadzora.
+- Ispitati Olivera Varhelyija, Vladimira Bilcika i Sema Fabrizija (period 2019–2024) zbog manipulacije izveštaja i propusta nadzora.
 
-### Forenzicka analiza dokumenata
-- Uporediti DG NEAR nacrte, izmene kabineta i konacne verzije izveštaja; utvrditi sistematsko ublazavanje.
+### Forenzička analiza dokumenata
+- Uporediti DG NEAR nacrte, izmene kabineta i konačne verzije izveštaja; utvrditi sistematsko ublažavanje.
 
 ### Finansijska odgovornost
-- Lična odgovornost za najmanje 131,9M EUR stete, disciplinske mere, moguci krivični postupci za saucesnistvo.
+- Lična odgovornost za najmanje 131,9M EUR štete, disciplinske mere, mogući krivični postupci za sučesništvo.
 
 ### Sistemske reforme
-- Nezavisni monitoring bez političkog uticaja, direktan OLAF nadzor nad IPA fondovima, zaštita zvizdaca u DG NEAR.
+- Nezavisni monitoring bez političkog uticaja, direktan OLAF nadzor nad IPA fondovima, zaštita zviždača u DG NEAR.
 
 ---
 

@@ -9,7 +9,7 @@
 
 ## SEKCIJA I: OSNOVNA STRUKTURA DOKAZA
 
-Prilog sadrzi bibliografske reference, direktne citate i pravne ocene izvora koriscenih u istrazi povezanosti Brnabić–Lončar–Mali.
+Prilog sadrži bibliografske reference, direktne citate i pravne ocene izvora korišćenih u istrazi povezanosti Brnabić–Lončar–Mali.
 
 ---
 
@@ -19,7 +19,7 @@ Prilog sadrzi bibliografske reference, direktne citate i pravne ocene izvora kor
 - Naslov: Trapped by Automation: Poverty and discrimination in Serbia's welfare state  
 - Izdavac: Amnesty International  
 - Datum publikacije: 4. decembar 2023  
-- Tip: međunarodni istrazivacki izveštaj  
+- Tip: međunarodni istraživački izveštaj  
 - URL: https://www.amnesty.org/en/latest/research/2023/12/trapped-by-automation-poverty-and-discrimination-in-serbias-welfare-state/  
 - Jezik: engleski  
 - Dužina: 40+ strana
@@ -28,13 +28,13 @@ Prilog sadrzi bibliografske reference, direktne citate i pravne ocene izvora kor
 1. Implementacija „Socijalne karte“ (mart 2022) isključila 27.000–35.000 ljudi iz sistema socijalne zaštite.  
 2. Algoritamska diskriminacija posebno pogodila Rome i osobe sa invaliditetom.  
 3. Sistem finansirala Svetska banka sa 82,6 miliona evra.  
-4. Nema transparentnosti kriterijuma, nejasan proces zalbe.
+4. Nema transparentnosti kriterijuma, nejasan proces žalbe.
 
-**Primeri algoritamskih gresaka**  
-- Nasledena imovina tretirana kao dohodak.  
-- Pomoć za sahranu tretirana kao redovan prihod.  
-- Vozila odavno prodata vodjena kao aktivna imovina.  
-- Nije moguce dobiti kopiju izveštaja koji je osnov za odbijanje.
+**Primeri algoritamskih grešaka**
+- Nasleđena imovina tretirana kao dohodak.
+- Pomoć za sahranu tretirana kao redovan prihod.
+- Vozila odavno prodata vođena kao aktivna imovina.
+- Nije moguće dobiti kopiju izveštaja koji je osnov za odbijanje.
 
 **Direktni citati**  
 Za PRIJAVA_I (Sekcija IV.A.1):  
@@ -56,13 +56,13 @@ Za PRIJAVA_IV (Sekcija 4.A.1):
 - Naslov: Serbia: Skeletons in the Closet - How Did the Health Minister get an Apartment  
 - Izdavac: OCCRP / KRIK  
 - Datum: 21. februar 2016  
-- Tip: istrazivacko novinarstvo  
+- Tip: istraživačko novinarstvo  
 - URL: https://www.occrp.org/en/investigation/serbia-skeletons-in-the-closet-how-did-the-health-minister-get-an-apartment
 
 **Ključni nalazi**  
-1. Dr Zlatibor Lončar je 2002. navodno dao smrtonosnu injekciju Veselinu Bozovicu.  
-2. Deset dana nakon toga primio stan od Jelene Kalinic (zene Sretka Kalinica).  
-3. Clanovi Zemun klana svedocili o njegovom prisustvu na sastancima.  
+1. Dr Zlatibor Lončar je 2002. navodno dao smrtonosnu injekciju Veselinu Bozovicu.
+2. Deset dana nakon toga primio stan od Jelene Kalinić (žene Sretka Kalinica).
+3. Članovi Zemun klana svedočili o njegovom prisustvu na sastancima.
 4. Uprkos navodima, Lončar postao ministar zdravlja.
 
 **Direktni citati**  
@@ -87,10 +87,10 @@ Za PRIJAVA_III (Sekcija VII.A.4):
 - Datum: 25. avgust 2025  
 - URL: https://balkaninsight.com/2025/08/25/worst-nightmare-serbias-failure-to-deinstitutionalise-people-with-disabilities/
 
-**Ključni nalazi**  
-1. 14.512 osoba u državnim i 8.617 u privatnim institucijama uprkos strategiji deinstitucionalizacije.  
-2. Samo 27 osoba koristi usluge zajednice; 4 od 145 opstina imaju podrzano stanovanje.  
-3. Vlada priznaje da 40% institucijskih korisnika moze ziveti uz podrsku, ali implementacija stoji.
+**Ključni nalazi**
+1. 14.512 osoba u državnim i 8.617 u privatnim institucijama uprkos strategiji deinstitucionalizacije.
+2. Samo 27 osoba koristi usluge zajednice; 4 od 145 opština imaju podržano stanovanje.
+3. Vlada priznaje da 40% institucijskih korisnika može živeti uz podršku, ali implementacija stoji.
 
 **Direktni citati**  
 Za PRIJAVA_I (Sekcija IV.A.3):  
@@ -108,22 +108,22 @@ Za PRIJAVA_IV (Sekcija 4.A.1):
 
 ### DOKAZ 4: COVID-19 Crisis Staff Coordination
 
-**Bibliografska referenca**  
-- Naslov: COVID-19 Crisis Staff Appointment and Coordination  
-- Izvor: Vladina saopstenja / WHO Europa  
-- Datum: mart 2020  
-- Tip: zvanicni dokumenti
+**Bibliografska referenca**
+- Naslov: COVID-19 Crisis Staff Appointment and Coordination
+- Izvor: Vladina saopštenja / WHO Europa
+- Datum: mart 2020
+- Tip: zvanični dokumenti
 
-**Ključni nalazi**  
-1. Ana Brnabić – glava kriznog staba za zdravlje.  
-2. Sinisa Mali – koordinator ekonomskih posledica pandemije.  
-3. Zlatibor Lončar – zamenik u kriznom stabu.  
-4. Strateska koordinacija trojke tokom krize.
+**Ključni nalazi**
+1. Ana Brnabić – glava kriznog staba za zdravlje.
+2. Siniša Mali – koordinator ekonomskih posledica pandemije.
+3. Zlatibor Lončar – zamenik u kriznom stabu.
+4. Strateška koordinacija trojke tokom krize.
 
 **Direktni citat** (za PRIJAVA_I, Sekcija IV.A – koordinacija):  
 > „Prime Minister Ana Brnabić was appointed head of the Health Crisis Committee, Minister Sinisa Mali coordinated economic consequences, and Minister Zlatibor Lončar served as deputy in the Crisis Staff.“ (Government Announcement, March 2020)
 
-**Pravna valjanost:** vrlo visoka – zvanicni izvori, WHO potvrdio koordinaciju.
+**Pravna valjanost:** vrlo visoka – zvanični izvori, WHO potvrdio koordinaciju.
 
 ---
 
@@ -135,9 +135,9 @@ Za PRIJAVA_IV (Sekcija 4.A.1):
 - Period: 2021–2025  
 - URL: https://enlargement.ec.europa.eu/funding-and-technical-assistance/ipa_en
 
-**Ključni nalazi**  
-1. 11,7 milijardi EUR (IPA II) ukupno, 3,6 milijardi u grantovima za Srbiju.  
-2. Ministarstvo finansija (Sinisa Mali) upravlja fondovima kroz National Fund.  
+**Ključni nalazi**
+1. 11,7 milijardi EUR (IPA II) ukupno, 3,6 milijardi u grantovima za Srbiju.
+2. Ministarstvo finansija (Siniša Mali) upravlja fondovima kroz National Fund.
 3. Zdravstveni i socijalni sektori uključeni u alokacije; dostupno preko 450M EUR.
 
 **Direktni citat** (za PRIJAVA_IV, Sekcija 4.A.2):  
@@ -149,15 +149,15 @@ Za PRIJAVA_IV (Sekcija 4.A.1):
 
 ### DOKAZ 6: Social Card Implementation Documentation
 
-**Bibliografska referenca**  
-- Naslov: Social Card (Sistemska kartica) Implementation  
-- Izvor: Sluzbeni glasnik; podnesci Ustavnom sudu  
+**Bibliografska referenca**
+- Naslov: Social Card (Sistemska kartica) Implementation
+- Izvor: Službeni glasnik; podnesci Ustavnom sudu
 - Datum: 1. mart 2022
 
-**Ključni nalazi**  
-1. Vlada Ane Brnabić uvela sistem; Ministarstvo finansija odobrilo budzet.  
-2. 35.000 osoba isključeno u 10 meseci (podaci AI/Amnesty).  
-3. Nema zaštite za ranjive grupe; obavestavanje korisnika nedovoljno.
+**Ključni nalazi**
+1. Vlada Ane Brnabić uvela sistem; Ministarstvo finansija odobrilo budžet.
+2. 35.000 osoba isključeno u 10 meseci (podaci AI/Amnesty).
+3. Nema zaštite za ranjive grupe; obaveštavanje korisnika nedovoljno.
 
 **Direktni citat** (za PRIJAVA_I, Sekcija IV.A – koordinacija):  
 > „The Social Card system was implemented on March 1, 2022… Within 10 months, the system had resulted in the exclusion of 35,000 people from social assistance.“ (Government Gazette, 2022)
@@ -176,7 +176,7 @@ https://www.amnesty.org/en/latest/research/2023/12/trapped-by-automation-poverty
 and-discrimination-in-serbias-welfare-state/
 ```
 
-**Format 2 – Numerisana bibliografija (zaključučak prijave)**
+**Format 2 – Numerisana bibliografija (zaključak prijave)**
 ```
 [1] Amnesty International. (2023, December 4). Trapped by Automation: Poverty
     and discrimination in Serbia's welfare state. Retrieved from
