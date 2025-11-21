@@ -31,7 +31,6 @@ Podnosim krivičnu prijavu zbog političke odgovornosti najviših državnih funk
 
 **Prestiž projekti (luksuz):**
 - Stadion: 368–464 miliona EUR (Nacionalni stadion)
-- Metro: 3,4 milijarde EUR (I faza)
 - EXPO: 1–2 milijarde EUR
 
 **Odnos:** dok 60.000 ljudi čeka operacije, sredstva odlaze na prestiž.

@@ -61,7 +61,7 @@ Podnosim krivičnu prijavu protiv N.N. lica na najvišim državnim funkcijama Re
 
 **Ka prestiž projektima:**
 - Stadion: 368–464 miliona EUR (Nacionalni stadion, investicija gradske i države)
-- Metro i EXPO: više milijardi EUR (Metro I faza: ~3,4 milijarde EUR; EXPO: ~1–2 milijarde EUR)
+- EXPO: 1–2 milijarde EUR
 
 ### B. EU fondovi – dodatni izvor odlivanja
 
