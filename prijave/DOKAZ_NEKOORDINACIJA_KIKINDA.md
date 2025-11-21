@@ -189,14 +189,17 @@ Nataša Čubrilo (Rukovodilac službe) je:
 
 Rezultat: Bojan — rodbina pacijenta — prisiljen da obustavlja svoj posao i skuplja dokumente koje institucije trebale biti prikupile po službenoj dužnosti.
 
-### 2. Direktna Laž
+### 2. Kontradikcija u Tvrdnjama
 
 Mirna Nakrajkućin je pisala:
 > "Centar za socijalni rad Kikinda nije zatražio od srodnika (...) ni jedan dokument"
 
-Istovremeno, Nataša (sa kojom je Mirna bila na zajedničkoj terenske posete) je telefonom tražila iste dokumente.
+**Činjenica:**
+Mirna je sama bila na terenske posete 13.11.2025 gde je — zajedno sa Natašom — ostavljan papir sa spisom dokumenata koji trebaju.
 
-Mirna je znala šta se desilo. Ipak je napisala da nisu ništa tražili.
+Papir sa zahtevima za dokumente = zahtev za dokumente.
+
+Tvrdnja "nismo ništa tražili" je u neusklađnosti sa činjenicom da je spis papira ostavljen.
 
 ### 3. Nema IT Integracije — Katastrofa
 
