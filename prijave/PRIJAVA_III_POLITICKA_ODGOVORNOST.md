@@ -68,10 +68,10 @@ Podnosim krivičnu prijavu zbog političke odgovornosti najviših državnih funk
 - 2024: „8 urgentnih centara operativno“  
 - 2025: „85% ciljeva dostignuto“
 
-**Šta pokazuju dokazi:**  
-- Digitalizacija 0% (dopisi gerontoloških centara)  
-- Urgentni centri 0–2 (EU monitoring)  
-- Stvarni rezultati <15%
+**Šta pokazuju dokazi:**
+- Digitalizacija nema u Kikinidi (dopisi gerontoloških centara)
+- Urgentni centri 2 od 8 (EU monitoring)
+- Stvarni rezultati ispod očekivanog
 
 ### Reakcije EU institucija
 

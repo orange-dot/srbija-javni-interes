@@ -48,10 +48,10 @@ Podnosim krivičnu prijavu protiv organizovane kriminalne grupe koja deluje na n
 
 ## II. KONKRETNI KRIMINALNI PODUHVATI
 
-### A. Operacija „Digitalizacija“ (30 miliona EUR)
-- Učesnici: Ministarstvo zdravlja, Health Tech Solutions (8M), Digital Transformation Experts (6M)  
-- Firme osnovane mesec dana pre tendera; vlasnici povezani sa funkcionerima  
-- Rezultat: 30M isplaćeno, 0% digitalizacije; 60.000 ljudi i dalje na papirnim listama
+### A. Operacija „Digitalizacija" (30 miliona EUR)
+- Učesnici: Ministarstvo zdravlja, Health Tech Solutions (8M), Digital Transformation Experts (6M)
+- Firme osnovane mesec dana pre tendera; vlasnici povezani sa funkcionerima
+- Rezultat: 30M isplaćeno, bez rezultata u Kikinidi (potvrđeno dopisom); 60.000 ljudi i dalje na papirnim listama
 
 ### B. Operacija „Urgentni centri" (15 miliona EUR)
 - Učesnici: Ministarstvo zdravlja, fantomski izvođači, dobavljači polovne opreme

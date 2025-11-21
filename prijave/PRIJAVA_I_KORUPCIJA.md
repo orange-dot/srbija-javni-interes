@@ -66,7 +66,7 @@ Podnosim krivičnu prijavu protiv N.N. lica na najvišim državnim funkcijama Re
 ### B. EU fondovi – dodatni izvor odlivanja
 
 **IPA projekti (2021–2025):**
-1. Digitalizacija zdravstva: 30 miliona EUR – 0% realizovano (potvrđeno dopisima gerontoloških centara)
+1. Digitalizacija zdravstva: 30 miliona EUR – nema nikako u Kikinidi (potvrđeno dopisom Gerontološkog centra)
 2. Urgentni centri: 15 miliona EUR – 2 od 8 planiranih funkcionalna (EU monitoring 2024)
 3. Zaštita privatnih domova: 5 miliona EUR – sredstva neispravno korišćena (potvrđeno hapšenjima inspektora)
 

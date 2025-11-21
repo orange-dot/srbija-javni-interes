@@ -78,7 +78,7 @@ Tri kompanije koje se ne nalaze u APR registru navodno su primile EU IPA sredstv
 - Procena za Srbiju: 450M+ EUR (2021–2027) + 165M EUR budzetske podrske  
 
 **Red flags:**
-- Digitalizacija: 30M EUR, rezultat 0% (potvrđeno dopisima institucija)
+- Digitalizacija: 30M EUR, bez rezultata u Kikinidi (potvrđeno dopisom Gerontološkog centra)
 - Urgentni centri: 15M EUR, minimalna realizacija (2 od 8 funkcionalna – EU monitoring 2024)
 - Zaštita domova: 5M EUR, sredstva neispravno korišćena (13 mrtvih u požarima)
 - Respiratori: 8,9M EUR, neisporučeni (BTL Medical Montenegro – BIRN istraživanje)
@@ -94,7 +94,7 @@ Korupcija zahvata zdravstvo, socijalnu zaštitu i stanovanje – pokazuje se sis
 
 | Sektor | EU alokacija | Problem | Rezultat | Žrtve |
 |--------|--------------|---------|----------|-------|
-| Zdravstvo – digitalizacija | 30M | realizacija 0% (potvrđeno) | sistem nemodernizovan | 60.000 na listama |
+| Zdravstvo – digitalizacija | 30M | nema u Kikinidi (potvrđeno dopisom) | sistem nemodernizovan | 60.000 na listama |
 | Zdravstvo – urgentni centri | 15M | 2 od 8 rade (EU monitoring) | odbijeni pacijenti | dodatne smrti |
 | PP zaštita domova | 5M | sredstva neispravno korišćena | 13 mrtvih u požarima (januar 2025) | stariji |
 | Socijalna zaštita – deinstitucionalizacija | 15M (procena) | državne institucije osiromašene → privatne proliferiraju bez kontrole | 8.617 u privatnim institucijama; 13 mrtvih u požarima | osobe sa invaliditetom |
