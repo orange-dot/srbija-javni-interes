@@ -167,10 +167,10 @@ Oba slučaja dokumentuju sistemsku disfunkciju: administrativne prepreke blokira
 ## Dodatne napomene
 
 ### Anonimizacija u dokumentima
-- **Javna verzija:** Ovaj dokument je anonimizovan — pacijenti su označeni kao [Pacijent 1], [Pacijent 2], [Pacijent 3] kako bi se zaštitila privatnost pacijenata i članova porodice.
-- **Verzija za tužilaštvo:** Lični podaci pacijenata (imena, datumi rođenja, tačne adrese) biće dostavljeni tužilaštvu pod znatno strožijom zaštitom i samo nakon što pristojne institucije odobre otkrivanje.
-- **Medicinska dokumentacija:** Sve medicinska dokumentacija će biti dostavljena u kliničkom formatu bez javnog objavljivanja.
-- **Napomena:** [Pacijent 3] je označen sa dva povezana slučaja (oftalmološka intervencija + medicinski propust u hitnom slučaju) jer demonstrira kako ista osoba trpi od više sistemskih institucionalnih neuspjeha.
+- **Javna verzija:** Ovaj dokument je anonimizovan — pacijenti su označeni kao [Pacijent 1], [Pacijent 2], [Pacijent 3] radi zaštite privatnosti.
+- **Za tužilaštvo:** Lični podaci pacijenata (imena, datumi rođenja, adrese) dostavljeni kada tužilaštvo zatražи.
+- **Medicinska dokumentacija:** Dostupna tužilaštvu u potpunom kliničkom formatu.
+- **Napomena:** [Pacijent 3] ima dva povezana slučaja (oftalmološka intervencija + medicinski propust) jer pokazuje kako ista osoba trpi od više institucionalnih neuspjeha.
 
 ### Pravni status slučajeva
 - **Ovi slučajevi nisu bili predmet prethodnih sudskih postupaka;** koriste se kao **neposredni osnov za pokretanje novog postupka**.
@@ -183,5 +183,5 @@ Oba slučaja dokumentuju sistemsku disfunkciju: administrativne prepreke blokira
 - Videti posebno: **DOKAZ_NEKOORDINACIJA_KIKINDA.md** — detaljni sled neusaglašenosti u jednom od slučajeva.
 
 ### Dokazi na raspolaganju
-- Podnosilac je od početka kombinovao **privatnu dokumentaciju** (medicinski zapisi, korespondencija) sa **javnom dokumentacijom** (izveštaji inspektora, odluke RFZO).
-- Sve relevantne dokaze su spreman da prosleđi nadležnim organima i tužilaštvu **bez javnog objavljivanja** kako bi se zaštitila privatnost oštećenih.
+- Podnosilac ima sve **privatne dokaze** (medicinski zapisi, korespondencija, pregledi) i **javne dokaze** (izveštaji inspektora, odluke RFZO).
+- Svi dokazi dostavljeni tužilaštvu - privatni dokazi ostaju privatni, bez javnog objavljivanja.
