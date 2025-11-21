@@ -1,6 +1,6 @@
-# DOKAZ: NEKOORDINACIJA KIKINDA — Timeline i citati
+# DOKAZ: NEKOORDINACIJA KIKINDA — Sled i citati
 
-## PACIJENT: Milan Janjatović
+## Pacijent: Milan Janjatović
 
 - **Prihod:** 158.000 RSD mesečno
 - **Namenska sredstva za negu:** 33.171 RSD (tuđa nega i pomoć — odluka države)
@@ -8,7 +8,7 @@
 
 ---
 
-## Timeline događaja
+## Sled događaja
 
 ### 13. novembar 2025 — Terenska poseta (zajednička)
 
