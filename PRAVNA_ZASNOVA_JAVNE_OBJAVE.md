@@ -176,7 +176,7 @@ MOJI DOKUMENTI (2025):
 #### 4. FORMALNA PRIJAVA JE JAVNO PRAVO
 
 ```
-CINJENICA: Kada podnesesm formalno prijavu tužilaštvu,
+CINJENICA: Kada podnessem formalno prijavu tužilaštvu,
            To je JAVNA akcija
 
 ZAKLJUCAK: Mogu to učiniti:

@@ -181,7 +181,7 @@ Vidi: [`public/`](public/) za sve javno dostupne dokaze
 **Sve u ovoj bazi je dostupno pod [Creative Commons Attribution 4.0 (CC-BY-4.0)](LICENCE)**
 
 To znači:
-- ✅ Slobodno dele deliti, prenositi, prilagođavati
+- ✅ Slobodno deliti, prenositi, prilagođavati
 - ✅ Za bilo koju namenu (javnu, privatnu, komercijalnu)
 - ✅ Bez dozvole
 - ✅ Samo sa navođenjem izvora

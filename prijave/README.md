@@ -13,31 +13,31 @@
 ### GLAVNE KRIVIČNE PRIJAVE (4)
 
 1. **PRIJAVA_I_KORUPCIJA.md**
-   - **Tina:** Sistemska korupcija u zdravstvu i socijalnoj zaštiti
+   - **Tema:** Sistemska korupcija u zdravstvu i socijalnoj zaštiti
    - **Žrtve:** 13 mrtvih (požari), 60.000 bez socijalne zaštite
    - **Adresat:** Viši javni tužilac Beograd
-   - **Duž:** ~45 stranica sa detaljnim dokazima
+   - **Dužina:** ~45 stranica sa detaljnim dokazima
    - **Status:** ✅ Kompletan sa 17 screenshot dokaza
 
 2. **PRIJAVA_II_ORGANIZOVANI_KRIMINAL.md**
-   - **Tina:** Organizovana kriminalna grupa
+   - **Tema:** Organizovana kriminalna grupa
    - **Vrednost:** €50M+ krađa / privatizacija
    - **Adresat:** Tužilac za organizovani kriminal
-   - **Duž:** ~35 stranica
+   - **Dužina:** ~35 stranica
    - **Status:** ✅ Kompletan sa 5 screenshot dokaza
 
 3. **PRIJAVA_III_POLITICKA_ODGOVORNOST.md**
-   - **Tina:** Politička odgovornost zbog imuniteta
+   - **Tema:** Politička odgovornost zbog imuniteta
    - **Odluke:** Koje su dovele do 13 smrti, 60.000 isključenih
    - **Adresat:** Republčko javno tužilaštvo + EU
-   - **Duž:** ~50 stranica
+   - **Dužina:** ~50 stranica
    - **Status:** ✅ Kompletan sa 22 screenshot dokaza
 
 4. **PRIJAVA_IV_EU_FONDOVI_MEDJUNARODNO.md**
-   - **Tina:** EU fondovi i međunarodna dimenzija
+   - **Tema:** EU fondovi i međunarodna dimenzija
    - **Vrednost:** €450M+ (IPA III fondovi)
    - **Adresat:** OLAF + Interpol + EU Komisija
-   - **Duž:** ~40 stranica
+   - **Dužina:** ~40 stranica
    - **Status:** ✅ Kompletan sa 17 screenshot dokaza
 
 ### POMOĆNI DOKUMENTI (6)

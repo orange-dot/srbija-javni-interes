@@ -120,7 +120,7 @@ cd prijava
 # 3. Napravi novu granu
 git checkout -b fix/greska-u-datumu
 
-# 4. Napraviizmene
+# 4. Napravi izmene
 # (Uredi fajlove)
 
 # 5. Commit sa dobrim porukom

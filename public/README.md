@@ -51,7 +51,7 @@ Sve PDF datoteke su zvanični EU dokumenti:
 **Ovi fajlovi su:**
 - ✅ Javno dostupni
 - ✅ Iz javnih izvora (novinari, EU institucije)
-- ✅ Legalni za republikannje
+- ✅ Legalni za republikanstvo
 - ✅ Bez ograničenja korišćenja
 
 **NISU:**
