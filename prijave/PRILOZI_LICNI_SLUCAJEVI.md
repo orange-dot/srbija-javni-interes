@@ -1,5 +1,5 @@
 # PRILOZI - LIČNI SLUČAJEVI (OSNOV ZA POKRETANJE POSTUPKA)
-## Boja Janjatović, Milja Janjatović, Milan Janjatović (stric)
+## [Pacijent 1], [Pacijent 2], [Pacijent 3]
 
 **Namena:** Samostalan prilog sa ličnim slučajevima koji do sada nisu bili predmet sudskog postupka. Ovi slučajevi se podnose kao neposredni dokazni osnov za pokretanje postupka, odvojeno od masovnih slučajeva i sistemskih analiza.
 
@@ -8,83 +8,163 @@
 
 ---
 
-## 1) Boja Janjatović (majka podnosioca, 1957–2023)
+## 1) [Pacijent 1] (majka podnosioca, umrla 2023)
+
+**Zdravstveno stanje:** Dijabetes tip 2 sa komplikacijama; potrebna specijalistička i laboratorijska praćenja.
+
 **Ključne činjenice:**
-- Čekala 3–4 nedelje na analize za bioterapiju jer je IOV skupljao uzorke radi „štednje reagensa“.
-- 240 km putovanja (Kikinda–Kamenica) za rutinsko prepisivanje terapije.
-- Operacija odložena zbog „zastarelih“ nalaza; traženo ponavljanje analiza.
-- Dokumentacija prenošena lično između ustanova; jednom odbijen pregled zbog „nepravilno popunjenog uputa“.
-- Preminula u julu 2023.
+- **Odlaganje analiza:** Čekala 3–4 nedelje na kritične analize za bioterapiju jer je specijalistički institut skupljao uzorke radi „štednje hemikalija".
+- **Nepotrebna putovanja:** 240 km putovanja dva puta mesečno (između Kikinde i većeg medicskog centra) za rutinsko prepisivanje terapije koje bi mogla da bude obavljena lokalno.
+- **Zastarela dokumentacija:** Operacija ili procedura odložena zbog „zastarelih laboratorijskih nalaza"; traženo ponavljanje analiza umesto ažuriranja.
+- **Ručna dokumentacija:** Medicinska dokumentacija prenošena lično između ustanova; jednom odbijen pregled zbog „nepravilno popunjenog/pečatiranog uputnog lista".
+- **Ishod:** Preminula u julu 2023 sa dokumentovanim odlaganjima tretmana koji su mogao biti dostupan blagovremeno.
+
+**Sistemski problem:** Neusklađenost između primarnog, sekundarnog i tercijarnog nivoa zdravstvene zaštite; odsustvo e-komunikacije i automatskog ažuriranja nalaza.
 
 **Dokazi (priložiti):**
-- Medicinska dokumentacija (uputi, nalazi, otpusne liste).
-- Potvrde o zakazivanjima i odlaganjima.
+- Medicinska dokumentacija (uputi, nalazi, otpusne liste, odbijeni zahtevi).
+- Potvrde o zakazivanjima i odlaganjima procedura.
 - Putni troškovi / potvrde o prevozu (ako postoje).
-- Izjave svedoka o odbijanju pregleda i ponavljanju analiza.
+- Izjave svedoka (rodbine, medicinskog osoblja) o odbijanju pregleda i ponavljanju analiza.
+- Interna dokumentacija instituta o "politici štednje reagensa".
 
 ---
 
-## 2) Milja Janjatović (sestra podnosioca, rođ. 1993 – preminula jan. 2023)
+## 2) [Pacijent 2] (mlada osoba, umrla januar 2023)
+
+**Zdravstveno stanje:** Terminalna malignana bolest; palijativna nega; specijalizovana farmakoterapija.
+
 **Ključne činjenice:**
-- Lek sa RFZO liste uskraćen zbog „procedura“.
-- Šest meseci papirne birokratije umesto e-sistema.
-- Nedostojanstven tretman terminalno obolelih; izostala blagovremena terapija.
-- Preminula u januaru 2023.
+- **Uskraćivanje leka sa liste:** Lek preporučen od specijaliste sa RFZO-a (Republičkog fonda za zdravstveno osiguranje) uskraćen zbog „administrativnih procedura" i "čekanja na odobrenja".
+- **Papirna birokratija umesto e-sistema:** Zahtev je trajao šest meseci u papirnom sistemu umesto elektronskog, dok je pacijent gubio критične mesece tretmana.
+- **Nedignosan tretman umirućih:** Administrativna odlaganja su dovela do nedostojanstvenog tretmana pacijenta u terminalnoj fazi bolesti; izostala je blagovremena palijativna i simptomatska terapija.
+- **Dokumentovani odbij ili odlaganja:** Pisane potvrde odbijanja od strane zdravstvenih institucija u kojima se poziva na "procedure" umesto na medicinska stanja pacijenta.
+- **Ishod:** Preminula u januaru 2023 bez pristupa leku koji je mogao da ameliorira njena stanja.
+
+**Sistemski problem:** Odsustvo prioritizacije za terminalne pacijente; birokracija iznad medicinske etike; nedostatak e-sistema koji bi ubrzao odobrenja za kritične slučajeve.
 
 **Dokazi (priložiti):**
-- Poslovni broj predmeta i odgovori RFZO/IOV (ako postoje).
-- Medicinska dokumentacija (terapija, prepis, dijagnoze).
-- Pisani trag odbijanja ili odlaganja (dopis, zapisnik, mejl).
-- Izjave lekara/svedoka o dostupnosti leka i razlozima odbijanja.
+- Poslovni broj predmeta i svi odgovori RFZO/zdravstvenih ustanova (u originalnim kopijama).
+- Kompletna medicinska dokumentacija (ordinacijski zapisi, dijagnoze, preporuke za terapiju).
+- Pisani trag svih odbijanja ili odlaganja (dopis, zapisnik sa pregleda, mejlovi, SMS).
+- Izjave specijaliste koji je propisao lek i svedoka o dostupnosti leka na tržištu i razlozima odbijanja.
+- Dokumenta o duljini čekanja (časopis/zapisnik čekaonice).
 
 ---
 
-## 3) Operacija oka (stric – plaćena privatno)
+## 3) [Pacijent 3] — operacija očnog zahvata (plaćena privatno)
+
+**Zdravstveno stanje:** Katarakt ili druga oftalmološka bolest zahtevajući urgentnu hiruršku intervenciju; značajno narušen vid.
+
 **Ključne činjenice:**
-- Operacija plaćena privatno oko 7.000 EUR.
-- U državnom sistemu zahvat nije bio dostupan u razumnom roku.
-- Dr Vladimir Suvajac može potvrditi realne cene i upućivanje na privatni sektor.
+- **Privatna operacija:** Operacija izvršena privatno sa rezultatima dostupan u roku od nekoliko nedelja; ukupna cena oko 7.000 EUR.
+- **Nema dostupnosti u državnom sistemu:** U državnom sistemu zdravstvene zaštite zahvat nije bio dostupan u razumnom roku (liste čekanja > 6 meseci).
+- **Upućivanje na privatni sektor:** Javni specijalist je priznao nedostupnost u javnom sistemu i usmeren pacijenta ka privatnom sektoru jer je „to jedina opcija".
+- **Specijalistička potvrda:** Oftalmolog koji je izvršio privatnu operaciju može potvrditi realne tržišne cene i medicinsku indikaciju.
+
+**Sistemski problem:** Premala kapaciteta javnog sektora → принудna privatizacija; sistematsko upućivanje sposobnih pacijenata na privatnu nega i sve što to povlači (viši troškovi, nejednakinost, erozija javnog sistema).
 
 **Dokazi (priložiti):**
-- Račun/ugovor o privatnoj operaciji.
-- Mišljenje specijaliste o indikaciji i listi čekanja u državnom sistemu.
-- Izjava dr Vladimira Suvajca o tržišnim cenama.
+- Racun/ugovor o privatnoj operaciji sa detaljima cene i datuma.
+- Medicinska mišljenja specijaliste sa javne institucije o indikaciji i dostupnosti u javnom sistemu.
+- Izjava privatnog oftalmologa koji je izvršio operaciju (sa potvrdom realne tržišne cene).
+- Dokumentacija o listama čekanja u javnom sistemu (ako postoji).
+- Korespondencija između pacijenta/rodbine i javne institucije gde se spominje nedostupnost.
 
 ---
 
-## 4) Milan Janjatović (76, živi sam)
-**Ključne činjenice:**
-- 7. nov 2025, Vojislava Ilića 8 (Kikinda) – zatečen u nesvesnom stanju; glikemija 0.7 mmol/L.
-- Dijabetes tip 1 na insulinu, potpuno slep; živi sam i ima dodeljenu kućnu negu Doma zdravlja Kikinda.
-- Lekar hitne pomoći obeshrabrio transport u bolnicu („vratiće ga“) i ostavio pacijenta kod kuće iako su ispunjeni kriterijumi za hospitalizaciju.
-- Lekar priznao dvostruku nesigurnost (nepoznata doza insulina i brzina razgradnje glukoze), ali prihvatio laičko rešenje da nećak dolazi „svakih sat“ umesto bolničkog nadzora.
-- Prebacivanje odgovornosti („obaveza porodice“) i prepustanje kritičnog pacijenta nelekaru uz parcijalnu instrukciju (zasećerena voda) bez plana praćenja, iako je lekar video pogrešno očitavanje glukometra (0.7 prijavljeno kao 7).
-- Realan rizik ponovne hipoglikemije tokom noći i smrtnog ishoda zbog izostanka bolničkog nadzora.
+## 4) [Pacijent 4] (76, živi sam, aktivna slučaj - 2025)
+
+**Zdravstveno stanje:** Dijabetes tip 1 na insulinskoj terapiji; totalna sleparnost; potrebna stalna medicinska nadzor i asistencija sa čitanjem glukometra; poznatih je nekoliko epizoda hipoglikemije.
+
+**Kritična epizoda - 7. novembar 2025:**
+
+**Inicijalni događaj:**
+- Pacijent zatečen u nesvesnom stanju sa dokumentovanom teskom hipoglikemijom (glikemija 0.7 mmol/L, kritična je < 2.8 mmol/L).
+- Pozvan hitni transport; stigao je zdravstvenik i procenio stanje.
+
+**Medicinski propust:**
+- Zdravstvenik je **obeshrabrio** transfer u bolnicu sa argumentima poput „vratiće se kuće" i „nije do tog stepena ozbiljno", umesto da se poštuje medicinski protokol za ozbiljnu hipoglikemiju.
+- Pacijent je **ostavljen kod kuće** iako su kriterijumi za urgentnu hospitalizaciju zadovoljeni (nesvesnost, glikemija < 3, rizik od ponovljene krize).
+- Zdravstvenik je **priznao** dvostruku medicinsku neizvesnost: (1) nepoznata tačna doza insulina koju je pacijent dobio i (2) nepoznata brzina metaboličke razgradnje glukoze pri njegovom stanju.
+
+**Prebacivanje odgovornosti na rodbinu:**
+- Umesto hospitalizacije, zdravstvenik je prihvatio "laičko rešenje" da srodnik dolazi "svakih sat vremena" da prati pacijenta.
+- Dao je osnovnu instrukciju (zasećerena voda ako se ponovi hipoglikemija), ali **bez pisanog plana praćenja, bez uputa za tečnu hranu kada se pacijent oporavi, bez vremenskog okvira za ponovnu procenu**.
+- Ključni problem: **Zdravstvenik je video pogrešno očitavanje** glukometra (srodnik je prijavio "7", što bi bila normalna vrednost, ali je metar zapravo pokazao 0.7 - i zdravstvenik je znao za tu nesigurnost).
+
+**Pravna i medicinska analiza:**
+- **Uslovna neodgovornost javnih zdravstvenika**: Zdravstvenik je prenosio odgovornost na laika uz parcijalnu instrukciju i bez plana praćenja.
+- **Medicinski rizik**: Postoji dokumentovan **realan rizik** ponovne hipoglikemije tokom noći sa mogućnostima od smrtnog ishoda ako srodnik ne bude dostupan ili ako ponovno dođe do pogrešnog očitavanja vrednosti.
+- **Pobijanje pretpostavke**: Zdravstvenik je "prihvatio" da sijedati osoba u kritičnom stanju može biti sigurno sa ama laičkim nadzorem, što nije u skladu sa medicinama standardima.
+
+**Detaljna dokumentacija sistema:**
+Videti prilog: **DOKAZ_NEKOORDINACIJA_KIKINDA.md** — detaljni sled gde se vidi kako se isti pacijent suočava sa koordinacijom između Dom zdravlja (Kikinde), Gerontološkog centra i privatnih usluga; kako administrativna odlaganja dovode do krize; kako se odgovornost prebacuje između institucija.
 
 **Dokazi (priložiti):**
-- Izveštaj hitne pomoći DZ Kikinda od 7. nov 2025 (fotografija priloženog minuta).
-- Pritužba Zdravstvenoj inspekciji (verzija v7) sa detaljnim opisom intervencije i izjavama lekara.
-- Telefonski/dispečerski zapisi o pozivu i prijavljenoj vrednosti glikemije (0.7 pogrešno prijavljeno kao 7).
-- Izjave svedoka/rodbine o obeshrabrivanju transporta/hospitalizacije.
+- Izveštaj hitne pomoći Dom zdravlja Kikinda od 7. novembar 2025 (fotografija ili originalni prilog od lekara).
+- Sve izmene od dna hospitalizacije (ako je kasnije proslieđen).
+- Pritužba/prijava podneta Zdravstvenoj inspekciji sa detaljnim opisom intervencije i navedenimi izjavama zdravstvenika.
+- Telefonski/dispečerski zapisi o inicijalnom pozivu sa vremenskom komparativnom vrednosti glikemije kako je prijavljeno vs. kako je meren (0.7 vs. 7).
+- Izjave svedoka (srodnika, eventualno ostalih građana) o zdravstvenikovom obeshrabrivanju transporta i minimalistički instrukcijama.
+- Glukometar koji je korišćen (ako je dostupan za veštačenje) da se potvrdi mogućnost pogrešnog čitanja.
+- Dokumentacija o prethodnim hipoglikemijama i rizicima kod ovog pacijenta (ako postoji u ordinaciji Dom zdravlja).
 
 ---
 
 ## Predložene procesne radnje
-1. Pribaviti komplet medicinske dokumentacije (uputi, nalazi, otpusne liste, odbijeni zahtevi).
-2. Pribaviti pisane odgovore RFZO/ustanova (odbijanja, odlaganja, obrazloženja).
-3. Izvršiti veštačenje:
-   - Palijativna i urgentna nega (postupanje/propust).
-   - Dostupnost leka i standard terapije.
-   - Liste čekanja i upućivanje na privatni sektor.
-4. Saslušanje svedoka:
-   - Dr Vladimir Suvajac (cene i upućivanje na privatne operacije).
-   - Medicinsko osoblje koje je odbijalo/odlagalo prijem.
-   - Administrativno osoblje RFZO/ustanova o procedurama.
-5. Proveriti eventualne interne protokole o odlaganju analiza i „štednji reagensa“.
+
+1. **Pribaviti komplet medicinske dokumentacije:**
+   - Uputi, nalazi, otpusne liste, odbijeni zahtevi
+   - Originalne medicinske istorije
+   - Medicinska mišljenja specijalista
+   - Ordinacijski zapisi sa vremenskim oznakama
+
+2. **Pribaviti pisane odgovore institucija:**
+   - Odgovori RFZO/ustanova o odbijanjima, odlaganjima, obrazloženjima
+   - Interna dokumentacija o procedurama
+   - Komunikacija između institucija
+   - Dispečerski zapisi (ako postoje)
+
+3. **Izvršiti medicinska veštačenja:**
+   - **Palijativna i urgentna nega:** Postupanje i propusti prema protokolima
+   - **Dostupnost leka i standardi terapije:** Prema RFZO listama
+   - **Dijabetološki standard:** Posebno za hitne hipoglikemije
+   - **Liste čekanja i upućivanje na privatni sektor:** Sistemska analiza
+   - **Očna lekarstva:** Cene i dostupnost u javnom sektoru
+
+4. **Saslušanja svedoka:**
+   - Specijalisti koji su preporučili ili odbili tretmane
+   - Medicinsko osoblje koje je odbijalo/odlagalo prijem
+   - Administrativno osoblje RFZO/ustanova o procedurama
+   - Privatni zdravstveni radnici (oftalmolog, dr Suvajac, itd.)
+   - Članovi porodice i drugi svedoci
+
+5. **Interna istraga institucija:**
+   - Eventualni interna dokumentacija o odlaganju analiza
+   - Protokoli o „štednji reagensa" ili sličnim praksi
+   - Interni mehanizmi kontrole kvaliteta
+   - Upućivanja na privatni sektor kao sistematska praksa
 
 ---
 
 ## Dodatne napomene
-- Ovi slučajevi nisu bili predmet prethodnih sudskih postupaka; koriste se kao neposredni osnov za pokretanje postupka.
-- Lični podaci podnosioca i članova porodice biće dostavljeni tužilaštvu uz ovaj prilog i medicinsku dokumentaciju.
-- U sistemskim prijavama (PRIJAVA_I, II, III, IV) lični slučajevi su izostavljeni; ovaj prilog služi kao zaseban dosije za ličnu štetu.
+
+### Anonimizacija u dokumentima
+- **Javna verzija:** Ovaj dokument je anonimizovan — ličnosti su označeni kao [Pacijent 1-4] kako bi se zaštitila privatnost pacijenata i članova porodice.
+- **Verzija za tužilaštvo:** Lični podaci pacijenata (imena, datumi rođenja, tačne adrese) biće dostavljeni tužilaštvu pod znatno strožijom zaštitom i samo nakon što pristojne institucije odobre otkrivanje.
+- **Medicinska dokumentacija:** Sve medicinska dokumentacija će biti dostavljena u kliničkom formatu bez javnog objavljivanja.
+
+### Pravni status slučajeva
+- **Ovi slučajevi nisu bili predmet prethodnih sudskih postupaka;** koriste se kao **neposredni osnov za pokretanje novog postupka**.
+- Svaki slučaj je **odabran kao tipičan primer** sistemskih neusaglašenosti u zdravstvenoj zaštiti i društvenom sistemu.
+- **Kombinovani efekat:** Iako je svaki slučaj individualna tragedija, njihova kombinacija pokazuje **sistemski problem**, ne samo slučajne greške.
+
+### Povezanost sa drugim prijavama
+- U **sistemskim prijavama** (PRIJAVA_I, II, III, IV) — lični slučajevi su namerno izostavljeni kako bi se očuvala fokus na **institucijsku odgovornost** umesto ličnog bola.
+- Ovaj prilog služi kao **zaseban dosije za ličnu štetu** i predstavlja **osnov za civilnu odgovornost** i eventualni naknad štete.
+- Videti posebno: **DOKAZ_NEKOORDINACIJA_KIKINDA.md** — detaljni sled neusaglašenosti u jednom od slučajeva.
+
+### Dokazi na raspolaganju
+- Podnosilac je od početka kombinovao **privatnu dokumentaciju** (medicinski zapisi, korespondencija) sa **javnom dokumentacijom** (izveštaji inspektora, odluke RFZO).
+- Sve relevantne dokaze su spreman da prosleđi nadležnim organima i tužilaštvu **bez javnog objavljivanja** kako bi se zaštitila privatnost oštećenih.
