@@ -18,7 +18,7 @@
 - Milan Janjatović (pacijent)
 
 **Izlaz iz posete:**
-- Mirna i Nataša se dogovaraju da će čini negu
+- Mirna i Nataša se dogovaraju da će pružati negu
 - Medic Care (privatna firma) počinje da dolazi dva puta dnevno
 
 ---
@@ -51,13 +51,13 @@ Iz mejla od 20.11.2025:
 
 **GC kaže razlog zašto se negu ne može organizovati:**
 
-> "Gerontoloski centar Kikinda nije u mogućnosti da pribavi neophodno dokumentaciju po službenoj dužnosti, obzirom da nemamo pristup e-upravи."
+> "Gerontoloski centar Kikinda nije u mogućnosti da pribavi neophodnu dokumentaciju po službenoj dužnosti, obzirom da nemamo pristup e-upravи."
 
 **Konkretno:**
 > "neophodno je i fotokopija lične karte korisnika, uverenje o državljanstvu, zdravstvena dokumentacija (prepisana terapija korisnika, tačne vrijeme davanja insulina, itd...)"
 
-**Rešenje koji nude:**
-> "služba ПУK voljno da pomogne i da Zahtev za pružanje usluga i saglasnost pošalje putem poste kako bi imenovani mogao da popuni neophodno papirologiju i istu vrati poštom"
+**Rešenja koja nude:**
+> "služba ПУK voljno da pomogne i da Zahtev za pružanje usluga i saglasnost pošalje putem poste kako bi imenovani mogao da popuni neophodnu papirologiju i istu vrati poštom"
 
 ---
 
@@ -69,8 +69,8 @@ Iz mejla Bojana:
 **Realnost:**
 - Medic Care (privatna firma) dolazi dva puta dnevno
 - Milan ne razume šta je privatno, šta je besplatno
-- Milan odbija da potpisa ugovor sa Gerontološkim centrom
-- Negу koja je besplatna/subsidijana se ne ostvaruje
+- Milan odbija da potpiše ugovor sa Gerontološkim centrom
+- Nega koja je besplatna/subvencionisana se ne ostvaruje
 
 ---
 
@@ -82,7 +82,7 @@ Iz mejla Bojana:
 
 **Dokumentacija koju GC ne može pribaviti:**
 - Izvod iz matične knjige (MUP)
-- Podaci o penziji (RFPLO)
+- Podaci o penziji (RFPIO)
 - Uverenje o državljanstvu (MUP)
 - Zdravstvene dokumente (Dom zdravlja)
 
@@ -124,7 +124,7 @@ Bojan je to tražio jer je pokrenuo procedure pred CSR i pokušava da vidi ko je
 - Telefonski poziva sa zahtevima
 - SMS sa spiskom dokumenata
 
-**Napomena:** Obe su bile na zajedničkoj terenske posete 13.11.2025. Mirna je znala šta se desilo.
+**Napomena:** Obe su bile na zajedničkoj terenuskoj poseti 13.11.2025. Mirna je znala šta se desilo.
 
 ---
 
@@ -149,14 +149,14 @@ Trebalo je da institucije to urade.
 
 Razlozi:
 - Ne razume razlika između Gerontološkog centra i Medic Care
-- Mislim da mu "dolaze državne sestre besplatno"
+- Misli da mu "dolaze državne sestre besplatno"
 - Ne razume zakomplicirane dokumente
 
 **Napomena:** Medic Care nastavlja da pruža negu uprkos Milanovoj odbijanju da plati. Odbijanje je rezultat paranoje i početne demencije, ne racionalne evaluacije situacije.
 
 ---
 
-## INSTITUCIJE — ŠMALO FUNKCIONISANJA
+## INSTITUCIJE — SLABO FUNKCIONISANJA
 
 | Institucija | E-uprava | Papirologija | Brzina | Rezultat |
 |---|---|---|---|---|
@@ -186,7 +186,7 @@ Razlozi:
 
 ## ANALIZA PROBLEMA
 
-### 1. Pritisak na Pacijente
+### 1. Pritisak na pacijente
 
 Nataša Čubrilo (Rukovodilac službe) je:
 - Telefonom zahtevala dokumente sa tonom koji "prelazi profesionalne granice"
@@ -216,9 +216,9 @@ Gerontološki centar Kikinda:
 
 Rezultat: Sistem je tako paralizovan da Milan (koji ima pravo na negu) ne može da je dobije.
 
-### 4. Nekoordinacija Institucija
+### 4. Nekoordinacija institucija
 
-Bojan je tražio da Dom zdravlja dostavi detaljnu terapiju Centru za socijalni rad jer **nikakva od institucija nije znala šta da radi sa terapijom**.
+Bojan je tražio da Dom zdravlja dostavi detaljnu terapiju Centru za socijalni rad jer **nijedna od institucija nije znala šta da radi sa terapijom**.
 
 CSR je odgovorio:
 > "Centar nije nadlezan za tumačenje lekova, precizne doze i tačno vrijeme davanja jer nismo zdravstvena organizacija"
