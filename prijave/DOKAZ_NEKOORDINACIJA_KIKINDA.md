@@ -24,7 +24,7 @@ Prepiska iz novembra 2025. između Bojana Janjatovića i institucija u Kikinidi 
 - "5 minuta" — potpuno zanemarivanje činjenice da pacijent ne može da funkcioniše dok se čeka dokumentacija
 - Telefonski poziv, a ne zvaničan dokument — izbegavanje pisnog traga
 
-### 1.2 SMS Pritisak i Dvostruki Standardi
+### 1.2 SMS Pritisak i Direktna Laž
 
 **Izvod iz mejla:**
 
@@ -32,11 +32,11 @@ Prepiska iz novembra 2025. između Bojana Janjatovića i institucija u Kikinidi 
 >
 > Licemerje: Dok me jedna službenica pritiska telefonom i SMS-om, druga u zvaničnom izveštaju piše "nismo ništa tražili".
 
-**Dokaz dvostrukog standarda:**
-- Nataša Čubrilo (lično): telefonski pozivi, SMS sa zahtevima, optužujući ton
-- Kristina Nemčev (zvanična korespondencija): "Centar za socijalni rad Kik nije zatražio od srodnika (...) ni jedan dokument"
+**Dokaz direktne laži:**
+- Nataša Čubrilo (Rukovodilac službe, GC): telefonski pozivi, SMS sa zahtevima, optužujući ton (20.11.2025)
+- Mirna Nakrajkućin (Voditelj slučaja, CSR): U mejlu od 13.11.-20.11.2025. piše "Centar za socijalni rad Kik nije zatražio od srodnika (...) ni jedan dokument"
 
-Oba iskaza ne mogu biti tačna — jedan je agresivna akcija, drugi je javna laž (negiranje da se tražilo nešto što se aktivno zahtevalo).
+**Problem:** Obe su bile na **zajedničkoj terenske posete 13.11.2025** (prema mejlu Mirne). Ako je Nataša telefonom zahtevala dokumente kao deo te grupe, onda Mirna koja je bila tu sa njom **direktno laže** kada kaže "nismo ništa tražili".
 
 ### 1.3 Licemerje i Sistem "Zajebi Pacijenta"
 
