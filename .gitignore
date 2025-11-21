@@ -1,0 +1,61 @@
+# PRIVATNOST & SIGURNOST
+
+# Samo privatne PDF datoteke (sadrže lične podatke)
+# JAVNE PDFs su u public/evidence/ folder
+*.pdf
+!public/evidence/*.pdf
+
+# Nadzor mapa - originalni dokumenti sa ličnim podacima
+nadzor/
+
+# Arhiva sa starim verzijama
+arhiva_pomoćni_dokumenti/
+
+# Nepubličani pomoćni dokumenti (NIJE na GitHub-u)
+non_public_docs/
+
+# Screenshot mapa (privatne)
+dokazi_screenshots/
+
+# Downloads mapa (privatni)
+downloads/
+
+# PUBLIC FOLDER - uključiti u Git (javno dostupna dokumentacija)
+!public/
+!public/**
+!public/evidence/*.pdf
+!public/screenshots/*.png
+
+# NODE & DEPENDENCIES
+node_modules/
+package-lock.json
+
+# PLAYWRIGHT & TESTING
+.playwright-mcp/
+playwright-utils.js
+verify_urls.js
+verify-documents.js
+playwright.config.js
+global-setup.js
+
+# CONFIG
+tok0org.code-workspace
+.claude/
+
+# TEMP FILES
+nul
+verification_results.json
+url_verification_results.json
+verification_report.md
+
+# BUILD & LOCK FILES
+.DS_Store
+*.log
+*.swp
+*.swo
+*~
+
+# ENVIRONMENT
+.env
+.env.local
+.env.*.local
