@@ -178,4 +178,67 @@ Razlozi:
 
 ---
 
+## ANALIZA PROBLEMA
+
+### 1. Pritisak na Pacijente
+
+Nataša Čubrilo (Rukovodilac službe) je:
+- Telefonom zahtevala dokumente sa tonom koji "prelazi profesionalne granice"
+- Tvrdila da je to "samo 5 minuta" (trivijalizacija potrebe bolesnog čoveka)
+- SMS-om poslala spiske zahteva
+
+Rezultat: Bojan — rodbina pacijenta — prisiljen da obustavlja svoj posao i skuplja dokumente koje institucije trebale biti prikupile po službenoj dužnosti.
+
+### 2. Direktna Laž
+
+Mirna Nakrajkućin je pisala:
+> "Centar za socijalni rad Kikinda nije zatražio od srodnika (...) ni jedan dokument"
+
+Istovremeno, Nataša (sa kojom je Mirna bila na zajedničkoj terenske posete) je telefonom tražila iste dokumente.
+
+Mirna je znala šta se desilo. Ipak je napisala da nisu ništa tražili.
+
+### 3. Nema IT Integracije — Katastrofa
+
+Gerontološki centar Kikinda:
+- **Nema pristupa e-upravі** (što znači nema pristupa javnim bazama podataka)
+- Ne može da pribavi: izvode iz matične knjige, podatke o penziji, uverenja o državljanstvu, zdravstvenu dokumentaciju
+- Rešenje: sve se šalje poštom, pacijent čeka mesece
+
+Rezultat: Sistem je tako paralizovan da Milan (koji ima pravo na negu) ne može da je dobije.
+
+### 4. Nekoordinacija Institucija
+
+- Dom zdravlja se ne razumeva sa Centrom za socijalni rad
+- CSR traži od Dom zdravlja detaljnu terapiju, a Dom zdravlja kaže "to nije naša dužnost"
+- CSR kaže Dom zdravstvu "ne razumemo lekove, vi rešite"
+- Milan je između njih, bez nege
+
+### 5. Privatni Sektor Preuzima Javnu Funkciju
+
+Medic Care (privatna firma):
+- Dolazi dva puta dnevno
+- Bez papirologije
+- Odmah dostupna
+
+Gerontološki centar (javna služba):
+- Čeka papirologiju 5+ meseci
+- Sve po pošti
+- Nema e-upravе
+
+Milan bira Medic Care jer je to jedino što funkcioniše. Javni sistem kreira potrebu za privatizacijom.
+
+### 6. Rezultat Za Pacijenta
+
+Milan Janjatović:
+- Ima 158.000 RSD mesečnog prihoda (od čega 33.171 RSD je namenjena za negu)
+- Medicinski ima potrebu za negom (država je to već utvrdila)
+- **Odbija negu jer je sistem toliko zbunjen da ne razume šta plaća**
+- Mislim da mu dolaze "državne sestre besplatno"
+- Ne razume razliku između Gerontološkog centra i Medic Care
+
+**Rezultat:** Čovek koji ima pravo na negu ne dobija negu.
+
+---
+
 *Izvor: Originalna prepiska, novembar 2025*
