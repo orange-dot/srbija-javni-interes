@@ -12,11 +12,11 @@
 
 ### GLAVNE KRIVIČNE PRIJAVE (4)
 
-1. **PRIJAVA_I_KORUPCIJA.md**  
-   - Tema: sistemska korupcija u zdravstvu i socijalnoj zaštiti  
-   - Žrtve: 13 poginulih u požarima, oko 60.000 bez adekvatne nege  
-   - Adresat: Viši javni tužilac u Beogradu  
-   - Dužina: ~45 strana sa dokazima  
+1. **PRIJAVA_I_KORUPCIJA.md**
+   - Tema: sistemska korupcija u zdravstvu i socijalnoj zaštiti
+   - Dokazi: 13 smrti u požarima domova bez odobrenja, 60.000 građana bez adekvatne nege
+   - Adresat: Viši javni tužilac u Beogradu
+   - Dužina: ~45 strana sa dokazima
    - Status: kompletna, 17 screenshot dokaza
 
 2. **PRIJAVA_II_ORGANIZOVANI_KRIMINAL.md**  
@@ -26,11 +26,11 @@
    - Dužina: ~35 strana  
    - Status: kompletna, 5 screenshot dokaza
 
-3. **PRIJAVA_III_POLITIČKA_ODGOVORNOST.md**  
-   - Tema: politička odgovornost i mehanizmi imuniteta  
-   - Posledice: 13 poginulih, 60.000 ljudi isključenih iz sistema  
-   - Adresat: Republičko javno tužilaštvo + relevantne EU institucije  
-   - Dužina: ~50 strana  
+3. **PRIJAVA_III_POLITIČKA_ODGOVORNOST.md**
+   - Tema: politička odgovornost i mehanizmi imuniteta
+   - Dokazi: 13 smrti u požarima domova bez odobrenja, 60.000 građana isključenih iz sistema
+   - Adresat: Republičko javno tužilaštvo + relevantne EU institucije
+   - Dužina: ~50 strana
    - Status: kompletna, 22 screenshot dokaza
 
 4. **PRIJAVA_IV_EU_FONDOVI_MEĐUNARODNO.md**  
@@ -95,13 +95,13 @@
 ## ORGANIZACIJA SCREENSHOT FOLDERA
 
 ### Batch 1 (8 screenshot-a) – inicijalne istrage
-- KRIK: Mali, 45 bankovnih računa  
-- BIRN: respiratori, 8.9M  
-- Danas/DRI: 871 dan čekanja  
-- Balkan Insight: inspektori požara  
-- CTIF: Barajevo, 8 mrtvih  
-- EU Progress Report 2024  
-- DRI: institucionalna baza  
+- KRIK: Mali, 45 bankovnih računa
+- BIRN: respiratori, 8.9M
+- Danas/DRI: 871 dan čekanja
+- Balkan Insight: inspektori požara
+- CTIF: Barajevo, smrti u požaru domova bez odobrenja
+- EU Progress Report 2024
+- DRI: institucionalna baza
 - Vojka: suđenje za požar
 
 ### Batch 2 (8 screenshot-a) – vlada i institucije

@@ -72,7 +72,7 @@ Rezultat: nakon medijskog pritiska kriticke formulacije vracene.
 2016: Savamala – blag odgovor EU, signal neka se nastavi
 2020: COVID respiratori (8,9M) – „praćenje situacije", bez OLAF istrage
 2021–2023: Varhelyi era – ublaženi izveštaji, dodatni gubici 85M+
-2024: Novi Sad tragedija (16 mrtvih) – EU reaguje tek posle velikog incidenta
+2024: Novi Sad tragedija (16 smrti u požarima domova koji su radili bez odobrenja) – EU reaguje tek posle velikog incidenta
 ```
 
 ---
