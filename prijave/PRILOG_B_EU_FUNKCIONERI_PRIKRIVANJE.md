@@ -1,32 +1,32 @@
 # PRILOG B - ULOGA EU FUNKCIONERA U SISTEMSKOM PRIKRIVANJU KORUPCIJE U SRBIJI
-## Dokazi o manipulaciji izvještaja i toleriranju zloupotrebe EU fondova (2014-2025)
+## Dokazi o manipulaciji izveštaja i toleriranju zloupotrebe EU fondova (2014-2025)
 
 **Datum:** 21. novembar 2025
 **Tip dokumenta:** PRAVNI PRILOG - MEĐUNARODNA DIMENZIJA
-**Namjena:** Dodatak krivičnoj prijavi IV za OLAF i EPPO
+**Namena:** Dodatak krivičnoj prijavi IV za OLAF i EPPO
 **Prioritet:** 🔴 KRITIČNO - DOKAZI O MEĐUNARODNOJ SAUČESNOSTI
 
 ---
 
 ## I. IZVRŠNI REZIME - NOVA DIMENZIJA SLUČAJA
 
-Ovaj prilog dokumentuje kako su visoki funkcioneri EU ne samo propustili da nadziru već su **AKTIVNO UČESTVOVALI** u prikrivanju razmjera korupcije u Srbiji, omogućavajući zloupotrebu preko €450 miliona EU fondova.
+Ovaj prilog dokumentuje kako su visoki funkcioneri EU ne samo propustili da nadziru već su **AKTIVNO UČESTVOVALI** u prikrivanju razmere korupcije u Srbiji, omogućavajući zloupotrebu preko €450 miliona EU fondova.
 
 ### Ključni dokazi:
-1. **Olivér Várhelyi** - Sistematsko ublažavanje izvještaja (2019-2024)
+1. **Olivér Várhelyi** - Sistematsko ublažavanje izveštaja (2019-2024)
 2. **Vladimir Bilčík** - Pokušaj uklanjanja kritika o Telekom Srbija
 3. **Michael Davenport i Sem Fabrizi** - "Konstruktivna dvosmislenost"
 4. **Evropski revizorski sud** - Potvrdio neučinkovitost EU nadzora
 
 ---
 
-## II. SISTEMSKA MANIPULACIJA IZVJEŠTAJA - DOKAZI
+## II. SISTEMSKA MANIPULACIJA IZVEŠTAJA - DOKAZI
 
 ### A. MEHANIZAM OLIVÉRA VÁRHELYIJA (2019-2024)
 
-#### 1. Modus Operandi - "Uljepšavanje" realnosti
+#### 1. Modus Operandi - "Ulepšavanje" realnosti
 
-| Područje | Originalni nalaz DG NEAR | Várhelyijeva intervencija | Konačni izvještaj |
+| Polje | Originalni nalaz DG NEAR | Várhelyijeva intervencija | Konačni izveštaj |
 |----------|-------------------------|--------------------------|------------------|
 | **Vladavina prava** | "Ozbiljno nazadovanje", "Stagnacija" | ❌ Brisanje termina "nazadovanje" | "Ograničeni napredak" |
 | **Korupcija u zdravstvu** | "Sistemska korupcija", "Zarobljene institucije" | ❌ Uklanjanje sistemskih referenci | "Potrebne reforme" |
@@ -38,12 +38,12 @@ Ovaj prilog dokumentuje kako su visoki funkcioneri EU ne samo propustili da nadz
 **Izvori:**
 - Politico investigacija (2021-2023)
 - Interni mejlovi DG NEAR osoblja
-- Europski parlament - zahtjev za istragu (siječanj 2023)
+- Evropski parlament - zahtev za istragu (januar 2023)
 
-**Konkretni primjer - Respiratorska afera:**
+**Konkretni primer - Respiratorska afera:**
 - DG NEAR draft: "Ozbiljne sumnje u nabavku medicinskih sredstava tokom COVID-19"
 - Várhelyi kabinet: "Ukloniti specifične reference, zadržati samo opšte napomene"
-- Finalni tekst: "Potrebno unaprijediti transparentnost javnih nabavki"
+- Finalni tekst: "Potrebno unaprediti transparentnost javnih nabavki"
 
 ### B. VLADIMIR BILČÍK - BRISANJE DOKAZA O TELEKOM SRBIJA
 
@@ -57,7 +57,7 @@ nezavisnih medija, što predstavlja direktnu zloupotrebu
 državnih resursa."
 ```
 
-**Bilčíkov pokušaj izmjene:**
+**Bilčíkov pokušaj izmene:**
 ```
 "Potrebno je osigurati tržišnu konkurenciju u
 telekomunikacionom sektoru."
@@ -76,7 +76,7 @@ telekomunikacionom sektoru."
 | 2020-2021 | Fabrizi | Respiratorska afera | €8.9M |
 | 2021-2023 | Várhelyi | Fantomske IT firme | €18M |
 | 2019-2024 | Várhelyi | IPA III sistemska zloupotreba | €85M+ |
-| 2023 | Bilčík | Telekom medijska kontrola | €20M (procjena) |
+| 2023 | Bilčík | Telekom medijska kontrola | €20M (procena) |
 | **UKUPNO** | | | **€131.9M+** |
 
 ---
@@ -174,7 +174,7 @@ telekomunikacionom sektoru."
 #### D. ZVIŽDAČI I KRITIKE
 9. **S&D grupa - Istraga Várhelyi**
    - URL: `https://www.socialistsanddemocrats.eu/newsroom/investigation-varhelyi`
-   - Cilj: Parlamentarni zahtjev za istragu
+   - Cilj: Parlamentarni zahtev za istragu
 
 10. **Telex.hu - "Idiots" skandal**
     - URL: `https://telex.hu/english/2023/02/23/varhelyi-commissioner-idiots`
@@ -187,7 +187,7 @@ telekomunikacionom sektoru."
 ### 1. HITNA ISTRAGA FUNKCIONERA
 
 **Istraži:**
-- Olivér Várhelyi - manipulacija izvještaja
+- Olivér Várhelyi - manipulacija izveštaja
 - Vladimir Bilčík - pokušaj prikrivanja
 - Sem Fabrizi - propušteni nadzor
 
@@ -197,7 +197,7 @@ telekomunikacionom sektoru."
 
 **Uporediti:**
 - DG NEAR originalne nacrte
-- Várhelyi kabinet izmjene
+- Várhelyi kabinet izmene
 - Finalne publikovane verzije
 
 **Cilj:** Dokazati sistemsku manipulaciju
@@ -223,7 +223,7 @@ telekomunikacionom sektoru."
 Ovaj prilog dokazuje da korupcija opisana u Prijavi IV nije bila moguća bez:
 
 1. **AKTIVNOG UČEŠĆA** EU funkcionera u prikrivanju
-2. **SISTEMATSKOG UBLAŽAVANJA** kritika u izvještajima
+2. **SISTEMATSKOG UBLAŽAVANJA** kritika u izveštajima
 3. **IGNORISANJA** očiglednih red flags (€8.9M respiratori, €18M fantomske firme)
 4. **PRIORITIZIRANJA** geopolitike (litij) nad vladavinom prava
 
@@ -234,16 +234,16 @@ Ovaj prilog dokazuje da korupcija opisana u Prijavi IV nije bila moguća bez:
 ## IX. POZIV NA AKCIJU
 
 ### Za OLAF:
-"Ovaj prilog dokazuje da ste imali insajdere u Komisiji koji su AKTIVNO OMETALI vaše istrage. Vrijeme je za čišćenje."
+"Ovaj prilog dokazuje da ste imali insajdere u Komisiji koji su AKTIVNO OMETALI vaše istrage. Vreme je za čišćenje."
 
 ### Za EPPO:
 "Imate jurisdikciju nad EU funkcionerima koji su omogućili krađu EU novca. Koristite je."
 
 ### Za Evropski parlament:
-"Vaši izvjestitelji su pokušali da prikriju korupciju. Vrijeme je za nezavisnu istragu."
+"Vaši izveštaoci su pokušali da prikriju korupciju. Vreme je za nezavisnu istragu."
 
 ---
 
 **Status:** SPREMAN ZA PRILAGANJE UZ PRIJAVU IV
 **Prioritet:** KRITIČNO - MEĐUNARODNA DIMENZIJA
-**Sljedeći korak:** Screenshot kampanja za vizuelne dokaze
+**Sledeći korak:** Screenshot kampanja za vizuelne dokaze

@@ -127,59 +127,62 @@ Pored zdravstvenih fondova, ista organizovana grupa koristi privatizaciju instit
 ### 1. SISTEMSKA ANALIZA INSTITUCIONALNE PRIVATIZACIJE
 
 **Dokumentovani podaci (Izvor: MDRI-S, Human Rights Watch, DRI izveštaji):**
-- Státne institucije: 14.512 osoba u institucionalnoj brizi
+- Države institucije: 14.512 osoba u institucionalnoj brizi
 - Privatne institucije: 8.617 osoba u institucionalnoj brizi
-- **Ukupno:** ~23.000 osoba u institucijama (ista ili veća brojka kao 2011, pre ``deinstitucionalizacije'')
+- **Ukupno:** ~23.000 osoba u institucijama (ista ili veća brojka kao 2011, pre "deinstitucionalizacije")
 - Vremenska linija: 2011-2025 = 15 godina bez napretka
-- Međunarodni standard: Deinstitucionalizacija znači ZATVOREN institucija i razvoj zajedničkog stanovanja
+- Međunarodni standard: Deinstitucionalizacija znači ZATVARANJE institucija i razvoj zajedničkog stanovanja
 - Srpska praksa: Deinstitucionalizacija znači TRANSFER SA JAVNIH NA PRIVATNE institucije
 
 ### 2. FINANSIJSKI TOKOVI - JAVNI NOVAC U PRIVATNE DŽEPOVE
 
 **Mehanizam kriminala:**
 
-Umesto što se budžet koristi za zajedničko stanovanje sa podrškоm (kako zahtevaju međunarodni standardi), isti budžet se preusmerava ka privatnim domovima, čime se:
+Umesto što se budžet koristi za zajedničko stanovanje sa podrškom (kako zahtevaju međunarodni standardi), isti budžet se preusmerava ka privatnim domovima, čime se:
 
-1. **Javni sektor osiromašuje:** Budžet za institucionalnu briju ostaje približno ista, ali je depozaduženi (jer privatni provajderi zarađuju)
+1. **Javni sektor osiromašuje:** Budžet za institucionalnu briju ostaje približno ista, ali je osiromašen (jer privatni provajderi zarađuju)
 2. **Privatni sektor bogati:** Privatni domovi finansirani publičkim sredstvima ali bez javne kontrole
-3. **Segregacija nastavlja:** Osobe ostaju u institucijama, samo sada u "privatnim" nego "javnim"
-4. **Vladе može tvrditi ''reform'':** Vlada može tvrditi \"deinstitucionalizacija je u toku\" dok struktura ostaje segregaciona
+3. **Segregacija nastavlja:** Osobe ostaju u institucijama, samo sada u "privatnim" nego u "javnim"
+4. **Vlada može tvrditi "reformu":** Vlada može tvrditi "da je deinstitucionalizacija u toku" dok struktura ostaje segregaciona
 
 **Dokazi organizovanosti:**
 - MDRI-S Policy brief: Privatizovani domovi nemaju većih standarda nego javni
-- Balkan Insight, 25. augusta 2025: \"40% osoba u institucijama bi moglo da živi nezavisno sa podrškоm, ali:\n  - Zajedničko stanovanje nije finansirano (~27 osoba u 145 opština)\n  - Privatni domovi se ekspanduju (jer su privatizovani fondovi pristupačniji)\n  - Rezultat je 'trans-institucionalizacija' umesto 'deinstitucionalizacije'\"
-- A11 Initiative: Pokazuje da alternativni (NGO) modeli kao \"Zvuci Srca\" cafeteria rade, ali su donor-zavisan jer nemaju sistematskog finansiranja
+- Balkan Insight, 25. augusta 2025: "40% osoba u institucijama bi moglo da živi nezavisno sa podrškom, ali:
+  - Zajedničko stanovanje nije finansirano (~27 osoba u 145 opština)
+  - Privatni domovi se ekspanduju (jer su privatizovani fondovi pristupačniji)
+  - Rezultat je 'trans-institucionalizacija' umesto 'deinstitucionalizacije'"
+- A11 Initiative: Pokazuje da alternativni (NGO) modeli kao "Zvuci Srca" cafeteria rade, ali su donor-zavisni jer nemaju sistematskog finansiranja
 
 ### 3. POVEZANOST SA ZDRAVSTVENOM ORGANIZOVANOM ŠEMOM
 
-Ista grupacija kreira ''privatne'' zdravstvene institucije koje zatim koriste kao ''privatne klinike'', čime:
+Ista grupacija kreira "privatne" zdravstvene institucije koje zatim koriste kao "privatne klinike", čime:
 
-1. **Javni zdravstveni budžet se usmjerava ka \"privatnom\" sektoru** (vlasnicama je ista grupa, samo drugačije biznise)
-2. **Privatne klinike postaju ''preopterećene'' jer su jedine dostupne** (jer javni sistem preusmeren)
+1. **Javni zdravstveni budžet se usmjerava ka "privatnom" sektoru** (vlasnicima je ista grupa, samo drugačiji biznis)
+2. **Privatne klinike postaju "preopterećene" jer su jedine dostupne** (jer javni sistem preusmeren)
 3. **Pacijenti se prinuđavaju na privatne procedure** (jer javni sistem ne može da obezbedi)
 4. **Rezultat:** Dva strujanja novca u iste džepove:
    - Javni fondovi → privatnim domovima (za institucionalnu briju)
    - Javni fondovi → privatnim klinikama (za privatne operacije)
 
-**Primer:** Privatni domovi mogu biti ''osnovima'' kao javne institucije ali se financiraju kao privatni, dok osobe u njima ostaju segregirane (ista segregacija, samo privatizovana).
+**Primer:** Privatni domovi mogu biti "osnovani" kao javne institucije ali se financiraju kao privatni, dok osobe u njima ostaju segregirane (ista segregacija, samo privatizovana).
 
 ### 4. MEHANIZAM ORGANIZOVANE ŠEME
 
 **Faze:**
 
 **Faza 1 - Osnivanje (2011-2015):**
-- Prave se ''privatne'' firme za upravljanje domovima
+- Prave se "privatne" firme za upravljanje domovima
 - Vlasnici su poslovni partneri ministara/direktora RFZO
-- Lažno se predstavlja kao ''reforma'' i ''deinstitucionalizacija''
+- Lažno se predstavlja kao "reforma" i "deinstitucionalizacija"
 
 **Faza 2 - Finansiranje (2015-2020):**
-- Javni budžet za institucionalnu briju se ''deli'' između javnih i privatnih
+- Javni budžet za institucionalnu briju se "dele" između javnih i privatnih
 - Javni domovi postaju nedofinansijrani
 - Privatni domovi ostaju financirani ali bez javne kontrole
 
 **Faza 3 - Ekspanzija (2020-2025):**
 - Privatni domovi se razvijaju dok javni propadaju
-- Vlada tvdi ''deinstitucionalizacija je u toku''
+- Vlada tvrdi "deinstitucionalizacija je u toku"
 - Realnost: segregacija je samo privatizovana
 
 ### 5. SVEUČNA ŠEMA - ISTA GRUPA UPRAVLJA VISE SEKTORA
@@ -188,21 +191,21 @@ Isti oficijali koji kradu iz zdravstva kradu i iz institucija:
 
 | Sektor | Šema | Rezultat |
 |--------|------|----------|
-| **Zdravstvo** | Fantomske zdravstvene firme za ''digitalizaciju'' | €30M ukrađeno, 0% rezultata |
+| **Zdravstvo** | Fantomske zdravstvene firme za "digitalizaciju" | €30M ukrađeno, 0% rezultata |
 | **Institucije** | Privatni domovi financirani javno | 8.617 osoba bez standarda, segregirane |
-| **Socijalna pomoć** | ''Socijalna karta'' algoritam koji isključuje 60.000 | Budžet smanjen bez transparentnosti |
-| **Stanovanje** | ''Socijalno stanovanje'' postaje dužnička zamka | 3.5M RSD duga po domaćinstvu |
+| **Socijalna pomoć** | "Socijalna karta" algoritam koji isključuje 60.000 | Budžet smanjen bez transparentnosti |
+| **Stanovanje** | "Socijalno stanovanje" postaje dužnička zamka | 3.5M RSD duga po domaćinstvu |
 
-**Povezanost:** Svi ovi sektori deluju preko istih ministara (Mali, Lončar, Brnabić, Grujičić) sa istom šemom - privatizacija sredstava preko ''reformi'' koje izgleda dobro za javnost ali su zapravo mehanizmi za transfer javnog novca u privatne džepove.
+**Povezanost:** Svi ovi sektori deluju preko istih ministara (Mali, Lončar, Brnabić, Grujičić) sa istom šemom - privatizacija sredstava preko "reformi" koje izgleda dobro za javnost ali su zapravo mehanizmi za transfer javnog novca u privatne džepove.
 
 ### 6. MEĐUNARODNE POSLEDICE
 
-- **EU fondovi za deinstitucionalicaziju** se koriste za financiranje privatne ekspanzije umesto alternativa
+- **EU fondovi za deinstitucionalizaciju** se koriste za financiranje privatne ekspanzije umesto alternativa
 - **Odgovornost:** Srbija obavezana da implementira EU/CRPD standarde (konvencija o pravima osoba sa invaliditetom)
-- **Šema je posebna jer:** IZGLEDA KAKO REFORMI (privatizacija = modernizacija, ''decentralizacija'') dok je zapravo preusmeravanje budžeta
-- **Važno:**  Razlika između ''privatizacije kao reforme'' i ''privatizacije kao šeme'':
+- **Šema je posebna jer:** IZGLEDA KAKO REFORMI (privatizacija = modernizacija, "decentralizacija") dok je zapravo preusmeravanje budžeta
+- **Važno:** Razlika između "privatizacije kao reforme" i "privatizacije kao šeme":
   - **Reforma:** Privatni sektor bi trebao da bude bolji/jeftiniji/transparentniji
-  - **Šema:** Privatni sektor je samo transferzna tačka za isti novac do istih ljudi sa manje kontrole
+  - **Šema:** Privatni sektor je samo transferna tačka za isti novac do istih ljudi sa manje kontrole
 
 ---
 
@@ -364,8 +367,7 @@ Ova kriminalna organizacija predstavlja **NAJVEĆU PRETNJU** javnom zdravlju i b
 
 - **UBILI SU** 13 ljudi u požarima
 - **OSUĐUJU** 60.000 na invaliditet
-- **KRADU** milione dok ljudium
-- umiru
+- **KRADU** milione dok ljudima umiru
 
 Organizovani kriminal u zdravstvu nije metafora - to je **REALNOST KOJA UBIJA**.
 

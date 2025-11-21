@@ -9,7 +9,7 @@
 
 ## OVERVIEW
 
-This manifest documents all 36 screenshots collected online to support the four criminal complaints against Ana Brnabić, Siniša Mali, Zlatibor Lončar, and related officials for corruption, organized crime, political responsibility violations, and EU fund misuse. This includes 6 additional screenshots documenting EU officials' complicity in covering up Serbian corruption.
+This manifest documents all 35 screenshots collected online to support the four criminal complaints against Ana Brnabić, Siniša Mali, Zlatibor Lončar, and related officials for corruption, organized crime, political responsibility violations, and EU fund misuse. This includes 5 additional screenshots documenting EU officials' complicity in covering up Serbian corruption.
 
 ---
 
@@ -224,7 +224,7 @@ This manifest documents all 36 screenshots collected online to support the four 
 - **Status:** ✅ Captured
 
 ### 5_mdri_s_deinstitutionalization.png
-- **Source:** MDRI-S (Majora Disability Rights Initiative Serbia)
+- **Source:** MDRI-S (Mental Disability Rights Initiative Serbia)
 - **Topic:** Institutional care statistics and deinstitutionalization analysis
 - **Evidence Type:** NGO research
 - **Used In:**
@@ -260,7 +260,7 @@ This manifest documents all 36 screenshots collected online to support the four 
 ### 8_balkan_insight_worst_nightmare.png
 - **Source:** Balkan Insight
 - **Title:** "Worst Nightmare" - deinstitutionalization investigation
-- **Date Published:** July 25, 2023
+- **Date Published:** August 25, 2025
 - **Evidence Type:** Investigative journalism
 - **Used In:**
   - PRIJAVA_I_KORUPCIJA (Comprehensive systemic failure)
@@ -357,9 +357,9 @@ This manifest documents all 36 screenshots collected online to support the four 
 **Screenshots providing primary evidence:**
 - 1, 2, 10, 12 (Financial flows and budget allocation)
 - 4, 5, 8 (System failures under Mali-Lončar management)
-- 11, 12, 13 (Official statistics and budget framework)
+- 11, 13 (Official statistics and budget framework)
 
-**Evidence Package Total:** 12 screenshots
+**Evidence Package Total:** 9 screenshots
 **Strength:** VERY HIGH - Multiple financial and budget sources
 
 ---
@@ -367,9 +367,9 @@ This manifest documents all 36 screenshots collected online to support the four 
 ### PRIJAVA_II_ORGANIZOVANI_KRIMINAL (Organized Crime Complaint)
 **Screenshots providing primary evidence:**
 - 2 (Lončar-Zemun connection)
-- 8, 24 (Institutional privatization as organized scheme)
+- 8 (Institutional privatization as organized scheme)
 
-**Evidence Package Total:** 3 screenshots (focused)
+**Evidence Package Total:** 2 screenshots (focused)
 **Strength:** HIGH - Direct organized crime connection documented
 
 ---
@@ -378,10 +378,10 @@ This manifest documents all 36 screenshots collected online to support the four 
 **Screenshots providing primary evidence:**
 - 1, 3, 4, 5 (System failures and consequences)
 - 6, 9, 13 (International criticism and assessments)
-- 7, 24, 25 (Proof that alternatives exist)
+- 7 (Proof that alternatives exist)
 - 2, 14 (Immunity framework enabling failures)
 
-**Evidence Package Total:** 14 screenshots
+**Evidence Package Total:** 11 screenshots
 **Strength:** EXTREMELY HIGH - Comprehensive systemic documentation
 
 ---
@@ -390,10 +390,10 @@ This manifest documents all 36 screenshots collected online to support the four 
 **Screenshots providing primary evidence:**
 - 2, 10, 12, 13 (World Bank and EU fund involvement)
 - 6, 13 (EC assessment of fund misuse)
-- 5, 11, 13 (EU standard violations)
+- 5, 11 (EU standard violations)
 - 14 (GRECO assessment of corruption framework)
 
-**Evidence Package Total:** 10 screenshots
+**Evidence Package Total:** 8 screenshots
 **Strength:** VERY HIGH - Direct EU involvement documented
 
 ---

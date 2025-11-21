@@ -41,7 +41,7 @@
 | **Vlasnica** | Sanja Lekić |
 | **Stvarni status** | Nikada isporučeni respiratori |
 | **Sinofarm pozicija** | Zahtevao povraćaj sredstava |
-| **Sud koji razmatrač** | Sud u Podgorici (Crna Gora) |
+| **Sud** | Sud u Podgorici (Crna Gora) |
 
 #### Tok Događaja
 
@@ -56,7 +56,7 @@
 #### Pravni Status
 
 - **Privremena dozvola:** BTL Medical nije mogla vršiti te aktivnosti
-- **Nema iskustva:** Kompanija je biti trading kompanija, ne stručnjak za respiratore
+- **Nema iskustva:** Kompanija je bila trading kompanija, ne stručnjak za respiratore
 - **Red flags:** Sanja Lekić nema medicinskog ili inženjerskog iskustva
 - **Phantom:** Kompanija je osnivana samo za ovaj tender
 
@@ -82,7 +82,7 @@
 
 #### Osnovna Činjenica
 
-**Ministar/Potpredsednik Siniša Mali je upravljao 45 bankovnih računa sa sumnjavom aktivnošću koja ne odgovara njegovoj službenoj zarada**
+**Ministar/Potpredsednik Siniša Mali je upravljao 45 bankovnih računa sa sumnjavom aktivnošću koja ne odgovara njegovoj službenoj zaradi**
 
 #### Finančijska Anomalija
 
@@ -100,7 +100,7 @@
 - **Nekretnine:** 24 apartmana na obali (Kipar, Hrvatska, Srbija)
 - **Vrednost apartmana:** €500K - €2M po apartmanu
 - **Ukupna vrednost:** €12-48 miliona
-- **Mogućnost:**  Ne može biti nabavljen sa službenom zaradom
+- **Moguće:** Ne može biti nabavljena sa službenom zaradom
 
 #### Tok Istrage
 
@@ -151,8 +151,8 @@
 
 1. **Nerealna imena** - Premalo specifična
 2. **Nema iskustva** - Ne mogu se naći online
-3. **Nema zaposlenih** - Nema lincedIn profila
-4. **Nema referenci** - Nema prethod projektima
+3. **Nema zaposlenih** - Nema LinkedIn profila
+4. **Nema referenci** - Nema prethodnih projekata
 5. **Nema lokacije** - Fizički adresa nejasna
 6. **Samo za tender** - Osnivane samo za EU tender
 
@@ -160,10 +160,10 @@
 
 **Scenario 1: Nelegalne Kompanije**
 - Nikada registrovane
-- Novac prebačen neće biti tretirani
+- Novac prebačen neće biti tretiran
 - Odgovorno lice: Ministarstvo zdravlja
 
-**Scenario 2: Prebacne Kompanije**
+**Scenario 2: Prebačne Kompanije**
 - Osnivane samo za tender
 - Novac prebačen stvarnim primaonicima
 - Odgovorno lice: Koordinator tendera
@@ -239,67 +239,67 @@ Analiza EU fondova za Srbiju (2021-2025) otkriva da korupcija nije ograničena n
 ```
 ZDRAVSTVENI SEKTOR KOLABIRA
     ↓
-Budžet za zdravstvo preusmerava se ka ''prestiž projektima''
+Budžet za zdravstvo preusmerava se ka "prestiž projektima"
     ↓
 SOCIJALNA ZAŠTITA POSTAJE ZAMENA ZA ZDRAVSTVO
-(psihijatrijske bolnice kao privremeno ''stanovanje'')
+(psihijatrijske bolnice kao privremeno "stanovanje")
     ↓
 DEINSTITUCIONALIZACIJA ALTERNATIVA POSTAJE PRIVATIZACIJA
-(umesto zatvaranja institucija, prate se sa ''privatnim'' domovima finansiranim javno)
+(umesto zatvaranja institucija, prate se sa "privatnim" domovima finansiranim javno)
     ↓
 STANOVANJE KOJE TREBALO BITI PODRŠKA POSTAJE DUŽNIČKA ZAMKA
-(''socijalno stanovanje'' sa nemogućim uslovima plaćanja)
+("socijalno stanovanje" sa nemogućim uslovima plaćanja)
     ↓
-REZULTAT: Isti broj osoba u institucijama kao 2011, samo ''privatizovano''
+REZULTAT: Isti broj osoba u institucijama kao 2011, samo "privatizovano"
 PLUS: 60.000 izgubilo socijalnu zaštitu
 PLUS: 600+ u dužničkim zamkama
 ```
 
-**EU Zaključak:** Ovo nije ''korupcija u zdravstvu'' - ovo je **SISTEMSKA DISFUNKCIONALNOST** gde korupcija omogućava celokupnu institucionalnu neuspešnost.
+**EU Zaključak:** Ovo nije "korupcija u zdravstvu" - ovo je **SISTEMSKA DISFUNKCIONALNOST** gde korupcija omogućava celokupnu institucionalnu neuspešnost.
 
 ### 3. EU STANDARD VS. SRPSKA PRAKSA
 
 **EU Standard (CRPD - Konvencija o pravima osoba sa invaliditetom):**
 - Deinstitucionalizacija = ZATVARANJE institucija + razvoj zajedničkog stanovanja
 - Socijalna zaštita = DOSTUPNA svima sa potrebama + IT za transparentnost
-- Stanovanje = DOSTUPNO sa podrškоm, ne dužnička zamka
+- Stanovanje = DOSTUPNO sa podrškom, ne dužnička zamka
 
 **Srpska Praksa (2021-2025):**
-- Deinstitucionalizacija = Prebacivanje na ''privatne'' institucije (ista segregacija)
-- Socijalna zaštita = Algoritmska isključivanja (+60.000 izgubilo) umesto ''ciljanja''
-- Stanovanje = Grad daje stan što izgleda kao pomoć ali je zapravo osmišljavanje (dug → eviction)
+- Deinstitucionalizacija = Prebacivanje na "privatne" institucije (ista segregacija)
+- Socijalna zaštita = Algoritmska isključivanja (+60.000 izgubilo) umesto "ciljanja"
+- Stanovanje = Grad daje stan što izgleda kao pomoć ali je zapravo osmišljavanje (dug → iseljenje)
 
-**Zaključak:** Srbija je '''''' EU standarde - navodile je deinstitucionalizaciju i ''reformi'' koje su zapravo mechanizmi za budžetske rezove sa ljudima kao ofersima.
+**Zaključak:** Srbija je narušila EU standarde - navodila je deinstitucionalizaciju i "reforme" koje su zapravo mehanizmi za budžetske rezove sa ljudima kao žrtvama.
 
 ### 4. FINANSIJSKI TOKOVI - GDE EU FONDOVI ZAPRAVO IĐU
 
-Umesto da se koriste za ''reforme'' kao što je navedeno EU Komisiji, EU fondovi se koriste za:
+Umesto da se koriste za "reforme" kao što je navedeno EU Komisiji, EU fondovi se koriste za:
 
-1. **Zdravstvo:** Fantomske kompanije za ''digitalizaciju'' (€30M) → stvarno se novac vraća preko offshore računa
-2. **Institucije:** ''Privatni'' domovi financirani javno (€15M) → novac ide privatnim vlasnicima koji su povezani sa odlučujućima
-3. **Socijalna zaštita:** ''Algoritamske'' IT sisteme za ''ciljanje'' (€3M) → rezultat je ekskluziviranje 60.000 osoba
-4. **Stanovanje:** ''Socijalno stanovanje'' kao ''pomoć'' (€12M) → rezultat je dužnice zamke sa evicijas
+1. **Zdravstvo:** Fantomske kompanije za "digitalizaciju" (€30M) → stvarno se novac vraća preko offshore računa
+2. **Institucije:** "Privatni" domovi financirani javno (€15M) → novac ide privatnim vlasnicima koji su povezani sa odlučujućima
+3. **Socijalna zaštita:** "Algoritamske" IT sisteme za "ciljanje" (€3M) → rezultat je ekskluziviranje 60.000 osoba
+4. **Stanovanje:** "Socijalno stanovanje" kao "pomoć" (€12M) → rezultat je dužničke zamke sa iseljenjima
 
-**Šema:** EU fondovi → Lokalnim ''reformistima'' (Mali, Lončar, Brnabić, Grujičić) → Privatni sektor/offshore → Povratak kao ''reforma''
+**Šema:** EU fondovi → Lokalnim "reformistima" (Mali, Lončar, Brnabić, Grujičić) → Privatni sektor/offshore → Povratak kao "reforma"
 
 ### 5. RED FLAGS ZA EU - ŠIRA ISTRAGA
 
-Ova prijava sugerira da OLAF-u trebalo bi da razmotrі SLEDEĆe kao **SISTEMSKI PROBLEMI** umesto pojedinačnih slučajeva:
+Ova prijava sugerira da OLAF-u trebalo bi da razmotriti SLEDEĆE kao **SISTEMSKI PROBLEMI** umesto pojedinačnih slučajeva:
 
 1. **Transparency Problem:** Srbija nema javnog registra kako se EU fondovi koriste
 2. **Accountability Problem:** Lideri sa imunitetom (Mali, Lončar, Brnabić, Grujičić) su zaštićeni od odgovornosti
 3. **Sectoral Problem:** Šema se ponavlja (zdravstvo → institucije → socijalna → stanovanje)
-4. **Pattern Problem:** Svaka ''reforma'' rezultira ''sa više segregacije/ekskluzivije umesto sa manje
+4. **Pattern Problem:** Svaka "reforma" rezultira sa više segregacije/ekskluzivnosti umesto sa manje
 
 ### 6. EU POTREBA ODGOVORA
 
 Ova prijava zahteva da EU:
 
-1. **Zaustavi nove alokacije** do što se ne zaustavi korupcija
-2. **Zatraži povraćaj fondova** za sve neispunjene projekje (minimum €85M)
-3. **Obezbedi nadzor** direktno preko EU tela (ne kroz mađuni partner-i)
-4. **Istražи immunity** kao mehanizam koji omogućava sistemsku korupciju (Mali, Lončar, Brnabić, Grujičić su zaštićeni od procesuiranja)
-5. **Pozove Srbiju** da refomira ''immunity'' legislaturu što je blokirala pravdu
+1. **Zaustavi nove alokacije** dok se ne zaustavi korupcija
+2. **Zatraži povraćaj fondova** za sve neispunjene projekte (minimum €85M)
+3. **Obezbedi nadzor** direktno preko EU tela (ne kroz lokalne partnere)
+4. **Istražiti imunitet** kao mehanizam koji omogućava sistemsku korupciju (Mali, Lončar, Brnabić, Grujičić su zaštićeni od procesuiranja)
+5. **Pozove Srbiju** da reformira imunitete legislaturu što je blokirala pravdu
 
 ---
 
@@ -392,7 +392,7 @@ Ova prijava zahteva da EU:
 
 4. **Direktor Ministarstva za EU Integracije**
    - Odobravanje phantom kompanija
-   - Nadzor neispisljen
+   - Nadzor neispunjen
    - Prevara EU
 
 ### Sekundarni Optuženi
@@ -428,7 +428,7 @@ Ova prijava zahteva da EU:
 
 4. **Nadzor EU Fondova:**
    - Zahtevati IPA III projektnu dokumentaciju
-   - Analiza sveuk upotrebe €450M
+   - Analiza sveuke upotrebe €450M
    - Kontaktiranje OLAF-a
    - EU Commission - DG Enlargement
 
@@ -460,7 +460,7 @@ Ova prijava zahteva da EU:
 - ✅ Pranje novca (Mali sa 45 računa)
 - ✅ Prevaru EU (respiratorska afera €8.9M)
 - ✅ Prevaru EU (phantom kompanije €18M)
-- ✅ Zloupotubu IPA III fondova (€450M+)
+- ✅ Zloupotreba IPA III fondova (€450M+)
 - ✅ Organizovanu grupu (2015-2025)
 - ✅ Međunarodni vid (Kipar, Crna Gora, EU)
 
@@ -479,5 +479,5 @@ Ova prijava zahteva da EU:
 
 **Podnosilac:** [Podaci dostupni tužilaštvu]
 **Datum:** Novembar 2025
-**Status:** Spreman za slanje tužilashtvu, OLAF-u i Interpolu
+**Status:** Spreman za slanje tužilaštvu, OLAF-u i Interpolu
 **Prioritet:** MEĐUNARODNA SARADNJA

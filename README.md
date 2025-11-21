@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 ŠEŠTA ĆE NAĆI OVDE
+## 📋 ŠTA ĆE NAĆI OVDE
 
 Ovo je **javna baza dokaza** sa 4 krivične prijave i detaljnom analizom:
 
@@ -43,7 +43,7 @@ Ovo je **javna baza dokaza** sa 4 krivične prijave i detaljnom analizom:
 │
 ├── analiza/ (Pomoćne analize)
 │   ├── factcheck_v2_final.md
-│   ├── fachcheck-claide1.md
+│   ├── factcheck-claude1.md
 │   └── istrage/ (Detaljne istraživačke analize)
 │
 └── arch/ (Arhiva starijih verzija)
@@ -92,7 +92,7 @@ Ovo je **javna baza dokaza** sa 4 krivične prijave i detaljnom analizom:
    - Grupa: 20+ članova
    - Metod: Planiranje → Izvršenje → Prikrivanje
 
-3. **Prijava III (Pol. Odgovorn.)** - Republčko javno tužilaštvo + EU
+3. **Prijava III (Pol. Odgovorn.)** - Republičko javno tužilaštvo + EU
    - Odgovorni: Ana Brnabić, Siniša Mali, Zlatibor Lončar, Danica Grujičić
    - Zakonska osnova: Command Responsibility
 
@@ -221,7 +221,7 @@ Vidi: [`CONTRIBUTING.md`](CONTRIBUTING.md) za uputstva.
 ### Očekivani Otpor
 - ⚠️ RFZO može tvrditi da je situacija "regulisana"
 - ⚠️ Tužilaštvo može biti "zauzeto"
-- ⚠️ ASK može biti "nepristojno"
+- ⚠️ ASK može biti "nespremno"
 
 **Odgovor:** Svi dokazi su iz **više nezavisnih izvora** (BIRN, KRIK, DRI, EU)
 
@@ -279,4 +279,4 @@ Za pitanja ili komentare:
 **Status:** ✅ Spreman za javnu objavu
 **Verzija:** 3.0
 
-🚀 **Hvala što čitiš. Sada je moj red da se boriš za pravdu.**
+🚀 **Hvala što čitaš. Sada je tvoj red da se boriš za pravdu.**

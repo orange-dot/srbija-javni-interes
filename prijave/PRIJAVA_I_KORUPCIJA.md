@@ -188,14 +188,14 @@ Paralela sa zdravstvenim sistemom - dok se kažu "fondovi za socijalnu zaštitu,
 
 **Mehanizam korupcije:**
 Ova šema je perfektna korupcija jer:
-- Izgledа kao "pomoć" javnosti
-- U praksi je **mehanizam osmišljavanja čitavih domaćinstava**
-- Omogućava gradskim vlastima da tvr đe "dali smo im stane"
+- Izgleda kao "pomoć" javnosti
+- U praksi je **mehanizam osiromašavanja čitavih domaćinstava**
+- Omogućava gradskim vlastima da tvrde "dali smo im stanove"
 - Zapravo: Daju im stan koji ne mogu sebi priuštiti, onda ga oduzimaju kroz dug
 
 ### 3. INSTITUCIONALNU PRIVATIZACIJU - NOVA ŠEMA KRAĐE
 
-Dok se deinstitucionalizacija 2011. započela sa ciljem zatvaranja ustanova:
+Dok je deinstitucionalizacija 2011. započeta sa ciljem zatvaranja ustanova:
 - Što se desilo: **Trans-institucionalizacija** - umesto zatvaranja ustanova, otvoreni su **privatni domovi**
 - Broj osoba u institucijama ostao sličan (14.512 + 8.617 = ~23.000)
 - Ali novac je preusmeren sa javnih sistema ka privatnim firmama
@@ -204,7 +204,7 @@ Dok se deinstitucionalizacija 2011. započela sa ciljem zatvaranja ustanova:
 **Dokazi:**
 - MDRI-S, Human Rights Watch: 14.512 u državnim, 8.617 u privatnim institucijama
 - Nema realnog napretka u 15 godina (2011-2025) deinstitucionalizacije
-- Umesto razvoja zajedničkog stanovanja (sa podrškоm), prošireni su privatni domovi (bez podrške)
+- Umesto razvoja zajedničkog stanovanja (sa podrškom), prošireni su privatni domovi (bez podrške)
 
 **Mehanizam korupcije:**
 Umesto da se doista deinstitucionalizuje (škola, zajedničko stanovanje, podrška), sistem omogućava:

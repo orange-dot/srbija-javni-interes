@@ -1,8 +1,8 @@
 # PRILOG - PRAVNI DODATAK DOKAZA
-## Formalni pravni privici sa citatima
+## Formalni pravni prilog sa citatima
 
 **Datum:** 21. novembar 2025
-**Namena:** Popunjavanje Krivičnih Prijava sa verifikovanim dokaza
+**Namena:** Popunjavanje Krivičnih Prijava sa verifikovanim dokazima
 **Verzija:** 1.0 FINALNA
 
 ---
@@ -50,7 +50,7 @@ Ovaj prilog sadrži detaljne bibliografske reference, direktne citate, i pravne 
 > "The World Bank pre-financed the system with €82.6 million as part of its development programs in Serbia. Despite international funding commitments, the system contained fundamental design flaws that discriminated against vulnerable populations." (Amnesty International, 2023)
 
 #### Pravna valjanost za srpske sudove
-- ✅ **VRLO VISOKA** - Međunarodna organizacija sa sasvim uzrastakom
+- ✅ **VRLO VISOKA** - Međunarodna organizacija sa visokim ugledom
 - ✅ Dokumentovana istraživanja na terenu (više novinara)
 - ✅ Publikovano kroz oficijalne kanale
 - ✅ Direktno dostupno za verifikaciju
@@ -103,7 +103,7 @@ Ovaj prilog sadrži detaljne bibliografske reference, direktne citate, i pravne 
 #### Bibliografska referenca
 - **Naslov:** 'Worst Nightmare': Serbia's Failure to Deinstitutionalise People with Disabilities
 - **Izdavač:** Balkan Insight (BIRN - Balkan Investigative Reporting Network)
-- **Datum publikacije:** 25. august 2025
+- **Datum publikacije:** 25. avgusta 2025
 - **Tip:** Istraživačko novinarstvo sa terena (5 novinara)
 - **URL:** https://balkaninsight.com/2025/08/25/worst-nightmare-serbias-failure-to-deinstitutionalise-people-with-disabilities/
 - **Autori:** Jovanka Nikolic, Dragana Prica Kovacevic, Ivana Jovanovic, Radmilo Markovic, Gordana Andric
@@ -131,9 +131,9 @@ Ovaj prilog sadrži detaljne bibliografske reference, direktne citate, i pravne 
 #### Pravna valjanost za srpske sudove
 - ✅ **VRLO VISOKA** - Balkan Insight je akreditovana novinarska agencija
 - ✅ 5 novinara sa tereskog istraživanja
-- ✅ Nedavno publikovano (август 2025) - relevantno i trenutno
+- ✅ Nedavno publikovano (avgusta 2025) - relevantno i trenutno
 - ✅ Direktne intervjue sa osobama pogođenim
-- ✅ Slika dokaza fotografskih materijala iz institucija
+- ✅ Dostupni fotografski dokazi iz institucija
 - ✅ Korišćeno u EU Progress Reports kao osnova za zabrinutost
 
 ---
@@ -142,10 +142,10 @@ Ovaj prilog sadrži detaljne bibliografske reference, direktne citate, i pravne 
 
 #### Bibliografska referenca
 - **Naslov:** COVID-19 Crisis Staff Appointment and Coordination
-- **Izvor:** Vladina saopštenja i WHO/Europa izveštaji
+- **Izvor:** Vladina saopštenja i WHO/Evropa izveštaji
 - **Datum:** Mart 2020
 - **Tip:** Vladini i međunarodni organizam dokumenti
-- **URL:** Vladino saopštenje; WHO/Europa dokumentacija
+- **URL:** Vladino saopštenje; WHO/Evropa dokumentacija
 
 #### Ključni nalazi
 1. **Ana Brnabić** postavljena kao glava Health Crisis Committee
@@ -161,7 +161,7 @@ Ovaj prilog sadrži detaljne bibliografske reference, direktne citate, i pravne 
 
 #### Pravna valjanost za srpske sudove
 - ✅ **VRLO VISOKA** - Vladina saopštenja su oficijalni izvori
-- ✅ WHO/Europa potvrđuje koordinaciju
+- ✅ WHO/Evropa potvrđuje koordinaciju
 - ✅ Javno dostupno kroz vladine kanale
 - ✅ Osnova za dokazivanje zajedničkog planiranja
 
@@ -199,14 +199,14 @@ Ovaj prilog sadrži detaljne bibliografske reference, direktne citate, i pravne 
 ### DOKAZ 6: Social Card Implementation Documentation
 
 #### Bibliografska referenca
-- **Naslov:** Social Card (Sistemska kartoca) Implementation
+- **Naslov:** Social Card (Sistemska kartica) Implementation
 - **Izvor:** Serbian Government Gazette; Constitutional Court filings
 - **Datum:** 1. mart 2022
 - **Tip:** Vladini i sudski dokumenti
 
 #### Ključni nalazi
-1. **Brnabić-va vlada** je odlučila o Social Card implementaciji
-2. **Mali-eva Finance Ministry** je odobrila budžete
+1. **Brnabićeva vlada** je odlučila o Social Card implementaciji
+2. **Mali-jevo Ministarstvo finansija** je odobrilo budžete
 3. **35.000 osoba** isključeno u roku od 10 meseci
 4. **Nema posebne zaštite** za ranjive populacije
 5. **Nema javnog obaveštavanja** onih na koje se politika utiče

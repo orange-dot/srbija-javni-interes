@@ -217,7 +217,7 @@ Podnosim krivičnu prijavu zbog političke odgovornosti najviših državnih funk
 4. Medijske izjave - negiranje problema
 
 ### POSLEDICE (dokumentovano):
-1. 10 smrti u požarima
+1. 13 mrtvih u požarima
 2. 60.000 na listama
 3. Gerontološki centar - potvrda kolapsa
 4. EU monitoring - potvrda prevare
@@ -244,8 +244,8 @@ Prema javno dostupnim podacima međunarodnih organizacija i nezavisnih istraživ
 
 **Politička odluka odgovorna:**
 Srbija je 2011. započela reformu deinstitucionalizacije sa ciljem zatvaranja velikih ustanova i razvoja zajedničkih usluga. Međutim:
-- Mali/Lončar/Brnabić/Grujičić redovnih budžetske odluke NISU prioritizovale razvoj alternativnih usluga
-- Umesto toga, budžet je usmeravanjem ka "prestiž projektima"
+- Mali/Lončar/Brnabić/Grujičić redovne budžetske odluke NISU prioritizovale razvoj alternativnih usluga
+- Umesto toga, budžet je usmeren ka "prestiž projektima"
 - Rezultat: **Još uvek 23.000+ osoba živi u institucijama**, odnosno isti ili gori položaj kao pre 15 godina
 
 **Međunarodno dokumentovano:**
@@ -253,7 +253,7 @@ Disability Rights International (DRI) i Mental Disability Rights Initiative Serb
 
 ### HOUSING CRISIS - SOCIJALNO STANOVANJE BEZ SOCIJALNE ZAŠTITE (Zemun Polje Case Study)
 
-Inicijativa A11 (A11 Initiative for Economic and Social Rights) je u augus 2025. objavila detaljnu istragu o sistemu "socijalnog stanovanja" koji je postao zamka duga umesto pomoći:
+Inicijativa A11 (A11 Initiative for Economic and Social Rights) je u august 2025. objavila detaljnu istragu o sistemu "socijalnog stanovanja" koji je postao zamka duga umesto pomoći:
 
 **Dokumentovano stanje - Kamendin (Zemun Polje):**
 - 600+ stanovnika u najvećem naselja socijalnog stanovanja u Beogradu
@@ -269,7 +269,7 @@ Sistem "socijalnog stanovanja" nije pravi sistem zaštite - to je mehanizam koji
 - Pušta ljude da akumuliraju dugove godinama
 - Primenjuje prinudna iseljenja kao "rešenje"
 
-Mali/Lončar/Brnabić/Grujičić su svi prenosili budžet od sustines socijalne zaštite ka drugim prioritetima, omogućavajući da se ovaj model nastavi bez reform.
+Mali/Lončar/Brnabić/Grujičić su svi prenosili budžet od sistema socijalne zaštite ka drugim prioritetima, omogućavajući da se ovaj model nastavi bez reform.
 
 ### AUTOMATIZOVANA DISKRIMINACIJA - SOCIJALNA KARTA (Algoritamsko isključivanje)
 
@@ -278,20 +278,22 @@ Brnabićev mandat kao premijerka (2021-2022) bio je označen uvođenjem "Socijal
 **Dokumentovano stanje (Amnesty International, decembar 2023):**
 - ~60.000 građana izgubilo je pravo na novčanu socijalnu pomoć kroz algoritamski sistem
 - Vlada ima 176.000 preostalih u sistemu (35.000 manje nego u martu 2022)
-- Sistem tretira privremene transfere (porodična solidarnost) kao "prihod" koji diskvaliifikuje
+- Sistem tretira privremene transfere (porodična solidarnost) kao "prihod" koji diskvalifikuje
 - Naročito pogođene ranjive grupe: Rom zajednica, osobe sa invaliditetom
 
 **Politička odluka:**
 Umesto toga da sistem bude sredstvo ciljane pomoći, Socijalna karta je postala alat za SMANJENJE budžetskih rashoda isključivanjem najugroženijih. Dok činjenica da osoba prima privremenu porodičnu pomoć praktički eliminiše sve pravo na državu pomoć, to stvara paradoks gde:
-- Osobe u porodičnoj solidarnosti → diskvaliifikovane
-- Osobe bez porodične mreže → nisu boljiAuto algoritamski sistem zamenjuje ljudsku procenu potrebe, što Amnesty International kvalifikauje kao sistemsku zloupotrebu.
+- Osobe u porodičnoj solidarnosti → diskvalifikovane
+- Osobe bez porodične mreže → nisu bolje
+
+Automatski algoritamski sistem zamenjuje ljudsku procenu potrebe, što Amnesty International kvalifikauje kao sistemsku zloupotrebu.
 
 ### ULOGA IMUNITETA - MEHANIZAM ZA OMOGUĆAVANJE SISTEMSKOG PROPUSTA
 
 **KRITIČNA ANALIZA:**
 
 Ove tri oblasti (zdravstvo, socijalna zaštita, stanovanje) pokazuju uskladan obrazac od 2021-2025:
-1. Deficitarne politike donete od strane Mall/Lončar/Brnabić/Grujičić
+1. Deficitarne politike donete od strane Mali/Lončar/Brnabić/Grujičić
 2. Upozorenja od međunarodnih organizacija, NGO, zdravstvenih stručnjaka, aktivista
 3. **IGNORISANJE upozorenja bez posledica**
 4. Nastavljanje deficitarnih politika
@@ -307,8 +309,7 @@ Parlamentarni imunitet - koji štiti Mali/Lončar/Brnabić/Grujičić - omoguća
 U slučajevima gde je imunitet teorijski mogao biti podignuta, procedura je toliko politička da je praktički nemoća - zahteva Skupštinu da prekine imunitet, što zahteva vladinu saglasnost.
 
 **Zaključak za ovu sekciju:**
-Kontinuirani kolaps tri kritična sistema (zdravstvo, socijalna zaštita, stanovanje) od 2011 do 2025 nije slučajnost - to je rezultat sustavnog pristupa gde imunitet omogućava donošenju štetnih odluka bez posledica. Kada odgovore mogu biti izbegnutu kroz immun
-status, nema motivacije da se politike promene čak ni kada je dokaza o šteti obilatna.
+Kontinuirani kolaps tri kritična sistema (zdravstvo, socijalna zaštita, stanovanje) od 2011 do 2025 nije slučajnost - to je rezultat sustavnog pristupa gde imunitet omogućava donošenju štetnih odluka bez posledica. Kada odgovornost može biti izbegnuta kroz imunitete, nema motivacije da se politike promene čak ni kada je dokaza o šteti obilatna.
 
 **Izvori:**
 - MDRI-S: Policy briefs on deinstitutionalization (https://www.mdri-s.org/en/e-library)
