@@ -92,11 +92,15 @@ Iz mejla Bojana:
 
 ### Dom zdravlja — Zdravstvena dokumentacija
 
-**Što CSR traži od Dom zdravlja:**
+**Bojan je tražio od Dom zdravlja:**
 > "detaljnu kompleтnu, tačnu i ažuriranu listu terапije za pacijenta... tačne doza‌je i tačno vrijeme dava‌nja"
 
-**Što CSR kaže o tome:**
+Bojan je to tražio jer je pokrenuo procedure pred CSR i pokušava da vidi ko je odgovoran za šta. Nikakva od institucija nije znala tačne terapije.
+
+**CSR je na to odgovorio:**
 > "Centar nije nadlezan za kako navodite, tumačenje lekova, precizne dozaže i tačnog vremena davanja jer nismo zdravstvena organizacija"
+
+**Rezultat:** Niko ne preuzima odgovornost za terapiju.
 
 ---
 
@@ -148,6 +152,8 @@ Razlozi:
 - Mislim da mu "dolaze državne sestre besplatno"
 - Ne razume zakomplicirane dokumente
 
+**Napomena:** Medic Care nastavlja da pruža negu uprkos Milanovoj odbijanju da plati. Odbijanje je rezultat paranoje i početne demencije, ne racionalne evaluacije situacije.
+
 ---
 
 ## INSTITUCIJE — ŠMALO FUNKCIONISANJA
@@ -187,7 +193,7 @@ Nataša Čubrilo (Rukovodilac službe) je:
 - Tvrdila da je to "samo 5 minuta" (trivijalizacija potrebe bolesnog čoveka)
 - SMS-om poslala spiske zahteva
 
-Rezultat: Bojan — rodbina pacijenta — prisiljen da obustavlja svoj posao i skuplja dokumente koje institucije trebale biti prikupile po službenoj dužnosti.
+Rezultat: Srodnik je tražio od institucija da prikupe dokumente po službenoj dužnosti. Institucije su odgovorile da to ne mogu jer nemaju pristupa e-upravи.
 
 ### 2. Kontradikcija u Tvrdnjama
 
