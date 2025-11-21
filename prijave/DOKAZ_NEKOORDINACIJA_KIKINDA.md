@@ -1,6 +1,6 @@
 # DOKAZ: NEKOORDINACIJA KIKINDA — Sled i citati
 
-## Pacijent: Milan Janjatović
+## Pacijent: [Anoniman]
 
 - **Prihod:** 158.000 RSD mesečno
 - **Namenska sredstva za negu:** 33.171 RSD (tuđa nega i pomoć — odluka države)
@@ -13,22 +13,22 @@
 ### 13. novembar 2025 — Terenska poseta (zajednička)
 
 **Učesnici:**
-- Mirna Nakrajkućin (Centar za socijalni rad — voditelj slučaja)
-- Nataša Čubrilo (Gerontološki centar — rukovodilac službe)
-- Milan Janjatović (pacijent)
+- [CSR radnik] (Centar za socijalni rad — voditelj slučaja)
+- [GC radnik] (Gerontološki centar — rukovodilac službe)
+- [Pacijent]
 
 **Izlaz iz posete:**
-- Mirna i Nataša se dogovaraju da će pružati negu
+- [CSR radnik] i [GC radnik] se dogovaraju da će pružati negu
 - Medic Care (privatna firma) počinje da dolazi dva puta dnevno
 
 ---
 
 ### 13. novembar — 20. novembar 2025 — Telefonska komunikacija
 
-**Nataša Čubrilo poziva Bojana Janjatovića (rodbina pacijenta)**
+**[GC radnik] poziva [srodnika] (rodbina pacijenta)**
 
 Iz mejla od 20.11.2025:
-> "Vaša koleginica sa terena, Nataša Čubrilo (GC), me je pozvala telefonom i tonom koji prelazi profesionalne granice (optužujući me da sam 'neozbiljan' i da ona 'pomera rasporede') zahtevala da prikupljam dokumentaciju"
+> "Vaša koleginica sa terena, [GC radnik] (GC), me je pozvala telefonom i tonom koji prelazi profesionalne granice (optužujući me da sam 'neozbiljan' i da ona 'pomera rasporede') zahtevala da prikupljam dokumentaciju"
 
 **Ista osoba šalje SMS sa spiskom dokumenata koji trebaju:**
 - Fotokopija lične karte
@@ -39,15 +39,15 @@ Iz mejla od 20.11.2025:
 
 ---
 
-### 20. novembar 2025 — Mejl od Mirne Nakrajkućin (CSR)
+### 20. novembar 2025 — Mejl od [CSR radnika]
 
-**Mirna piše (kao odgovor na Bojanove žalbe):**
+**[CSR radnik] piše (kao odgovor na žalbe [srodnika]):**
 
 > "Dalje, Centar za socijalni rad Kikinda nije zatražio od srodnika niti od korisnika ni jedan dokument kako tokom elektronskog obraćanja tako i tokom obavljene terenske posete"
 
 ---
 
-### 20. novembar 2025 — Mejl od Gerontološkog centra (Kristina Nemčev)
+### 20. novembar 2025 — Mejl od Gerontološkog centra
 
 **GC kaže razlog zašto se negu ne može organizovati:**
 
@@ -63,13 +63,13 @@ Iz mejla od 20.11.2025:
 
 ### 20. novembar 2025 — Rezultat
 
-Iz mejla Bojana:
-> "Milan odbija da plati uslugu. Tvrdi da njemu dolaze državne sestre i da 'nema šta da plaća'."
+Iz mejla [srodnika]:
+> "[Pacijent] odbija da plati uslugu. Tvrdi da njemu dolaze državne sestre i da 'nema šta da plaća'."
 
 **Realnost:**
 - Medic Care (privatna firma) dolazi dva puta dnevno
-- Milan ne razume šta je privatno, šta je besplatno
-- Milan odbija da potpiše ugovor sa Gerontološkim centrom
+- [Pacijent] ne razume šta je privatno, šta je besplatno
+- [Pacijent] odbija da potpiše ugovor sa Gerontološkim centrom
 - Nega koja je besplatna/subvencionisana se ne ostvaruje
 
 ---
@@ -88,14 +88,14 @@ Iz mejla Bojana:
 
 ---
 
-## NEKOORDINACIJA IZMEĐU INSTITUCIJA
+## Nekoordinacija između institucija
 
 ### Dom zdravlja — Zdravstvena dokumentacija
 
-**Bojan je tražio od Dom zdravlja:**
+**[Srodnik] je tražio od Dom zdravlja:**
 > "detaljnu, kompletnu, tačnu i ažuriranu listu terapije za pacijenta... tačnih doza i tačnog vremena davanja"
 
-Bojan je to tražio jer je pokrenuo procedure pred CSR i pokušava da vidi ko je odgovoran za šta. Nijedna od institucija nije znala tačne terapije.
+[Srodnik] je to tražio jer je pokrenuo procedure pred CSR i pokušava da vidi ko je odgovoran za šta. Nijedna od institucija nije znala tačne terapije.
 
 **CSR je na to odgovorio:**
 > "Centar nije nadlezan za kako navodite, tumačenje lekova, preciznih doza i tačnog vremena davanja jer nismo zdravstvena organizacija"
@@ -117,20 +117,20 @@ Bojan je to tražio jer je pokrenuo procedure pred CSR i pokušava da vidi ko je
 
 ## Kontradikcija u tvrdnjama
 
-**Mirna (CSR) — 20.11.2025:**
+**[CSR radnik] — 20.11.2025:**
 > "Centar za socijalni rad Kikinda nije zatražio od srodnika (...) ni jedan dokument"
 
-**Nataša (GC) — istog dana ili nakon 13.11:**
+**[GC radnik] — istog dana ili nakon 13.11:**
 - Telefonski poziva sa zahtevima
 - SMS sa spiskom dokumenata
 
-**Napomena:** Obe su bile na zajedničkoj terenuskoj poseti 13.11.2025. Mirna je znala šta se desilo.
+**Napomena:** Obe su bile na zajedničkoj terenuskoj poseti 13.11.2025. [CSR radnik] je znala šta se desilo.
 
 ---
 
 ## Zahtevi koji se prebacuju na rodbinu
 
-Milan ne može da pravi (u bolnom stanju):
+[Pacijent] ne može da radi (u bolnom stanju):
 - Fizički obilazak šaltera za dokumente
 - Potpisivanje dokumenata
 - Razumevanje papirologije
@@ -141,7 +141,7 @@ Trebalo je da institucije to urade.
 
 ## Rezultat za pacijenta
 
-**Milan Janjatović:**
+**[Pacijent]:**
 - Ima 158.000 RSD mesečnog prihoda
 - Ima 33.171 RSD namensko za negu
 - Medicinski ima dokazanu potrebu za negom
@@ -152,7 +152,7 @@ Razlozi:
 - Misli da mu "dolaze državne sestre besplatno"
 - Ne razume zakomplicirane dokumente
 
-**Napomena:** Medic Care nastavlja da pruža negu uprkos Milanovoj odbijanju da plati. Odbijanje je rezultat paranoje i početne demencije, ne racionalne evaluacije situacije.
+**Napomena:** Medic Care nastavlja da pruža negu uprkos odbijanju [pacijenta] da plati. Odbijanje je rezultat paranoje i početne demencije, ne racionalne evaluacije situacije.
 
 ---
 
@@ -165,7 +165,7 @@ Razlozi:
 
 ---
 
-## Direktni citati iz mejla Bojana (20.11.2025)
+## Direktni citati iz mejla [srodnika] (20.11.2025)
 
 > "Ova prepiska postaje pisani dokaz potpunog sloma sistema zaštite najugroženijih i prebacivanja odgovornosti."
 
@@ -177,10 +177,10 @@ Razlozi:
 
 ## Dokumenta
 
-- Mejl od Bojana Janjatovića (20.11.2025)
-- Mejl od Mirne Nakrajkućin (13.11.-20.11.2025)
-- Mejl od Kristine Nemčev / Gerontološkog centra (20.11.2025)
-- SMS od Nataše Čubrilo (13.11.-20.11.2025)
+- Mejl od [srodnika] (20.11.2025)
+- Mejl od [CSR radnika] (13.11.-20.11.2025)
+- Mejl od Gerontološkog centra (20.11.2025)
+- SMS od [GC radnika] (13.11.-20.11.2025)
 
 ---
 
@@ -188,7 +188,7 @@ Razlozi:
 
 ### 1. Pritisak na pacijente
 
-Nataša Čubrilo (rukovodilac službe) je:
+[GC radnik] (rukovodilac službe) je:
 - Telefonom zahtevala dokumente sa tonom koji "prelazi profesionalne granice"
 - Tvrdila da je to "samo 5 minuta" (trivijalizacija potrebe bolesnog čoveka)
 - SMS-om poslala spiske zahteva
@@ -197,11 +197,11 @@ Rezultat: Srodnik je tražio od institucija da prikupe dokumente po službenoj d
 
 ### 2. Kontradikcija u tvrdnjama
 
-Mirna Nakrajkućin je pisala:
+[CSR radnik] je pisala:
 > "Centar za socijalni rad Kikinda nije zatražio od srodnika (...) ni jedan dokument"
 
 **Činjenica:**
-Mirna je sama bila na terenskoj poseti 13.11.2025 gde je — zajedno sa Natašom — ostavljan papir sa spisom dokumenata koji trebaju.
+[CSR radnik] je sama bila na terenskoj poseti 13.11.2025 gde je — zajedno sa [GC radnikom] — ostavljan papir sa spisom dokumenata koji trebaju.
 
 Papir sa zahtevima za dokumente = zahtev za dokumente.
 
@@ -214,17 +214,17 @@ Gerontološki centar Kikinda:
 - Ne može da pribavi: izvode iz matične knjige, podatke o penziji, uverenja o državljanstvu, zdravstvenu dokumentaciju
 - Rešenje: sve se šalje poštom, pacijent čeka mesece
 
-Rezultat: Sistem je tako paralizovan da Milan (koji ima pravo na negu) ne može da je dobije.
+Rezultat: Sistem je tako paralizovan da [pacijent] (koji ima pravo na negu) ne može da je dobije.
 
 ### 4. Nekoordinacija institucija
 
-Bojan je tražio da Dom zdravlja dostavi detaljnu terapiju Centru za socijalni rad jer **nijedna od institucija nije znala šta da radi sa terapijom**.
+[Srodnik] je tražio da Dom zdravlja dostavi detaljnu terapiju Centru za socijalni rad jer **nijedna od institucija nije znala šta da radi sa terapijom**.
 
 CSR je odgovorio:
 > "Centar nije nadlezan za tumačenje lekova, preciznih doza i tačnog vremena davanja jer nismo zdravstvena organizacija"
 
 **Činjenica:**
-Niko ne zna ko je odgovoran za terapiju — Dom zdravlja ili CSR. Pacijent Milan ostaje bez informacije kako i kada uzimati lekove.
+Niko ne zna ko je odgovoran za terapiju — Dom zdravlja ili CSR. [Pacijent] ostaje bez informacije kako i kada uzimati lekove.
 
 ### 5. Privatni sektor preuzima javnu funkciju
 
@@ -238,11 +238,11 @@ Gerontološki centar (javna služba):
 - Sve po pošti
 - Nema e-upravи
 
-Milan bira Medic Care jer je to jedino što funkcioniše. Javni sistem kreira potrebu za privatizacijom.
+[Pacijent] bira Medic Care jer je to jedino što funkcioniše. Javni sistem kreira potrebu za privatizacijom.
 
 ### 6. Rezultat za pacijenta
 
-Milan Janjatović:
+[Pacijent]:
 - Ima 158.000 RSD mesečnog prihoda (od čega 33.171 RSD je namenjena za negu)
 - Medicinski ima potrebu za negom (država je to već utvrdila)
 - **Odbija negu jer je sistem toliko zbunjen da ne razume šta plaća**
