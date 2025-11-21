@@ -57,7 +57,7 @@ Sistemska korupcija u zdravstvu i socijalnoj zaštiti, uključujući:
 - Respiratorsku aferu (8.9M EUR)
 - Digitalizaciju bez rezultata (30M EUR+ investicija, nula ishoda)
 - Zaštitu domova bez nadzora (13 smrti u požarima)
-- Praktične studije slučaja (4 pacijenta sa dokumentovanjem)
+- Praktične studije slučaja (3 pacijenta: dva sa letalnima ishodima, jedan sa aktivnim slučajem sa dva povezana problema)
 
 ---
 
@@ -75,11 +75,10 @@ Dokazuje da je ovo **organizovana grupa**, a ne slučajne greške:
 ### **FAZA 4 – Lični slučajevi (DOKAZNI OSNOV)**
 **Dokument:** PRILOZI_LICNI_SLUCAJEVI.md (~40 strana)
 
-4 konkretna slučaja sa dokumentacijom:
+3 konkretna slučaja sa dokumentacijom (jedan pacijent sa dva povezana problema):
 1. **[Pacijent 1]** – Odlaganja tretmana dovela do smrti (dijabetes tip 2)
 2. **[Pacijent 2]** – Uskraćivanje leka u terminalnoj fazi (kancer)
-3. **[Pacijent 3]** – Prisilna privatizacija (operacija oko)
-4. **[Pacijent 4]** – Medicinski propust u hitnom slučaju (dijabetes tip 1, aktivna slučaj)
+3. **[Pacijent 3]** – Zakazana oftalmološka operacija (neobavljena zbog pritiska/administrativnih prepreka) + medicinski propust u hitnom slučaju (dijabetes tip 1, aktivna)
 
 ---
 

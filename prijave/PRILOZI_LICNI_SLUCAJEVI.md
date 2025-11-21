@@ -52,32 +52,36 @@
 
 ---
 
-## 3) [Pacijent 3] — operacija očnog zahvata (plaćena privatno)
+## 3) [Pacijent 3] (76, aktivna slučaj - 2025) — Zakazana oftalmološka operacija (neobavljena) + medicinski propust u hitnom slučaju
 
-**Zdravstveno stanje:** Katarakt ili druga oftalmološka bolest zahtevajući urgentnu hiruršku intervenciju; značajno narušen vid.
+**Zdravstveno stanje:** Dijabetes tip 1 na insulinskoj terapiji; totalna sleparnost; katarakt/oftalmološka oboljenja zahtevajuća hitnu intervenciju; potrebna stalna medicinska nadzor i asistencija.
+
+**PRVI PROBLEM – Zakazana oftalmološka operacija (neobavljena zbog pritiska/administrativnih prepreka):**
+
+**Zdravstveno stanje:** Katarakt ili druga oftalmološka bolest zahtevajući urgentnu hiruršku intervenciju; značajno narušen vid; stanje pacijenta zahteva intervenciju.
 
 **Ključne činjenice:**
-- **Privatna operacija:** Operacija izvršena privatno sa rezultatima dostupan u roku od nekoliko nedelja; ukupna cena oko 7.000 EUR.
-- **Nema dostupnosti u državnom sistemu:** U državnom sistemu zdravstvene zaštite zahvat nije bio dostupan u razumnom roku (liste čekanja > 6 meseci).
-- **Upućivanje na privatni sektor:** Javni specijalist je priznao nedostupnost u javnom sistemu i usmeren pacijenta ka privatnom sektoru jer je „to jedina opcija".
-- **Specijalistička potvrda:** Oftalmolog koji je izvršio privatnu operaciju može potvrditi realne tržišne cene i medicinsku indikaciju.
+- **Operacija zakazana:** Operacija očnog zahvata bila je zakazana za obavljanje kroz javni zdravstveni sistem.
+- **Operacija neobavljena:** Operacija nikada nije obavljena uprkos zakazivanju; odložena je zbog administrativnih prepreka i pritiska.
+- **Trenutni status:** Operacija i dalje čeka obavljanja; pacijent zadržava ozbiljnu oftalmološku patologiju bez korekcije.
+- **Medicinska potreba:** Oftalmolog Dr. Suvajac može potvrditi medicinsku indikaciju, hitnost i da bi operacija bila obavljena do sad da nije bilo pritiska/administrativnih odlaganja.
+- **Dokumenti dostupni:** Pregledi, medicinska mišljenja, zakazivanja (i neuspešna pokušaja rekalasiranja).
 
-**Sistemski problem:** Premala kapaciteta javnog sektora → принудna privatizacija; sistematsko upućivanje sposobnih pacijenata na privatnu nega i sve što to povlači (viši troškovi, nejednakinost, erozija javnog sistema).
+**Sistemski problem #1:** Administrativne prepreke blokiraju hitne medicinske intervencije; pritisak/uticaj korisćeni za odlaganje neophodnih procedura; rezultat = pacijent ostaje bez medicinske zaštite.
 
-**Dokazi (priložiti):**
-- Racun/ugovor o privatnoj operaciji sa detaljima cene i datuma.
-- Medicinska mišljenja specijaliste sa javne institucije o indikaciji i dostupnosti u javnom sistemu.
-- Izjava privatnog oftalmologa koji je izvršio operaciju (sa potvrdom realne tržišne cene).
-- Dokumentacija o listama čekanja u javnom sistemu (ako postoji).
-- Korespondencija između pacijenta/rodbine i javne institucije gde se spominje nedostupnost.
+**Dokazi za prvi problem (priložiti):**
+- Medicinska mišljenja specijaliste sa javne institucije o indikaciji i hitnosti.
+- Dokumentacija o zakazivanju operacije (potvrda zakazivanja).
+- Pisani trag svih odlaganja, otkazivanja, ili administrativnih prepreka.
+- Izjava Dr. Suvajca (oftalmolog) o medicinskoj potrebi, hitnosti, i da bi operacija trebala biti obavljena.
+- Korespondencija između pacijenta/rodbine i zdravstvene institucije o odlaganju.
+- Svi medicinski pregledi i nalazi koji dokumentuju oftalmološko stanje.
 
 ---
 
-## 4) [Pacijent 4] (76, živi sam, aktivna slučaj - 2025)
+**DRUGI PROBLEM – Medicinski propust u hitnom slučaju (7. novembar 2025):**
 
-**Zdravstveno stanje:** Dijabetes tip 1 na insulinskoj terapiji; totalna sleparnost; potrebna stalna medicinska nadzor i asistencija sa čitanjem glukometra; poznatih je nekoliko epizoda hipoglikemije.
-
-**Kritična epizoda - 7. novembar 2025:**
+**Zdravstveno stanje pred krizu:** Dijabetes tip 1 na insulinskoj terapiji; totalna sleparnost; nekoliko prethodnih epizoda hipoglikemije; potrebna stalna medicinska nadzor i asistencija sa čitanjem glukometra.
 
 **Inicijalni događaj:**
 - Pacijent zatečen u nesvesnom stanju sa dokumentovanom teskom hipoglikemijom (glikemija 0.7 mmol/L, kritična je < 2.8 mmol/L).
@@ -96,19 +100,31 @@
 **Pravna i medicinska analiza:**
 - **Uslovna neodgovornost javnih zdravstvenika**: Zdravstvenik je prenosio odgovornost na laika uz parcijalnu instrukciju i bez plana praćenja.
 - **Medicinski rizik**: Postoji dokumentovan **realan rizik** ponovne hipoglikemije tokom noći sa mogućnostima od smrtnog ishoda ako srodnik ne bude dostupan ili ako ponovno dođe do pogrešnog očitavanja vrednosti.
-- **Pobijanje pretpostavke**: Zdravstvenik je "prihvatio" da sijedati osoba u kritičnom stanju može biti sigurno sa ama laičkim nadzorem, što nije u skladu sa medicinama standardima.
+- **Pobijanje pretpostavke**: Zdravstvenik je "prihvatio" da starija osoba u kritičnom stanju može biti sigurno sa samo laičkim nadzorom, što nije u skladu sa medicinskim standardima.
+
+**Sistemski problem #2:** Medicinska neizvesnost prebacana na laike; odsustvo pismenih protokola za kritične slučajeve; neadekvatna hospitalizacija uprkos kriterijumima.
 
 **Detaljna dokumentacija sistema:**
 Videti prilog: **DOKAZ_NEKOORDINACIJA_KIKINDA.md** — detaljni sled gde se vidi kako se isti pacijent suočava sa koordinacijom između Dom zdravlja (Kikinde), Gerontološkog centra i privatnih usluga; kako administrativna odlaganja dovode do krize; kako se odgovornost prebacuje između institucija.
 
-**Dokazi (priložiti):**
+**Dokazi za drugi problem (priložiti):**
 - Izveštaj hitne pomoći Dom zdravlja Kikinda od 7. novembar 2025 (fotografija ili originalni prilog od lekara).
-- Sve izmene od dna hospitalizacije (ako je kasnije proslieđen).
+- Sve izmene od dana hospitalizacije (ako je kasnije prosleđen).
 - Pritužba/prijava podneta Zdravstvenoj inspekciji sa detaljnim opisom intervencije i navedenimi izjavama zdravstvenika.
 - Telefonski/dispečerski zapisi o inicijalnom pozivu sa vremenskom komparativnom vrednosti glikemije kako je prijavljeno vs. kako je meren (0.7 vs. 7).
 - Izjave svedoka (srodnika, eventualno ostalih građana) o zdravstvenikovom obeshrabrivanju transporta i minimalistički instrukcijama.
 - Glukometar koji je korišćen (ako je dostupan za veštačenje) da se potvrdi mogućnost pogrešnog čitanja.
 - Dokumentacija o prethodnim hipoglikemijama i rizicima kod ovog pacijenta (ako postoji u ordinaciji Dom zdravlja).
+
+---
+
+**INTEGRISANA ANALIZA – Jedan pacijent, dva sistemska propusta:**
+
+Ovaj slučaj je posebno značajan jer pokazuje kako ista osoba trpi od više povezanih institucionalnih neuspjeha:
+1. **Oftalmološka intervencija blokirana administrativnim preprekama** (zakazana operacija nikada nije obavljena; trebala bi biti do sad da nije bilo pritiska)
+2. **Medicinski zanemarena u hitnom slučaju** (propust u hitnom slučaju sa realnim rizikom od smrtnog ishoda)
+
+Oba slučaja dokumentuju sistemsku disfunkciju: administrativne prepreke blokiraju hitne medicinske intervencije; oftalmolog Dr. Suvajac može potvrditi da bi pacijent bio tretiran da nisu bilo institucionalnih prepreka; rezultat = pacijent ostaje bez obe medicinske zaštite (operacije i adekvatne hitne nege).
 
 ---
 
@@ -151,9 +167,10 @@ Videti prilog: **DOKAZ_NEKOORDINACIJA_KIKINDA.md** — detaljni sled gde se vidi
 ## Dodatne napomene
 
 ### Anonimizacija u dokumentima
-- **Javna verzija:** Ovaj dokument je anonimizovan — ličnosti su označeni kao [Pacijent 1-4] kako bi se zaštitila privatnost pacijenata i članova porodice.
+- **Javna verzija:** Ovaj dokument je anonimizovan — pacijenti su označeni kao [Pacijent 1], [Pacijent 2], [Pacijent 3] kako bi se zaštitila privatnost pacijenata i članova porodice.
 - **Verzija za tužilaštvo:** Lični podaci pacijenata (imena, datumi rođenja, tačne adrese) biće dostavljeni tužilaštvu pod znatno strožijom zaštitom i samo nakon što pristojne institucije odobre otkrivanje.
 - **Medicinska dokumentacija:** Sve medicinska dokumentacija će biti dostavljena u kliničkom formatu bez javnog objavljivanja.
+- **Napomena:** [Pacijent 3] je označen sa dva povezana slučaja (oftalmološka intervencija + medicinski propust u hitnom slučaju) jer demonstrira kako ista osoba trpi od više sistemskih institucionalnih neuspjeha.
 
 ### Pravni status slučajeva
 - **Ovi slučajevi nisu bili predmet prethodnih sudskih postupaka;** koriste se kao **neposredni osnov za pokretanje novog postupka**.

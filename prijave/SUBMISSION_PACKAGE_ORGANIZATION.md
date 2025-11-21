@@ -41,7 +41,7 @@ Dokumenti su organizovani u tri paralelne grane:
 - **Razlog:** Pokazuje da nije slučaj već sistematska grupa sa financijskim tokom
 
 **KORAK 4 – Lični slučajevi (PRILOZI_LICNI_SLUCAJEVI.md)**
-- **Fokus:** 4 dokumentovana slučaja (3 mrtva pacijenta + 1 aktivni slučaj)
+- **Fokus:** 3 pacijenta sa 4 dokumentovana problema (2 umrla pacijenta + 1 aktivni pacijent sa dva povezana slučaja: zakazana operacija (neobavljena) + medicinski propust u hitnom slučaju)
 - **Dužina:** ~40 strana
 - **Adresat:** Javno tužilaštvo (za građanske odštetne zahteve + krivični postupak)
 - **Razlog:** Neposredni dokazni osnov za pokretanje postupka, tipični primeri sistemskog problema
