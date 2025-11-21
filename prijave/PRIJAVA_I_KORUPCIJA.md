@@ -111,13 +111,14 @@ Podnosim krivičnu prijavu protiv N.N. lica na najvišim državnim funkcijama Re
 - Korišćenje EU fondova protivno nameni  
 - Kazna: do 12 godina (teški oblik)
 
-#### Čl. 208 KZ – pronevera
-- Šteta procenjena na 65 miliona EUR (EU + nacionalno)  
-- Kazna: do 10 godina
+#### Čl. 364 KZ – pronevera
+- Prisvajanje poverenog novca/sredstava iz javnih institucija
+- Šteta procenjena na 65 miliona EUR (EU + nacionalno)
+- Kazna: do 12 godina (ako korist prelazi 1.500.000 dinara)
 
-#### Čl. 367 KZ – pranje novca
-- Preko offshore firmi (Kipar, Malta)  
-- Kazna: do 12 godina
+#### Čl. 245 KZ – pranje novca
+- Konverzija/prenos imovine stečene krivičnim delom preko offshore firmi (Kipar, Malta)
+- Kazna: do 12 godina (ako izvršeno u organizovanoj grupi – stav 4)
 
 #### PIF Direktiva EU
 - Zaštita finansijskih interesa EU  

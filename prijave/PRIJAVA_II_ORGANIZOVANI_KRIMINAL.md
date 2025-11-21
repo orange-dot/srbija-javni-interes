@@ -136,13 +136,14 @@ Organizovana grupa iste metode koristi i u socijalnoj zaštiti.
 - Sistemska zloupotreba javnog položaja  
 - Kazna: do 12 godina
 
-#### Čl. 208 KZ – pronevera u produženom trajanju
-- Šteta procenjena na 65+ miliona EUR  
-- Kazna: do 10 godina
+#### Čl. 364 KZ – pronevera u produženom trajanju
+- Prisvajanje poverenog novca/sredstava iz javnih institucija
+- Šteta procenjena na 65+ miliona EUR
+- Kazna: do 12 godina (ako korist prelazi 1.500.000 dinara)
 
-#### Čl. 367 KZ – pranje novca
-- Organizovano i međunarodno  
-- Kazna: do 12 godina
+#### Čl. 245 KZ – pranje novca
+- Konverzija/prenos imovine stečene krivičnim delom - organizovano i međunarodno
+- Kazna: do 12 godina (ako izvršeno u organizovanoj grupi – stav 4)
 
 #### Čl. 127 KZ – nepružanje pomoći (posledično)
 - 13 mrtvih u požarima  
