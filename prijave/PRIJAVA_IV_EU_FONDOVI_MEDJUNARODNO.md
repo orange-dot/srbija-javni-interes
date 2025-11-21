@@ -77,12 +77,12 @@ Tri kompanije koje se ne nalaze u APR registru navodno su primile EU IPA sredstv
 - Ukupan fond za Zapadni Balkan: 14,162 milijarde EUR  
 - Procena za Srbiju: 450M+ EUR (2021–2027) + 165M EUR budzetske podrske  
 
-**Red flags:**  
-- Digitalizacija: 30M EUR, rezultat 0%  
-- Urgentni centri: 20M EUR, minimalna realizacija  
-- Phantom firme: 18M EUR, bez postojanja  
-- Respiratori: 8,9M EUR, neisporučeni  
-- Nema javnog registra projekata – skrivanje trosenja
+**Red flags:**
+- Digitalizacija: 30M EUR, rezultat 0% (potvrđeno dopisima institucija)
+- Urgentni centri: 15M EUR, minimalna realizacija (2 od 8 funkcionalna – EU monitoring 2024)
+- Zaštita domova: 5M EUR, sredstva neispravno korišćena (13 mrtvih u požarima)
+- Respiratori: 8,9M EUR, neisporučeni (BTL Medical Montenegro – BIRN istraživanje)
+- Nema javnog registra projekata – skrivanje troškenja
 
 **Obaveza EU:** PIF Direktiva trazi kazne min. 4 godine za prevare >100.000 EUR; OLAF nadlezan za istragu.
 
@@ -94,9 +94,9 @@ Korupcija zahvata zdravstvo, socijalnu zaštitu i stanovanje – pokazuje se sis
 
 | Sektor | EU alokacija | Problem | Rezultat | Žrtve |
 |--------|--------------|---------|----------|-------|
-| Zdravstvo – digitalizacija | 30M | realizacija 0% | sistem nemodernizovan | 60.000 na listama |
-| Zdravstvo – urgentni centri | 20M | 2 od 8 rade | odbijeni pacijenti | dodatne smrti |
-| PP zaštita domova | 5M | novac nestao | 13 mrtvih u požarima | stariji |
+| Zdravstvo – digitalizacija | 30M | realizacija 0% (potvrđeno) | sistem nemodernizovan | 60.000 na listama |
+| Zdravstvo – urgentni centri | 15M | 2 od 8 rade (EU monitoring) | odbijeni pacijenti | dodatne smrti |
+| PP zaštita domova | 5M | sredstva neispravno korišćena | 13 mrtvih u požarima (januar 2025) | stariji |
 | Socijalna zaštita – deinstitucionalizacija | 15M (procena) | državne institucije osiromašene → privatne proliferiraju bez kontrole | 8.617 u privatnim institucijama; 13 mrtvih u požarima | osobe sa invaliditetom |
 | Socijalna karta IT | 3M (procena) | algoritamsko isključivanje | 60.000 izgubilo pravo | najugrozeniji |
 | Socijalno stanovanje | 12M (EU + domace) | duznicka zamka | dug 3,5M RSD po domacinstvu | siromasne porodice |

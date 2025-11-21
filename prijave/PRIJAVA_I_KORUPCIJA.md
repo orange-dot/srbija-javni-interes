@@ -59,17 +59,16 @@ Podnosim krivičnu prijavu protiv N.N. lica na najvišim državnim funkcijama Re
 - 2025: 280 milijardi RSD  
 - **Razlika:** oko 70 milijardi RSD preusmereno/ukradeno
 
-**Ka prestiž projektima:**  
-- Stadion: 180 miliona EUR  
-- Fontane: 20 miliona EUR  
-- Metro i EXPO: više milijardi EUR
+**Ka prestiž projektima:**
+- Stadion: 368–464 miliona EUR (Nacionalni stadion, investicija gradske i države)
+- Metro i EXPO: više milijardi EUR (Metro I faza: ~3,4 milijarde EUR; EXPO: ~1–2 milijarde EUR)
 
 ### B. EU fondovi – dodatni izvor odlivanja
 
 **IPA projekti (2021–2025):**
-1. Digitalizacija zdravstva: 30 miliona EUR – 0% realizovano  
-2. Urgentni centri: 20 miliona EUR – 0–2 funkcionalna  
-3. Cross-border projekti: 15 miliona EUR – nepostojeći rezultati
+1. Digitalizacija zdravstva: 30 miliona EUR – 0% realizovano (potvrđeno dopisima gerontoloških centara)
+2. Urgentni centri: 15 miliona EUR – 2 od 8 planiranih funkcionalna (EU monitoring 2024)
+3. Zaštita privatnih domova: 5 miliona EUR – sredstva neispravno korišćena (potvrđeno hapšenjima inspektora)
 
 **Gerontološki centar Kikinda potvrđuje:**  
 > „Digitalizacija nije započeta i ne predviđa se.“

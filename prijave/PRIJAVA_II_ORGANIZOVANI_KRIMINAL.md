@@ -53,10 +53,10 @@ Podnosim krivičnu prijavu protiv organizovane kriminalne grupe koja deluje na n
 - Firme osnovane mesec dana pre tendera; vlasnici povezani sa funkcionerima  
 - Rezultat: 30M isplaćeno, 0% digitalizacije; 60.000 ljudi i dalje na papirnim listama
 
-### B. Operacija „Urgentni centri“ (20 miliona EUR)
-- Učesnici: Ministarstvo zdravlja, fantomski izvođači, dobavljači polovne opreme  
-- EU monitoring: „5 od 8 centara ne postoji“; polovna vozila kupljena kao nova (3x skuplje)  
-- Pacijenti odbijani u „modernizovanim“ centrima
+### B. Operacija „Urgentni centri" (15 miliona EUR)
+- Učesnici: Ministarstvo zdravlja, fantomski izvođači, dobavljači polovne opreme
+- EU monitoring (2024): 2 od 8 planiranih centara funkcionalna; polovna vozila kupljena kao nova (3x skuplje)
+- Pacijenti odbijani u „modernizovanim" centrima
 
 ### C. Operacija „Požarna bezbednost“ (5 miliona EUR)
 - Rezultat: 13 mrtvih u požarima (Barajevo 11, Vojka 2)  

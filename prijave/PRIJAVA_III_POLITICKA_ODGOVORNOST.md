@@ -29,11 +29,10 @@ Podnosim krivičnu prijavu zbog političke odgovornosti najviših državnih funk
 - 2025: 280 milijardi RSD  
 - **Smanjenje:** oko 70 milijardi RSD (−20%)
 
-**Prestiž projekti (luksuz):**  
-- Stadion: 180 miliona EUR  
-- Fontane: 20 miliona EUR  
-- EXPO: stotine miliona EUR  
-- Metro: više milijardi EUR
+**Prestiž projekti (luksuz):**
+- Stadion: 368–464 miliona EUR (Nacionalni stadion)
+- Metro: 3,4 milijarde EUR (I faza)
+- EXPO: 1–2 milijarde EUR
 
 **Odnos:** dok 60.000 ljudi čeka operacije, sredstva odlaze na prestiž.
 
