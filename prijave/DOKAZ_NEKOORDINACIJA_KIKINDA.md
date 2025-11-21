@@ -8,7 +8,7 @@
 
 ---
 
-## TIMELINE DOGAĐAJA
+## Timeline događaja
 
 ### 13. novembar 2025 — Terenska poseta (zajednička)
 
@@ -51,7 +51,7 @@ Iz mejla od 20.11.2025:
 
 **GC kaže razlog zašto se negu ne može organizovati:**
 
-> "Gerontoloski centar Kikinda nije u mogućnosti da pribavi neophodnu dokumentaciju po službenoj dužnosti, obzirom da nemamo pristup e-upravи."
+> "Gerontološki centar Kikinda nije u mogućnosti da pribavi neophodnu dokumentaciju po službenoj dužnosti, obzirom da nemamo pristup e-upravи."
 
 **Konkretno:**
 > "neophodno je i fotokopija lične karte korisnika, uverenje o državljanstvu, zdravstvena dokumentacija (prepisana terapija korisnika, tačno vrijeme davanja insulina, itd...)"
@@ -74,7 +74,7 @@ Iz mejla Bojana:
 
 ---
 
-## DIREKTNI CITATI — NEMA PRISTUPA E-UPRAVИ
+## Direktni citati — nema pristupa e-upravи
 
 **Iz mejla GC (20.11.2025):**
 1. "nemamo pristup e-upravи"
@@ -104,7 +104,7 @@ Bojan je to tražio jer je pokrenuo procedure pred CSR i pokušava da vidi ko je
 
 ---
 
-## PRIVATNI SEKTOR POPUNJAVA PRAZNINU
+## Privatni sektor popunjava prazninu
 
 **Iz mejla CSR:**
 > "posredovali smo u pronalaženju usluge pomoć i nega u kući Gerontološkog centra Kikinda ali i privatnih usluga Medic care koji korisnika obilaze dva puta dnevno"
@@ -115,7 +115,7 @@ Bojan je to tražio jer je pokrenuo procedure pred CSR i pokušava da vidi ko je
 
 ---
 
-## KONTRADIKCIJA U TVRDNJAMA
+## Kontradikcija u tvrdnjama
 
 **Mirna (CSR) — 20.11.2025:**
 > "Centar za socijalni rad Kikinda nije zatražio od srodnika (...) ni jedan dokument"
@@ -128,7 +128,7 @@ Bojan je to tražio jer je pokrenuo procedure pred CSR i pokušava da vidi ko je
 
 ---
 
-## ZAHTEVI KOJI SE PREBACUJU NA RODBINU
+## Zahtevi koji se prebacuju na rodbinu
 
 Milan ne može da pravi (u bolnom stanju):
 - Fizički obilazak šaltera za dokumente
@@ -139,7 +139,7 @@ Trebalo je da institucije to urade.
 
 ---
 
-## REZULTAT ZA PACIJENTA
+## Rezultat za pacijenta
 
 **Milan Janjatović:**
 - Ima 158.000 RSD mesečnog prihoda
@@ -156,7 +156,7 @@ Razlozi:
 
 ---
 
-## INSTITUCIJE — SLABO FUNKCIONISANJA
+## Institucije — slabo funkcionisanja
 
 | Institucija | E-uprava | Papirologija | Brzina | Rezultat |
 |---|---|---|---|---|
@@ -165,7 +165,7 @@ Razlozi:
 
 ---
 
-## DIREKTNI CITATI IZ MEJLA BOJANA (20.11.2025)
+## Direktni citati iz mejla Bojana (20.11.2025)
 
 > "Ova prepiska postaje pisani dokaz potpunog sloma sistema zaštite najugroženijih i prebacivanja odgovornosti."
 
@@ -175,7 +175,7 @@ Razlozi:
 
 ---
 
-## DOKUMENTA
+## Dokumenta
 
 - Mejl od Bojana Janjatovića (20.11.2025)
 - Mejl od Mirne Nakrajkućin (13.11.-20.11.2025)
@@ -184,11 +184,11 @@ Razlozi:
 
 ---
 
-## ANALIZA PROBLEMA
+## Analiza problema
 
 ### 1. Pritisak na pacijente
 
-Nataša Čubrilo (Rukovodilac službe) je:
+Nataša Čubrilo (rukovodilac službe) je:
 - Telefonom zahtevala dokumente sa tonom koji "prelazi profesionalne granice"
 - Tvrdila da je to "samo 5 minuta" (trivijalizacija potrebe bolesnog čoveka)
 - SMS-om poslala spiske zahteva
@@ -207,7 +207,7 @@ Papir sa zahtevima za dokumente = zahtev za dokumente.
 
 Tvrdnja "nismo ništa tražili" je u neusklađnosti sa činjenicom da je spis papira ostavljen.
 
-### 3. Nema IT Integracije — Katastrofa
+### 3. Nema IT integracije — katastrofa
 
 Gerontološki centar Kikinda:
 - **Nema pristupa e-upravи** (što znači nema pristupa javnim bazama podataka)
