@@ -84,7 +84,7 @@ Iz mejla Bojana:
 - Izvod iz matične knjige (MUP)
 - Podaci o penziji (RFPIO)
 - Uverenje o državljanstvu (MUP)
-- Zdravstvene dokumente (Dom zdravlja)
+- Zdravstvenu dokumentaciju (Dom zdravlja)
 
 ---
 
@@ -95,7 +95,7 @@ Iz mejla Bojana:
 **Bojan je tražio od Dom zdravlja:**
 > "detaljnu kompleтnu, tačnu i ažuriranu listu terапije za pacijenta... tačne doza‌je i tačno vrijeme dava‌nja"
 
-Bojan je to tražio jer je pokrenuo procedure pred CSR i pokušava da vidi ko je odgovoran za šta. Nikakva od institucija nije znala tačne terapije.
+Bojan je to tražio jer je pokrenuo procedure pred CSR i pokušava da vidi ko je odgovoran za šta. Nijedna od institucija nije znala tačne terapije.
 
 **CSR je na to odgovorio:**
 > "Centar nije nadlezan za kako navodite, tumačenje lekova, precizne dozaže i tačnog vremena davanja jer nismo zdravstvena organizacija"
@@ -148,7 +148,7 @@ Trebalo je da institucije to urade.
 - **Odbija negu jer ne razume šta plaća**
 
 Razlozi:
-- Ne razume razlika između Gerontološkog centra i Medic Care
+- Ne razume razliku između Gerontološkog centra i Medic Care
 - Misli da mu "dolaze državne sestre besplatno"
 - Ne razume zakomplicirane dokumente
 
@@ -161,7 +161,7 @@ Razlozi:
 | Institucija | E-uprava | Papirologija | Brzina | Rezultat |
 |---|---|---|---|---|
 | Gerontološki centar (javno) | NE | 5+ meseci, poštom | Spora | Nema nege |
-| Medic Care (privatno) | — | Bez papiriere | Brza | Negu prima svakodnevno |
+| Medic Care (privatno) | — | Bez papirologije | Brza | Negu prima svakodnevno |
 
 ---
 
@@ -195,13 +195,13 @@ Nataša Čubrilo (Rukovodilac službe) je:
 
 Rezultat: Srodnik je tražio od institucija da prikupe dokumente po službenoj dužnosti. Institucije su odgovorile da to ne mogu jer nemaju pristupa e-upravи.
 
-### 2. Kontradikcija u Tvrdnjama
+### 2. Kontradikcija u tvrdnjama
 
 Mirna Nakrajkućin je pisala:
 > "Centar za socijalni rad Kikinda nije zatražio od srodnika (...) ni jedan dokument"
 
 **Činjenica:**
-Mirna je sama bila na terenske posete 13.11.2025 gde je — zajedno sa Natašom — ostavljan papir sa spisom dokumenata koji trebaju.
+Mirna je sama bila na terenskoj poseti 13.11.2025 gde je — zajedno sa Natašom — ostavljan papir sa spisom dokumenata koji trebaju.
 
 Papir sa zahtevima za dokumente = zahtev za dokumente.
 
@@ -226,7 +226,7 @@ CSR je odgovorio:
 **Činjenica:**
 Niko ne zna ko je odgovoran za terapiju — Dom zdravlja ili CSR. Pacijent Milan ostaje bez informacije kako i kada uzimati lekove.
 
-### 5. Privatni Sektor Preuzima Javnu Funkciju
+### 5. Privatni sektor preuzima javnu funkciju
 
 Medic Care (privatna firma):
 - Dolazi dva puta dnevno
@@ -240,13 +240,13 @@ Gerontološki centar (javna služba):
 
 Milan bira Medic Care jer je to jedino što funkcioniše. Javni sistem kreira potrebu za privatizacijom.
 
-### 6. Rezultat Za Pacijenta
+### 6. Rezultat za pacijenta
 
 Milan Janjatović:
 - Ima 158.000 RSD mesečnog prihoda (od čega 33.171 RSD je namenjena za negu)
 - Medicinski ima potrebu za negom (država je to već utvrdila)
 - **Odbija negu jer je sistem toliko zbunjen da ne razume šta plaća**
-- Mislim da mu dolaze "državne sestre besplatno"
+- Misli da mu dolaze "državne sestre besplatno"
 - Ne razume razliku između Gerontološkog centra i Medic Care
 
 **Rezultat:** Čovek koji ima pravo na negu ne dobija negu.
