@@ -193,10 +193,6 @@ Isti obrazac političkog nečinjenja i pogrešnog usmeravanja sredstava vidljiv 
 - Dr Vladimir Suvajac – privatizacija lečenja  
 - Dragana Jevremović – RFZO procedure
 
-### Žrtve
-- Porodice 13 poginulih  
-- 60.000 ljudi na listama čekanja
-
 ---
 
 ## IX. MEĐUNARODNI PRITISAK

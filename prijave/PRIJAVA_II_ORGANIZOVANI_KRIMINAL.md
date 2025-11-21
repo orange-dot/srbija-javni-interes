@@ -165,9 +165,7 @@ Organizovana grupa iste metode koristi i u socijalnoj zaštiti.
 5. Četiri hapšenja – već potvrđen kriminalni obrazac  
 6. RFZO netransparentnost – Sanja Radak De Jongx (09.08.2023) navela da ne postoji obaveza vođenja statistike, suprotno ZUP čl. 211
 
-### Svedoci žrtve
-- Porodice 13 poginulih  
-- Osobe na listama čekanja (60.000)  
+### Svedoci
 - Dr Vladimir Suvajac (privatne operacije)
 
 ---

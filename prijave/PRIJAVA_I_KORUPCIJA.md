@@ -175,9 +175,7 @@ Korupcija u zdravstvu je deo šireg obrasca zloupotrebe budžeta koji obuhvata i
 - Sanja Radak De Jongx (RFZO) – izjava o nepostojanju evidencije odbijenih
 
 ### Dodatni
-- Porodice 13 poginulih u požarima  
-- 60.000 građana na listama čekanja  
-- Osoblje EU Delegacije (anonimno)  
+- Osoblje EU Delegacije (anonimno)
 - Medicinski radnici (potrebna zaštita)
 
 ---
