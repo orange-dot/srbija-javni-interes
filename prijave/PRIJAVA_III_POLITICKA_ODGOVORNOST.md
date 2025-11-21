@@ -10,17 +10,17 @@
 
 ---
 
-## PREDMET: Sistemska politička odgovornost za 13 smrti i patnju 60.000 građana
+## PREDMET: Institucijska i politička odgovornost za sistemski kolaps zdravstva
 
-Podnosim krivičnu prijavu zbog političke odgovornosti najviših državnih funkcionera (2021–2025) čije su svesne odluke dovele do:
-- **13 smrtnih slučajeva** u požarima zbog nepostojanja osnovne zaštite  
-- **60.000 građana** osuđenih na godine čekanja i invaliditet  
-- **Kolapsa zdravstvenog sistema** uprkos raspoloživim sredstvima  
-- **Zloupotrebe oko 50 miliona evra** EU pomoći namenjene spašavanju života
+Podnosim krivičnu prijavu zbog odgovornosti najviših državnih funkcionera (2021–2025) za nemarnost i zloupotubu položaja koja je rezultirala:
+- **13 smrti u požarima domova** koji su radili bez odobrenja ili osnovne zaštite
+- **60.000 građana** sa ozbiljno ograničenim pristupom esencijalnoj zdravstvenoj zaštiti
+- **Dokumentovanim kolapsom zdravstvenog sistema** uprkos raspoloživim kapacitetima i sredstvima
+- **Neefikasnom upotrebom** najmanje 50 miliona EUR EU pomoći bez odgovarajućih rezultata
 
 ---
 
-## I. POLITIČKI KONTEKST – SVESNO ŽRTVOVANJE ZDRAVSTVA
+## I. POLITIČKI KONTEKST – SISTEMSKI PROPUSTI I PROPUSTE PRIORITETA
 
 ### Činjenice o prioritetima
 
@@ -255,13 +255,14 @@ Ova nekoordinacija je direktna posledica budžetskog kolapsa i nedostatka IT inf
 
 ## ZAKLJUČAK
 
-- **13 mrtvih** – posledica političkih prioriteta  
-- **60.000 ljudi invalidizovano** – posledica budžeta i zabrane zapošljavanja  
-- **Kolaps sistema** – posledica svesnih odluka o „šteđnji“
+Dokumentovani su sledeći slučajevi neuspeha sistema i institucionalne odgovornosti:
+- **13 smrti u požarima** – domovi su radili bez odobrenja, što ukazuje na sistemske regulatorne propuste
+- **60.000 građana bez pristupa** – rezultat smanjenih zdravstvenih kapaciteta i budžetske alokacije
+- **Kolaps sistema funkcionalnosti** – rezultat neefikasne alokacije resursa i administrativnih prepreka
 
-Dok se grade fontane i stadioni, ljudi gore u domovima i umiru na listama. Politička odgovornost je obaveza.
+Ključni problem je mismatch između raspoloživih sredstava i njihove efikasne upotebe. Politička odgovornost zahteva da se identifikuju i razmotre sistematski razlozi zašto su sredstva dostupna ali rezultati nedostajni.
 
-**Svaki dan bez akcije znači nove žrtve.**
+**Brza istraga je neophodna kako bi se sprečili dodatni rizici po javno zdravlje.**
 
 **Podnosilac:** [Podaci dostupni tužilaštvu]  
 **Datum:** novembar 2025  

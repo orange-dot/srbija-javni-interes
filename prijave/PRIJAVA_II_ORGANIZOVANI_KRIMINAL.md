@@ -9,13 +9,13 @@
 
 ---
 
-## PREDMET: Organizovana kriminalna grupa koja sistematski uništava zdravstvo – 13 mrtvih, 60.000 ljudi oštećenih
+## PREDMET: Organizovana kriminalna grupa – sistemska korupcija, zloupotreba fondova i institucijski kolaps
 
-Podnosim krivičnu prijavu protiv organizovane kriminalne grupe koja deluje na najvišim nivoima državne vlasti (2021–2025) i koja je kroz koordinisano delovanje dovela do:
-- **13 smrtnih slučajeva** u požarima (januar 2025)  
-- **60.000 građana** osuđenih na invaliditet zbog čekanja  
-- **Stotina dodatnih smrti** usled uskraćenog lečenja  
-- **Krade najmanje 50+ miliona evra** EU fondova
+Podnosim krivičnu prijavu protiv organizovane kriminalne grupe koja deluje na najvišim nivoima državne vlasti (2021–2025) koja je kroz koordinisano delovanje rezultirala:
+- **13 smrti u požarima domova** koji su radili bez odobrenja ili osnove zaštite (januar 2025)
+- **60.000 građana** sa ozbiljno ograničenim pristupom esencijalnoj zdravstvenoj zaštiti
+- **Dokumentovano nedostajuće sredstva** – najmanje 50+ miliona EUR EU fondova bez adekvatnog rezultata
+- **Sistemska nestašica** zdravstvenih kapaciteta koja usmeri građane na privatni sektor
 
 ---
 
@@ -110,19 +110,19 @@ Organizovana grupa iste metode koristi i u socijalnoj zaštiti.
 
 ---
 
-## V. ŽRTVE ORGANIZOVANOG KRIMINALA
+## V. DOKUMENTOVANE POSLEDICE SISTEMSKE KORUPCIJE
 
-### Direktne žrtve
-- **13 poginulih** u požarima (januar 2025) – najteža posledica sistemske korupcije  
-- Dodatne smrtne posledice usled kolapsa usluga
+### Smrti u kontekstu institucijskog kolapsa
+- **13 smrti u požarima domova** (januar 2025) – domovi su radili bez odobrenja ili osnovne zaštite, što ukazuje na sistemsku nadzoru i regulatorne propuste
+- Dodatni zdravstveni rizici usled neuspeha sistema da obezbedi kapacitete
 
-### Masovne indirektne žrtve
-- **60.000 na listama čekanja** – rizik trajnog invaliditeta  
-- Hiljade plaćaju privatno – finansijski uništeni  
-- Milioni bez osnovne nege – svakodnevne patnje
+### Masovno oštećeni građani
+- **60.000 na listama čekanja** – sa ozbiljnom ograničenošću pristupa esencijalnoj zdravstvenoj zaštiti
+- Hiljade prinuđene na privatnu, skupu zdravstvenu zaštitu – finansijska oštećenja
+- Milijuni sa nepotpunom socijalnom zaštitom – uticaj na kvalitet života
 
 ### Sistemske posledice
-- Kolaps poverenja građana i sabotirani EU procesi
+- Erozija poverenja u javne institucije i neuspeha EU reformskih procesa
 
 ---
 
@@ -192,10 +192,10 @@ Organizovana grupa iste metode koristi i u socijalnoj zaštiti.
 ## IX. HITNOST AKCIJE
 
 ### Razlozi
-1. Uništavanje dokaza je u toku  
-2. Novi tenderi planirani, rizik ponavljanja šeme  
-3. Svedoci pod pritiskom (Dr Jovanović i drugi)  
-4. Nove žrtve nastaju svakog dana
+1. Rizik uništavanja ili sakrivanja ključnih dokaza
+2. Novi javni tenderi planirani, rizik ponavljanja identificiranih šema
+3. Svedoci pod potencijalnim pritiskom (Dr Jovanović i drugi)
+4. Kontinuirani zdravstveni rizici za građane – sistemi i dalje bez kapaciteta
 
 ### Trenutni rizici
 - Planirana nova „digitalizacija“ (25M EUR)  

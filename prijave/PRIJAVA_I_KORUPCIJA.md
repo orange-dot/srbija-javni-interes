@@ -11,16 +11,16 @@
 
 ---
 
-## PREDMET: Sistemska korupcija koja je dovela do 13 smrti i 60.000 ljudi na listama čekanja
+## PREDMET: Sistemska korupcija i institucijska disfunkcija u zdravstvu i socijalnoj zaštiti
 
-Podnosim krivičnu prijavu protiv N.N. lica na najvišim državnim funkcijama Republike Srbije za period 2021–2025 zbog osnovane sumnje da su izvršili krivična dela korupcije koja su direktno dovela do:
-- **13 mrtvih** u požarima domova (januar 2025)  
-- **60.000 građana** koji čekaju ortopedske operacije  
-- **Sistemskog kolapsa** zdravstvenog i socijalnog sistema
+Podnosim krivičnu prijavu protiv N.N. lica na najvišim državnim funkcijama Republike Srbije za period 2021–2025 zbog osnovane sumnje da su izvršili krivična dela korupcije, zloupotrebe položaja i nemarnosti koja je rezultirala:
+- **13 smrti u požarima domova** koji su radili bez odobrenja i osnovne zaštite (januar 2025)
+- **60.000 građana** sa ozbiljno ograničenim pristupom esencijalnoj zdravstvenoj zaštiti
+- **Dokumentovanom institucijskom disfunkcijom** koja je dovela do sistemskog kolapsa zdravstvenog i socijalnog sistema
 
 ---
 
-## I. MASOVNE ŽRTVE – PRIORITET ISTRAGE
+## I. DOKUMENTOVANI SLUČAJEVI SMRTI I SISTEMSKOG NEUSPEHA – PRIORITET ISTRAGE
 
 ### 1. Požari sa smrtnim ishodom (januar 2025)
 
@@ -38,7 +38,7 @@ Podnosim krivičnu prijavu protiv N.N. lica na najvišim državnim funkcijama Re
 **Napomena:** EU je kroz IPA fondove izdvojila oko 5 miliona evra za unapređenje PP zaštite domova. Novac je nestao, ljudi su izgoreli.
 - **Strukturni problem:** Privatni domovi nigde nisu regulisani - inspektori Min. za rad izdavali su dozvole bez PP zaštite (potvrđeno hapšenjem 4 službenika). Rezultat: 13 mrtvih u privatnim domovima sa minimalno nadzora.
 
-### 2. Liste čekanja – 60.000 žrtava
+### 2. Sistematske liste čekanja – 60.000 građana bez pristupa
 
 #### Ortopedske operacije
 - Prosečno čekanje: 2–5 godina  
@@ -213,14 +213,14 @@ Korupcija u zdravstvu je deo šireg obrasca zloupotrebe budžeta koji obuhvata i
 
 ## ZAKLJUČAK
 
-Korupcija u zdravstvu nije apstraktna – **ubija ljude**:
-- 13 mrtvih jer je novac za PP zaštitu ukraden  
-- 60.000 ljudi čeka jer je novac za opremu preusmeren  
-- Zajednice trpe jer je sistem uništen korupcijom
+Sistemska korupcija i institucijska disfunkcija imaju direktne posledice po javno zdravlje i bezbednost:
+- 13 smrti u požarima domova koji su radili bez odobrenja ili osnovne zaštite
+- 60.000 građana sa ozbiljno ograničenim pristupom esencijalnoj zdravstvenoj zaštiti
+- Dokumentovana nestašica sredstava i usmerenost javnog sistema na privatizaciju umesto na kapacitet
 
-EU fondovi dodatno pokazuju razmere pljačke. Dok funkcioneri uzimaju milione, građani umiru.
+EU fondovi dodatno pokazuju obim problema: 450+ miliona EUR dodeljeno za reforme, ali bez odgovarajućeg rezultata niti transparentnosti.
 
-**Svaki dan kašnjenja tužilaštva znači nove žrtve.**
+**Ovaj slučaj zahteva hitnu istragu kako bi se sprečila dalja oštećenja publici zdravlje.**
 
 **Podnosilac:** [Podaci dostupni tužilaštvu]  
 **Datum:** novembar 2025  
