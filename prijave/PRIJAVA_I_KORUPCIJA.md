@@ -24,16 +24,19 @@ Podnosim krivičnu prijavu protiv N.N. lica na najvišim državnim funkcijama Re
 
 ### 1. Požari sa smrtnim ishodom (januar 2025)
 
-#### Dom „Ivanović“, Barajevo – 11 mrtvih
-- Datum: 20. januar 2025  
-- Već uhapšeno: 4 službenika Ministarstva za rad  
-- Razlog: nezakonito izdavanje licence bez PP zaštite  
+#### Dom „Ivanović", Barajevo – 11 mrtvih
+- Datum: 20. januar 2025
+- Već uhapšeno: 4 službenika Ministarstva za rad
+- Razlog: nezakonito izdavanje licence bez PP zaštite
 - Korupcija: novac za protivpožarnu opremu preusmeren
+- **Sistemski kontekst:** Dom je privatna institucija. Privatni domovi proliferiraju jer državne institucije nemaju kapaciteta – čekanja mesecima. Korisnici su primorani na privatne usluge gde nadzor i zaštita su minimalni.
 
 #### Dom Vojka – 2 mrtva
 - Slični propusti, ista šema
+- Isti obrazac: privatna institucija, nedostatak nadzora, usmerenost na profit umesto bezbednosti
 
 **Napomena:** EU je kroz IPA fondove izdvojila oko 5 miliona evra za unapređenje PP zaštite domova. Novac je nestao, ljudi su izgoreli.
+- Dodatni problem: umesto ulaganja u kapacitet državnih institucija, fondovi su išli ka privatnim (gde je lošija kontrola i veći rizici)
 
 ### 2. Liste čekanja – 60.000 žrtava
 
@@ -138,9 +141,11 @@ Korupcija u zdravstvu je deo šireg obrasca zloupotrebe budžeta koji obuhvata i
 - Grad daje 30% subvencije samo ako se računi plate u celosti – što je za korisnike pomoći nemoguće  
 - Dugovi prelaze 3,5 miliona RSD po domaćinstvu; 60+ porodica bez struje godinama
 
-### 3. Institucionalna „privatizacija“
-- Umesto zatvaranja velikih ustanova, otvaraju se privatni domovi; broj institucionalizovanih ostaje oko 23.000  
-- Novac se preusmerava sa javnih sistema ka privatnim firmama, segregacija ostaje
+### 3. Institucionalna „privatizacija"
+- **Korijen problema:** Državne institucije nemaju kapaciteta (nedostatak zaposlenih, nefinansirane). Čekanja su dugačke.
+- **Rezultat korupcije:** Umesto investicije u kapacitet državnih institucija, fondovi se preusmeravaju privatnom sektoru bez kontrole
+- Broj institucionalizovanih ostaje oko 23.000 (isto kao 2011) – segregacija se nastavlja, samo je privatizovana
+- Privatni domovi su manje regulisani, osoblje lošije plaćeno, bezbednost minimalna (videti požare)
 
 ---
 
