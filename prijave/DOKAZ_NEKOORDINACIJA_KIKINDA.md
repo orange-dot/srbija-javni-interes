@@ -1,4 +1,4 @@
-# DOKAZ: NEKOORDINACIJA KIKINDA — TIMELINE I CITATI
+# DOKAZ: NEKOORDINACIJA KIKINDA — Timeline i citati
 
 ## PACIJENT: Milan Janjatović
 
@@ -93,12 +93,12 @@ Iz mejla Bojana:
 ### Dom zdravlja — Zdravstvena dokumentacija
 
 **Bojan je tražio od Dom zdravlja:**
-> "detaljnu kompletnu, tačnu i ažuriranu listu terapije za pacijenta... tačne doze i tačno vrijeme davanja"
+> "detaljnu, kompletnu, tačnu i ažuriranu listu terapije za pacijenta... tačnih doza i tačnog vremena davanja"
 
 Bojan je to tražio jer je pokrenuo procedure pred CSR i pokušava da vidi ko je odgovoran za šta. Nijedna od institucija nije znala tačne terapije.
 
 **CSR je na to odgovorio:**
-> "Centar nije nadlezan za kako navodite, tumačenje lekova, precizne dozaže i tačnog vremena davanja jer nismo zdravstvena organizacija"
+> "Centar nije nadlezan za kako navodite, tumačenje lekova, preciznih doza i tačnog vremena davanja jer nismo zdravstvena organizacija"
 
 **Rezultat:** Niko ne preuzima odgovornost za terapiju.
 
@@ -110,7 +110,7 @@ Bojan je to tražio jer je pokrenuo procedure pred CSR i pokušava da vidi ko je
 > "posredovali smo u pronalaženju usluge pomoć i nega u kući Gerontološkog centra Kikinda ali i privatnih usluga Medic care koji korisnika obilaze dva puta dnevno"
 
 **Činjenica:**
-- Gerontološki centar: Čeka papirologiju, sve po pošti, nema e-upravе (5+ meseci)
+- Gerontološki centar: Čeka papirologiju, sve po pošti, nema e-upravи (5+ meseci)
 - Medic Care: Dolazi dva puta dnevno, odmah dostupan
 
 ---
@@ -221,7 +221,7 @@ Rezultat: Sistem je tako paralizovan da Milan (koji ima pravo na negu) ne može 
 Bojan je tražio da Dom zdravlja dostavi detaljnu terapiju Centru za socijalni rad jer **nijedna od institucija nije znala šta da radi sa terapijom**.
 
 CSR je odgovorio:
-> "Centar nije nadlezan za tumačenje lekova, precizne doze i tačno vrijeme davanja jer nismo zdravstvena organizacija"
+> "Centar nije nadlezan za tumačenje lekova, preciznih doza i tačnog vremena davanja jer nismo zdravstvena organizacija"
 
 **Činjenica:**
 Niko ne zna ko je odgovoran za terapiju — Dom zdravlja ili CSR. Pacijent Milan ostaje bez informacije kako i kada uzimati lekove.
@@ -236,7 +236,7 @@ Medic Care (privatna firma):
 Gerontološki centar (javna služba):
 - Čeka papirologiju 5+ meseci
 - Sve po pošti
-- Nema e-upravе
+- Nema e-upravи
 
 Milan bira Medic Care jer je to jedino što funkcioniše. Javni sistem kreira potrebu za privatizacijom.
 
