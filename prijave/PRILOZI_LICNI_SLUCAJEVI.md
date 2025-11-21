@@ -8,7 +8,7 @@
 
 ---
 
-## 1) [Pacijent 1] (majka podnosioca, umrla 2023)
+## 1) [Pacijent 1] (starija osoba sa hroničnom bolešću, umrla 2023)
 
 **Zdravstveno stanje:** Dijabetes tip 2 sa komplikacijama; potrebna specijalistička i laboratorijska praćenja.
 
