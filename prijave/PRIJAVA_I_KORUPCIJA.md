@@ -70,8 +70,8 @@ Podnosim krivičnu prijavu protiv N.N. lica na najvišim državnim funkcijama Re
 2. Urgentni centri: 15 miliona EUR – 2 od 8 planiranih funkcionalna (EU monitoring 2024)
 3. Zaštita privatnih domova: 5 miliona EUR – sredstva neispravno korišćena (potvrđeno hapšenjima inspektora)
 
-**Gerontološki centar Kikinda potvrđuje:**  
-> „Digitalizacija nije započeta i ne predviđa se.“
+**Gerontološki centar Kikinda potvrđuje:**
+> „Nemamo pristup e-purpavi i ne možemo nabavljati dokumenta po službenoj dužnosti."
 
 ### C. Mehanizmi krađe
 
