@@ -212,10 +212,13 @@ Rezultat: Sistem je tako paralizovan da Milan (koji ima pravo na negu) ne može 
 
 ### 4. Nekoordinacija Institucija
 
-- Dom zdravlja se ne razumeva sa Centrom za socijalni rad
-- CSR traži od Dom zdravlja detaljnu terapiju, a Dom zdravlja kaže "to nije naša dužnost"
-- CSR kaže Dom zdravstvu "ne razumemo lekove, vi rešite"
-- Milan je između njih, bez nege
+Bojan je tražio da Dom zdravlja dostavi detaljnu terapiju Centru za socijalni rad jer **nikakva od institucija nije znala šta da radi sa terapijom**.
+
+CSR je odgovorio:
+> "Centar nije nadlezan za tumačenje lekova, precizne doze i tačno vrijeme davanja jer nismo zdravstvena organizacija"
+
+**Činjenica:**
+Niko ne zna ko je odgovoran za terapiju — Dom zdravlja ili CSR. Pacijent Milan ostaje bez informacije kako i kada uzimati lekove.
 
 ### 5. Privatni Sektor Preuzima Javnu Funkciju
 
