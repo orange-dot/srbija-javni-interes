@@ -179,6 +179,22 @@ Isti obrazac političkog nečinjenja i pogrešnog usmeravanja sredstava vidljiv 
 
 ---
 
+## VII.B. NEKOORDINACIJA ZDRAVSTVA I SOCIJALNE ZAŠTITE – PRIMENA NA KIKINDI
+
+Dokumentovana je sistemska nekoordinacija između zdravstva i socijalne zaštite u Kikinidi kroz korespondenciju iz novembra 2025:
+
+### Evidentirani problemi:
+1. **Pritisak na pacijente i rodbinu** — Službeni zahtevi dostavljeni telefonskim pozivima sa tone koja "prelaze profesionalne granice"
+2. **Nema IT integracije** — Institucije nemaju pristupa e-upravи; pacijentove rodbine moraju da prikupljaju dokumente koje bi institucije trebale da pribave po službenoj dužnosti
+3. **Rezultat za pacijenta** — Pacijent sa dokazanom potrebom za negom (158.000 RSD mesečnog prihoda, od čega 33.171 RSD za tuđu negu) **odbija profesionalnu negu jer je sistem toliko zbunjen da nema jasne slike šta plaća**
+4. **Privatni sektor preuzima javnu funkciju** — Medic Care (privatna firma) dolazi dva puta dnevno jer javni sistem nije u stanju da organizuje osnovnu negu
+
+Detaljnu dokumentaciju videti u: [DOKAZ_NEKOORDINACIJA_KIKINDA.md](../DOKAZ_NEKOORDINACIJA_KIKINDA.md)
+
+Ova nekoordinacija je direktna posledica budžetskog kolapsa i nedostatka IT infrastrukture, što su donošenje odluka od strane donosialaca odluka koje su dokumentovane u ovoj prijavi.
+
+---
+
 ## VIII. SVEDOCI
 
 ### Institucionalni

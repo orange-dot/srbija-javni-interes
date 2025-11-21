@@ -101,7 +101,22 @@ Korupcija zahvata zdravstvo, socijalnu zaštitu i stanovanje – pokazuje se sis
 | Socijalna karta IT | 3M (procena) | algoritamsko isključivanje | 60.000 izgubilo pravo | najugrozeniji |
 | Socijalno stanovanje | 12M (EU + domace) | duznicka zamka | dug 3,5M RSD po domacinstvu | siromasne porodice |
 
-**Cirkularni efekat:** zdravstvo kolabira → socijalna zaštita koristi institucije kao zamenu → „deinstitucionalizacija“ postaje privatizacija → socijalno stanovanje postaje zamka duga. Ukupan efekat: isti broj ljudi u institucijama kao 2011, uz dodatno isključenje desetina hiljada korisnika socijalne pomoći.
+**Cirkularni efekat:** zdravstvo kolabira → socijalna zaštita koristi institucije kao zamenu → „deinstitucionalizacija" postaje privatizacija → socijalno stanovanje postaje zamka duga. Ukupan efekat: isti broj ljudi u institucijama kao 2011, uz dodatno isključenje desetina hiljada korisnika socijalne pomoći.
+
+---
+
+## 4.B. PRIMENA NA KIKINDI: PRITISAK NA PACIJENTE I NEDOSTATAK IT INTEGRACIJE
+
+Sistemska nekoordinacija između zdravstva i socijalne zaštite je dokumentovana kroz korespondenciju između pacijentove rodbine i institucija u Kikinidi (2025):
+
+**Ključni dokazi:**
+1. **Pritisak na srodike** — Nataša Čubrilo (Rukovodilac službe, GC) preslava telefonski pozive sa zahtevima za dokumentacijom, uz tone koji "prelaze profesionalne granice"
+2. **Nema IT integracije** — Gerontološki centar Kikinda nema pristupa e-upravи, što znači da institucije ne mogu da pribave osnovne dokumente (izvodi iz matične knjige, podaci o penzijama, zdravstvena dokumentacija)
+3. **Prebacivanje odgovornosti** — Institucije zahtevaju da pacijent ili rodbina pribavi dokumente koje bi trebalo da pribave po službenoj dužnosti
+4. **Rezultat** — Pacijent koji ima pravo na negu (158.000 RSD mesečnog prihoda, od čega 33.171 RSD za tuđu negu) **odbija profesionalnu negu jer je sistem toliko zbunjen da ne razume šta plaća**
+5. **Privatni sektor preuzima** — Medic Care (privatna firma) dolazi dva puta dnevno jer javni sektor ne može da organizuje osnovnu zdravstveno-socijalnu negu
+
+**Detaljnu analizu videti u:** [DOKAZ_NEKOORDINACIJA_KIKINDA.md](DOKAZ_NEKOORDINACIJA_KIKINDA.md)
 
 ---
 
