@@ -103,7 +103,7 @@ Prema dostupnom medijskom istraživanju (KRIK, 2022), izvršeni su tenderi sa fi
 ### Osumnjičeni (N.N. lica za identifikaciju)
 
 #### Politički nivo (2021–2025)
-- Premijeri/premijerke: Ana Brnabić, Miloš Vučević, Đuro Macut  
+- Premijeri/premijerke: Ana Brnabić, Miloš Vučević  
 - Ministri zdravlja: Zlatibor Lončar, Danica Grujičić  
 - Ministar finansija: Siniša Mali (45 sumnjivih računa – izveštaj ASK)
 

@@ -24,7 +24,7 @@ Podnosim krivičnu prijavu protiv organizovane kriminalne grupe koja deluje na n
 ### Vrhovni nivo – „komandni lanac“
 
 #### Političko rukovodstvo (donosi odluke)
-- Predsednici vlada (2021–2025): Ana Brnabić, Miloš Vučević, Đuro Macut  
+- Predsednici vlada (2021–2025): Ana Brnabić, Miloš Vučević  
 - Ministri zdravlja: Zlatibor Lončar, Danica Grujičić  
 - Ministar finansija: Siniša Mali
 
