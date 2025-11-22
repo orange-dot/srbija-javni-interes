@@ -37,8 +37,8 @@ Podnosim krivičnu prijavu zbog odgovornosti najviših državnih funkcionera (20
 
 ### Političke odluke koje produžavaju štetu
 
-1. **Zabrana zapošljavanja u zdravstvu**  
-   - Kikinda: sa 14 na 7 medicinskih radnika, 24h pokrivanje svelo se na 8h  
+1. **Zabrana zapošljavanja u zdravstvu**
+   - Kikinda: gerontološka služba nege u kući ima 7 negovatelja, 24h pokrivanje svelo se na 8h
    - Posledica: nedostatak palijativne nege i smanjen pristup uslugama  
 2. **Smanjenje budžeta zdravstva**  
    - Nema novca za PP opremu → 13 mrtvih  
@@ -79,7 +79,7 @@ Podnosim krivičnu prijavu zbog odgovornosti najviših državnih funkcionera (20
 - EU Delegation (2024): „Discrepancies between reported and observed“  
 - WHO Europa (2024): „Concerning deterioration of health indicators“
 
-**Posledice:** zastoj u Poglavlju 28, gubitak kredibiliteta, moguće suspendovanje IPA fondova.
+**Relevantne indicije:** Dokumentovane nedoslednosti između prijavljenih i stvarnih rezultata zahtevaju pojačanu kontrolu EU institucija.
 
 ---
 
@@ -184,7 +184,7 @@ Isti obrazac političkog nečinjenja i pogrešnog usmeravanja sredstava vidljiv 
 Dokumentovana je sistemska nekoordinacija između zdravstva i socijalne zaštite u Kikinidi kroz korespondenciju iz novembra 2025:
 
 ### Evidentirani problemi:
-1. **Pritisak na pacijente i rodbinu** — Službeni zahtevi dostavljeni telefonskim pozivima sa tone koja "prelaze profesionalne granice"
+1. **Pritisak na pacijente i rodbinu** — Službeni zahtevi dostavljeni telefonskim pozivima tonom koja prelazi profesionalne granice
 2. **Nema IT integracije** — Institucije nemaju pristupa e-upravи; pacijentove rodbine moraju da prikupljaju dokumente koje bi institucije trebale da pribave po službenoj dužnosti
 3. **Rezultat za pacijenta** — Pacijent sa dokazanom potrebom za negom (158.000 RSD mesečnog prihoda, od čega 33.171 RSD za tuđu negu) **odbija profesionalnu negu jer je sistem toliko zbunjen da nema jasne slike šta plaća**
 4. **Privatni sektor preuzima javnu funkciju** — Medic Care (privatna firma) dolazi dva puta dnevno jer javni sistem nije u stanju da organizuje osnovnu negu
@@ -210,37 +210,36 @@ Ova nekoordinacija je direktna posledica budžetskog kolapsa i nedostatka IT inf
 
 ---
 
-## IX. MEĐUNARODNI PRITISAK
+## IX. RELEVANTNE MEĐUNARODNE INSTITUCIJE
 
-### EU može
-- Suspendovati IPA fondove  
-- Blokirati Poglavlje 28  
-- Javno osuditi i zahtevati odgovornost
+### EU institucije
+- Europski revizorski sud – mogućnost procesuiranja fraud slučaja
+- OLAF – istraga zloupotreba EU fondova
+- EU Komisija – analiza sistema nadzora
 
-### WHO može
-- Objaviti kritičan izveštaj  
-- Poslati urgentnu misiju  
-- Aktivirati međunarodnu pomoć
+### WHO
+- Monitoring zdravstvenih sistema u sagledu sa međunarodnim standardima
+- Saradnja sa nacionalnim zdravstvenim organima
 
 ### Savet Evrope
-- Pitanja ljudskih prava i pravo na zdravlje  
-- Evropski sud za ljudska prava
+- Praćenje standarda ljudskih prava
+- Praćenje prava na zdravlje
 
 ---
 
-## X. ZAHTEVI
+## X. ZNAČAJNI ELEMENTI ZA ISTRAGU
 
-### Od tužilaštva
-1. Utvrditi političku odgovornost za odluke 2021–2025  
-2. Ispitati sve ministre i premijere iz navedenog perioda  
-3. Dokumentovati vezu odluka i posledica  
-4. Procesuirati za posledice po živote i materijalnu štetu
+### Faktori relevantni za domaće organе
+1. Dve dekade (2021–2025) sa dokumentovanim odlukama
+2. Identifikovani ministri i premijeri sa poznatim odlukama
+3. Raspoloživi dokumenti koji pokazuju vezu između odluka i posledica
+4. Dokumentovane žrtve (13 smrti, 60.000 bez pristupa)
 
-### Od EU/međunarodnih tela
-1. Suspendovati fondove do utvrđivanja odgovornosti  
-2. Zahtevati nezavisnu istragu  
-3. Objaviti nalaze  
-4. Usloviti dalju pomoć stvarnim reformama
+### Faktori relevantni za međunarodne organe
+1. Dostupni EU monitoring izveštaji i procene
+2. IPA III fondovi dostupni za analizu (450M+ EUR)
+3. EU regulativa relevantna za slučaj
+4. Mogućnost poboljšanja sistema nadzora na osnovu nalaza
 
 ---
 

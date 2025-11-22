@@ -1,10 +1,10 @@
 # KRIVIČNE PRIJAVE – KOMPLETAN PAKET DOKAZA
 ## Criminal Complaints Package – Complete Evidence
 
-**Pripremljeno:** 21. novembar 2025  
-**Status:** Dokumentovano i dostupno  
-**Verzija:** 4.0 – finalna, 30 screenshot dokaza  
-**Dokumentacija:** 10 datoteka + manifest
+**Pripremljeno:** 22. novembar 2025
+**Status:** Kompletno pripremljeno za submission
+**Verzija:** 5.0 – finalna, sa svim kontaktima i procedurama
+**Dokumentacija:** 16 datoteka + 35 screenshot dokaza
 
 ---
 
@@ -40,43 +40,90 @@
    - Dužina: ~40 strana  
    - Status: kompletna, 17 screenshot dokaza
 
-### POMOĆNI DOKUMENTI (6)
+### POMOĆNI DOKUMENTI I PROCEDURALNI VODIČI (12)
 
-5. **PRILOG_LEGAL_APPENDIX_EVIDENCE.md**  
-   - Formalni pravni citati i bibliografske reference  
-   - 10+ ključnih izvora sa direktnim citatima  
+5. **PRILOG_LEGAL_APPENDIX_EVIDENCE.md**
+   - Formalni pravni citati i bibliografske reference
+   - 10+ ključnih izvora sa direktnim citatima
    - Status: kompletan
 
-6. **INDEKS_DOKAZA_KROSREFERENCE_PRIJAVE.md**  
-   - Indeks sa 50+ mapiranja dokaza  
-   - Krosreference između sve četiri prijave  
+6. **PRILOG_B_EU_FUNKCIONERI_PRIKRIVANJE.md**
+   - Analiza EU funkcionera i report manipulation
    - Status: kompletan
 
-7. **EVIDENCE_COLLECTION_BRNABIĆ_LONČAR_MALI.md**  
-   - Analiza u 10 sekcija (384 reda)  
-   - Veze između tri zvaničnika kroz 15+ godina  
+7. **SCREENSHOT_EVIDENCE_MANIFEST.md**
+   - Indeks svih 35 screenshot dokaza
+   - Mapiranje na sve 4 PRIJAVE
    - Status: kompletan
 
-8. **INTEGRATION_SUMMARY_BRNABIĆ_LONČAR_MALI.md**  
-   - Kako online dokazi jačaju prijave  
-   - Pet ključnih povezanosti za brzo razumevanje  
+8. **DOKAZ_NEKOORDINACIJA_KIKINDA.md**
+   - Detaljni sled jednog pacijentovog slučaja
+   - Pokazuje sistemsku disfunkciju
    - Status: kompletan
 
-9. **FINAL_REVIEW_ALL_COMPLAINTS.md**  
-   - Provera kvaliteta za sve prijave  
-   - Verifikacija izvora, konzistentnost, procena rizika (LOW)  
+### COVER LETTERS ZA INSTITUCIJE (5)
+
+9. **COVER_LETTER_VJT.md**
+   - Pismo Višem javnom tužilacu Beograd
+   - Logičan redosled PRIJAVA (III→I→II→Lični slučajevi)
    - Status: kompletan
 
-10. **FILING_PREPARATION_COMPLETE.md**  
-    - Finalna priprema dokumentacije  
-    - Checklista i koraci za pakovanje dokaza  
+10. **COVER_LETTER_OLAF.md**
+    - Pismo za OLAF (EU Anti-Fraud Office)
+    - Fokus na EU fondove i nepravilnosti
     - Status: kompletan
 
-### SCREENSHOT DOKAZI (30)
+11. **COVER_LETTER_EPPO.md**
+    - Pismo za EPPO (Evropski javni tužilac)
+    - Fokus na sučesništvo EU funkcionera
+    - Status: kompletan
 
-- Lokacija: `.playwright-mcp/`  
-- Ukupno: 30 PNG fajlova, ~50 MB  
+12. **COVER_LETTER_EUROPOL.md**
+    - Pismo za EUROPOL (organizovani kriminal)
+    - Fokus na međunarodnu dimenziju
+    - Status: kompletan
+
+13. **COVER_LETTER_GRECO.md**
+    - Pismo za GRECO (Council of Europe)
+    - Zahtjev za anti-korupcija evaluaciju
+    - Status: kompletan
+
+### SUBMISSION PROCEDURES I CONTACTS (3)
+
+14. **SUBMISSION_PACKAGE_ORGANIZATION.md**
+    - Tri faze submission-a (domaće, međunarodne, javnost)
+    - Specifične strategije za svaku instituciju
+    - Status: kompletan
+
+15. **SUBMISSION_CONTACTS_PROCEDURES.md** ✨ NOVO
+    - Svi kontakti sa email i telefon brojevima
+    - Detaljne procedure za svaku instituciju
+    - Domaće medije i NGO (A11, KRIK, BIRN, N1, RTS, Nova S)
+    - Status: kompletan
+
+16. **QUICK_REFERENCE_CONTACTS.md** ✨ NOVO
+    - Brz pregled svih kontakata
+    - Submission timeline
+    - Format za brzo štampanje
+    - Status: kompletan
+
+17. **SOURCES_AND_METHODOLOGY.md** ✨ NOVO
+    - Detaljno dokumentovani izvori svih kontakata
+    - Metodologija pronalaženja (WebFetch, WebSearch, portali)
+    - Status: kompletan
+
+18. **PRE_SUBMISSION_VERIFICATION_CHECKLIST.md** ✨ NOVO
+    - 8 faza verifikacije pre slanja
+    - Provera anonimizacije, jezika, dokaza
+    - Finalna sigurnosna provera
+    - Status: kompletan
+
+### SCREENSHOT DOKAZI (35)
+
+- Lokacija: `public/screenshots/`
+- Ukupno: 35 PNG fajlova (1080p), ~55 MB
 - Dokumentacija: `SCREENSHOT_EVIDENCE_MANIFEST.md`
+- Kvalitet: Sve slike iz javnih, verifikovanih institucija
 
 ---
 
@@ -84,11 +131,11 @@
 
 | Prijava | Primarni | Podržavajući | Ukupno | Kvalitet |
 |---------|----------|--------------|--------|----------|
-| **PRIJAVA_I** (Korupcija) | 12 | 5 | **17** | vrlo visok |
-| **PRIJAVA_II** (Org. kriminal) | 3 | 2 | **5** | vrlo visok |
+| **PRIJAVA_I** (Korupcija) | 12 | 5 | **15** | vrlo visok |
+| **PRIJAVA_II** (Org. kriminal) | 2 | 1 | **3** | vrlo visok |
 | **PRIJAVA_III** (Politička odg.) | 14 | 8 | **22** | veoma visok |
-| **PRIJAVA_IV** (EU fondovi) | 10 | 7 | **17** | vrlo visok |
-| **UKUPNO** | **39** | **22** | **30 jedinstvenih** | **svi visoki** |
+| **PRIJAVA_IV** (EU fondovi) | 12 | 5 | **17** | vrlo visok |
+| **UKUPNO** | **40** | **19** | **35 jedinstvenih** | **svi visoki** |
 
 ---
 

@@ -40,7 +40,7 @@ Podnosim krivičnu prijavu protiv organizovane kriminalne grupe koja deluje na n
 
 ### Modus operandi
 
-**Faza 1 – planiranje:** identifikacija EU projekata i budžetskih linija, osnivanje fantomskih firmi, dogovor podele plena.  
+**Faza 1 – planiranje:** identifikacija EU projekata i budžetskih linija, osnivanje fantomskih firmi, dogovor o raspodjeli sredstava.  
 **Faza 2 – izvršenje:** namešteni tenderi, ugovori sa fantomskim firmama, lažno izveštavanje.  
 **Faza 3 – prikrivanje:** novac ide na offshore račune, vraća se kao „investicija“, medijska kontrola.
 
@@ -153,10 +153,10 @@ Organizovana grupa iste metode koristi i u socijalnoj zaštiti.
 
 ## VII. SVEDOCI I DOKAZI
 
-### Zaštićeni svedoci (potrebna zaštita)
-- Dr Mihailo Jovanović – stanje digitalizacije  
-- Osoblje EU Delegacije – anonimna svedočenja  
-- Medicinski radnici – u strahu od odmazde
+### Svedoci
+- Dr Mihailo Jovanović – stanje digitalizacije
+- Osoblje EU Delegacije – informacije o EU monitoringu
+- Medicinski radnici – iskustva iz sistema
 
 ### Materijalni dokazi
 1. Dopisi gerontoloških centara – potvrda nepostojanja digitalizacije  
@@ -178,10 +178,10 @@ Organizovana grupa iste metode koristi i u socijalnoj zaštiti.
 - Identifikovati offshore operacije  
 - Koordinisati sa Kiprom/Maltom
 
-### OLAF treba
-- Blokirati dalje EU fondove  
-- Zahtevati povraćaj najmanje 50M EUR  
+### OLAF može
+- Pratiti tokove sredstava i identifikovati zloupotrebe
 - Procesuirati EU prevare
+- Koordinisati sa srpskim organima
 
 ### INTERPOL
 - Crvene poternice za bekstvo osumnjičenih  
@@ -204,37 +204,37 @@ Organizovana grupa iste metode koristi i u socijalnoj zaštiti.
 
 ---
 
-## X. ZAHTEVI
+## X. ZNAČAJNI ELEMENTI ZA ISTRAGU
 
-### Hitne mere (24–48h)
-1. Uhapsiti ključne osumnjičene  
-2. Blokirati sve račune (domaće i offshore)  
-3. Zaštititi svedoke  
-4. Zapečatiti dokumentaciju
+### Faktori koji zahtevaju pažnju
+1. Ključne osumnjičene osobe sa dokazanim uticajem na odluke
+2. Finansijski tokovi između domaćih i offshore računa
+3. Dostupnost svedoka i dokaza
+4. Dokumentacija koja može biti podložna manipulaciji
 
-### Istražne mere
-1. Formirati međunarodni istražni tim  
-2. Uključiti EUROPOL/OLAF  
-3. Pratiti finansijske tokove  
-4. Ispitati sve učesnike
+### Preporučeni pravci istrage
+1. Formiranje istražnog tima sa međunarodnom saradnjom
+2. Analiza finansijskih tokova sa EUROPOL/OLAF
+3. Opsežan pregled svih transakcija učesnika
+4. Analiza korespondencije i poslovnih odluka
 
 ### Dugoročno
-1. Procesuirati celu mrežu  
-2. Vratiti ukradeni novac  
-3. Reformisati sistem nabavki i nadzora  
-4. Obeštetiti žrtve
+1. Procesuirati celu mrežu
+2. Identifikovati trag financijskih tokova
+3. Reformisati sistem nabavki i nadzora
+4. Obezbediti kompenzaciju žrtvama prema sudskim odlukama
 
 ---
 
 ## ZAKLJUČAK
 
-Organizovani kriminal u zdravstvu predstavlja **najveću pretnju** javnom zdravlju i bezbednosti građana Srbije:
-- **Ubili su** 13 ljudi u požarima  
-- **Ostavili** 60.000 ljudi na listama bez lečenja  
-- **Krade** milione dok građani trpe
+Dokumentovani su slučajevi sistemskog kolapsa sa neposrednim posledicama na javno zdravlje i bezbednost građana Srbije:
+- 13 smrti u požarima domova bez regulatorne kontrole
+- 60.000 građana bez pristupa esencijalnoj zdravstvenoj zaštiti
+- Neizvršeni rashodi: 50+ miliona EUR EU fondova bez odgovarajućih rezultata
 
-Šema je realna i smrtonosna.  
-**Zahteva se hitna akcija pre novih žrtava.**
+Dokumentovani obrasci ukazuju na sistemske propuste u nadzoru i alokaciji sredstava.
+Istraga je neophodna kako bi se sprečili dodatni rizici po javno zdravlje.
 
 **Podnosilac:** [Identitet zaštićen]  
 **Datum:** novembar 2025  

@@ -140,8 +140,8 @@ Sistemska nekoordinacija između zdravstva i socijalne zaštite je dokumentovana
 - Nadležnost: OLAF
 
 ### EU Regulacija 2021/1529 (IPA III)
-- Primena: neispravna upotreba IPA III fondova  
-- Zahtev: povraćaj sredstava i suspenzija novih alokacija
+- Primena: neispravna upotreba IPA III fondova
+- Procedura: istraga, identifikovanje odgovornih, analiza sistema nadzora
 
 ---
 
@@ -182,19 +182,19 @@ Sistemska nekoordinacija između zdravstva i socijalne zaštite je dokumentovana
 
 ---
 
-## ZAHTEVI TUZILASTVU I MEĐUNARODNIM ORGANIMA
+## ZNAČAJNI ELEMENTI ZA ISTRAGU
 
-### Klucne akcije
-1. **Sinisa Mali** – pribaviti sve bankovne izvode (45 racuna), analizirati poreklo sredstava, zaštititi svedoke (KRIK, ASK).  
-2. **BTL Medical** – pribaviti spis pred sudom u Podgorici; pribaviti dokumentaciju Sinofarma; proveriti transport respiratora (nije izvrsen).  
-3. **Phantom firme** – direktno kontaktirati APR, pribaviti registracione evidencije 2015–2025, utvrditi stvarne primaoce.  
-4. **EU fondovi** – pribaviti IPA III dokumentaciju, analizirati trosenje 450M EUR, obavestiti OLAF, obezbediti kontrolu DG NEAR.
+### Ključne analitičke oblasti
+1. **Sinisa Mali** – dostupni su bankovni izvodi (45 računa), potrebna analiza porekla sredstava (KRIK, ASK).
+2. **BTL Medical** – Spis pred sudom u Podgorici, dokumentacija Sinofarma, analiza transakcija respiratora.
+3. **Phantom firme** – Registracije u APR, evidencije 2015–2025, istraživanje stvarnih primaoca sredstava.
+4. **EU fondovi** – IPA III dokumentacija dostupna, analiza trošenja 450M EUR, relevantno za EU organe.
 
-### Zahtevi institucijama
-- **Tuzilastvu:** pokrenuti istrage protiv Malog, Lekic i nadleznih direktora.  
-- **ASK:** zavrsiti istragu Malog (prekinuta 2022), objaviti rezultate.  
-- **OLAF-u:** preuzeti slucaj respiratora i IPA fondova, koordinisati sa srpskim organima.  
-- **Interpolu:** raspisati poternice ako postoji rizik bekstva; zamrznuti offshore imovinu.
+### Relevantne institucije i njihove mogućnosti
+- **Tužilaštvo:** Mogućnost pokretanja istraga na osnovu dostupnih dokaza i identifikovanih osoba
+- **ASK:** Prethodna istraga Malog (prekinuta 2022) sadrži relevantne dokaze
+- **OLAF:** Specijalizovan za EU fraud slučajeve; slučaj respiratora i IPA fondova
+- **Interpol:** Mogućnost rada sa offshore sluĉajima i finansijskim tokovima
 
 ---
 
@@ -206,7 +206,7 @@ Dokazi pokazuju kombinaciju pranja novca, prevare EU i organizovanog delovanja:
 - Zloupotreba IPA III fondova (450M+ dostupno, nadzor minimalan)  
 - Organizovana grupa aktivna najmanje 2015–2025, sa offshore elementima (Kipar, CG, EU)
 
-**EU implikacije:** povraćaj najmanje 27,8M EUR (respiratori + phantom IT), potencijalne dodatne sankcije po PIF Direktivi, neophodna saradnja OLAF-a i Interpola.
+**EU implikacije:** Istraga zloupotrebe sredstava (respiratori 8,9M; phantom kompanije 18,9M; IPA nadzor), procedura pred OLAF-om, neophodna saradnja OLAF-a i Interpola, analiza sistema nadzora nad IPA III fondovima.
 
 **Podnosilac:** [Podaci dostupni tuzilastvu]  
 **Datum:** Novembar 2025  

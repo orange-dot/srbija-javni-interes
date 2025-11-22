@@ -176,18 +176,18 @@ Korupcija u zdravstvu je deo šireg obrasca zloupotrebe budžeta koji obuhvata i
 - Sanja Radak De Jongx (RFZO) – izjava o nepostojanju evidencije odbijenih
 
 ### Dodatni
-- Osoblje EU Delegacije (anonimno)
-- Medicinski radnici (potrebna zaštita)
+- Osoblje EU Delegacije
+- Medicinski radnici
 
 ---
 
 ## VII. MEĐUNARODNA DIMENZIJA
 
 ### Uloga OLAF-a
-- Blokada daljih EU fondova  
-- Zahtev za povraćaj najmanje 50 miliona EUR  
-- Pokretanje nezavisne istrage  
-- Međunarodni pritisak na domaće organe
+- Istraga tokova EU sredstava
+- Identifikovanje zloupotreba i nezakonitih transferi
+- Pokretanje procedura pred EU organima
+- Saradnja sa domaćim organima
 
 ### Već iskazane sumnje EU
 - Evropski revizorski sud (2025): „High risk of fraud in Serbian health sector“  
@@ -195,19 +195,19 @@ Korupcija u zdravstvu je deo šireg obrasca zloupotrebe budžeta koji obuhvata i
 
 ---
 
-## VIII. ZAHTEVI
+## VIII. ZNAČAJNI ELEMENTI ZA ISTRAGU
 
-### Hitne mere
-1. Pokretanje istrage za sva N.N. lica  
-2. Blokada računa osumnjičenih  
-3. Zaštita svedoka (posebno Dr Jovanovića)  
-4. Koordinacija sa OLAF-om o EU fondovima
+### Faktori koji zahtevaju pažnju
+1. Identifikovana N.N. lica sa dokazanom ulogom u odlukama
+2. Finansijski tokovi na računima osumnjičenih
+3. Dostupnost svedoka sa relevantnom informacijom
+4. Koordinacija sa EU organima oko EU fondova
 
-### Sistem‑ske mere
-1. Oduzimanje imovine stečene kriminalom  
-2. Povraćaj novca u zdravstveni sistem  
-3. Procesuiranje svih učesnika  
-4. Reforma javnih nabavki i kontrole EU projekata
+### Preporučeni pravci procesuiranja
+1. Analiza imovine stečene u periodu relevantnom za predmet
+2. Analiza upotebe sredstava u zdravstvenom sistemu
+3. Ispitivanje svih učesnika u identifikovanoj mreži
+4. Analiza procedura u javnim nabavkama i EU projektima
 
 ---
 
