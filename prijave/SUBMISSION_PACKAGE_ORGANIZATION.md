@@ -214,8 +214,8 @@ SUBMISSION_PAKET_OLAF/
 **Pismo:**
 > Similar to OLAF but emphasizing:
 > - Direktiva 2017/1371 (PIF) – zaštita finansijskih interesa EU
-> - Sučesništvo EU funkcionera kroz nečinjenje (passivity)
-> - Procjena štetnih efekata: najmanje 131.9M EUR
+> - Propusti u nadzoru EU funkcionera kroz nečinjenje ili nedoslednu primenu procedura
+> - Potreba za forenzičkom analizom izveštaja i dokumentacije
 
 ---
 
