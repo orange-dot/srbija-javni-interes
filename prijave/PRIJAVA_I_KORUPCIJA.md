@@ -71,7 +71,7 @@ Podnosim krivičnu prijavu protiv N.N. lica na najvišim državnim funkcijama Re
 3. Zaštita privatnih domova: 5 miliona EUR – sredstva neispravno korišćena (potvrđeno hapšenjima inspektora)
 
 **Gerontološki centar Kikinda potvrđuje:**
-> „Nemamo pristup e-purpavi i ne možemo nabavljati dokumenta po službenoj dužnosti."
+> „Nemamo pristup e-upravi i ne možemo nabavljati dokumenta po službenoj dužnosti."
 
 ### C. Mehanizmi krađe
 

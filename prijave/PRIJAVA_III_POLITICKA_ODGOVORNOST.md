@@ -185,7 +185,7 @@ Dokumentovana je sistemska nekoordinacija između zdravstva i socijalne zaštite
 
 ### Evidentirani problemi:
 1. **Pritisak na pacijente i rodbinu** — Službeni zahtevi dostavljeni telefonskim pozivima tonom koja prelazi profesionalne granice
-2. **Nema IT integracije** — Institucije nemaju pristupa e-upravи; pacijentove rodbine moraju da prikupljaju dokumente koje bi institucije trebale da pribave po službenoj dužnosti
+2. **Nema IT integracije** — Institucije nemaju pristupa e-upravi; pacijentove rodbine moraju da prikupljaju dokumente koje bi institucije trebale da pribave po službenoj dužnosti
 3. **Rezultat za pacijenta** — Pacijent sa dokazanom potrebom za negom (158.000 RSD mesečnog prihoda, od čega 33.171 RSD za tuđu negu) **odbija profesionalnu negu jer je sistem toliko zbunjen da nema jasne slike šta plaća**
 4. **Privatni sektor preuzima javnu funkciju** — Medic Care (privatna firma) dolazi dva puta dnevno jer javni sistem nije u stanju da organizuje osnovnu negu
 

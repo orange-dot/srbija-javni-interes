@@ -120,7 +120,7 @@ Sistemska nekoordinacija između zdravstva i socijalne zaštite je dokumentovana
 
 **Ključni dokazi:**
 1. **Pritisak na srodike** — [GC radnik] (Rukovodilac službe, GC) preslava telefonski pozive sa zahtevima za dokumentacijom, uz tone koji "prelaze profesionalne granice"
-2. **Nema IT integracije** — Gerontološki centar Kikinda nema pristupa e-upravи, što znači da institucije ne mogu da pribave osnovne dokumente (izvodi iz matične knjige, podaci o penzijama, zdravstvena dokumentacija)
+2. **Nema IT integracije** — Gerontološki centar Kikinda nema pristupa e-upravi, što znači da institucije ne mogu da pribave osnovne dokumente (izvodi iz matične knjige, podaci o penzijama, zdravstvena dokumentacija)
 3. **Prebacivanje odgovornosti** — Institucije zahtevaju da pacijent ili rodbina pribavi dokumente koje bi trebalo da pribave po službenoj dužnosti
 4. **Rezultat** — Pacijent koji ima pravo na negu (158.000 RSD mesečnog prihoda, od čega 33.171 RSD za tuđu negu) **odbija profesionalnu negu jer je sistem toliko zbunjen da ne razume šta plaća**
 5. **Privatni sektor preuzima** — Medic Care (privatna firma) dolazi dva puta dnevno jer javni sektor ne može da organizuje osnovnu zdravstveno-socijalnu negu
