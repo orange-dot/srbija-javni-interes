@@ -124,6 +124,5 @@ Korupcija opisna u Prijavi IV ne bi bila moguca bez:
 **EPPO:** Razmotriti nadležnost nad funkcionerima koji su omogucili zloupotrebu EU novca.  
 **Evropski parlament:** Formirati nezavisnu komisiju koja ce oceniti odgovornost sopstvenih izvestaca.
 
-**Status:** Spreman za prilaganje uz Prijavu IV  
-**Prioritet:** Međunarodna dimenzija – obavezna reakcija EU tela  
-**Sledeci korak:** Izvrsite screenshot kampanju za vizuelne dokaze prema listi iz Sekcije VI
+**Status:** Spreman za prilaganje uz Prijavu IV
+**Prioritet:** Međunarodna dimenzija – obavezna reakcija EU tela
