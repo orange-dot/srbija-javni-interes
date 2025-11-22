@@ -42,15 +42,16 @@ Rezultat: nakon medijskog pritiska kriticke formulacije vracene.
 
 ---
 
-## III. FINANSIJSKA STETA
+## III. NEISTRAŽIVANI INCICDENTI I PROPUSTI NADZORA
 
-| Period | EU funkcioner | Neistraživani događaj | Finansijska šteta |
-|--------|---------------|---------------------|------------------|
-| 2020–2021 | Sem Fabrizi | Respiratorska afera | 8,9M EUR |
-| 2021–2023 | O. Varhelyi | Fantomske IT firme | 18M EUR |
-| 2019–2024 | O. Varhelyi | IPA III sistemska zloupotreba | 85M+ EUR |
-| 2023 | V. Bilcik | Telekom i državni resursi | 20M EUR (procena) |
-| **UKUPNO** | | | **131,9M+ EUR** |
+Funkcioneri navedeni iznad imali su pristup relevantnim informacijama o sledećim incidentima, ali nisu pokrenuli odgovarajuće istrage niti je primena mera bila proporcionalna riziku:
+
+- **Respiratorska afera (2020–2021)** – 8,9M EUR bez dostave, potvrđeno BIRN istraživanjem
+- **Tenderi za IT firme (2021–2023)** – novoosnovane firme sa ograničenom istorijom dobile EU sredstva
+- **IPA III monitoring (2019–2024)** – sistematski propusti u nadzoru nad alociranim sredstvima
+- **Telekom Srbija (2023)** – pokušaji uklanjanja kritika o korišćenju kao instrumenta kontrole medija
+
+**Implikacija za istragu:** Propusti nadzora omogućili su nastavak zloupotreba fondova. OLAF treba da utvrdi u kojoj meri je bilo nečinjenje ili aktivno ublažavanje nalaza.
 
 ---
 
@@ -97,8 +98,8 @@ Rezultat: nakon medijskog pritiska kriticke formulacije vracene.
 ### Forenzička analiza dokumenata
 - Uporediti DG NEAR nacrte, izmene kabineta i konačne verzije izveštaja; utvrditi sistematsko ublažavanje.
 
-### Finansijska odgovornost
-- Lična odgovornost za najmanje 131,9M EUR štete, disciplinske mere, mogući krivični postupci za sučesništvo.
+### Odgovornost funkcionera
+- Ispitati lične odgovornosti za propuste nadzora i manipulaciju izveštaja; razmotriti discipline mere i odgovarajuće pravne mere prema EU regulativi.
 
 ### Sistemske reforme
 - Nezavisni monitoring bez političkog uticaja, direktan OLAF nadzor nad IPA fondovima, zaštita zviždača u DG NEAR.
@@ -113,7 +114,7 @@ Korupcija opisna u Prijavi IV ne bi bila moguca bez:
 3. Ignorisanja ociglednih signala (respiratori, phantom firme, IPA fondovi)  
 4. Prioritetizovanja geopolitičkih interesa nad vladavinom prava
 
-**Zaključak:** EU funkcioneri su de facto saucesnici u zloupotrebi najmanje 450M+ evra EU fondova.
+**Zaključak:** Propusti u nadzoru i ublažavanje kritika omogućili su kontinuiran pristup EU sredstvima bez odgovarajućih kontrola. OLAF istraga treba da utvrdi u kojoj meri su propusti bili nečinjenje ili aktivna manipulacija.
 
 ---
 
