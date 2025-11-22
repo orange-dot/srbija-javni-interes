@@ -208,7 +208,7 @@ Korupcija u zdravstvu je deo šireg obrasca zloupotrebe budžeta koji obuhvata i
 3. Dostupnost svedoka sa relevantnom informacijom
 4. Koordinacija sa EU organima oko EU fondova
 
-### Preporučeni pravci procesuiranja
+### Mogući pravci istrage
 1. Analiza imovine stečene u periodu relevantnom za predmet
 2. Analiza upotebe sredstava u zdravstvenom sistemu
 3. Ispitivanje svih učesnika u identifikovanoj mreži

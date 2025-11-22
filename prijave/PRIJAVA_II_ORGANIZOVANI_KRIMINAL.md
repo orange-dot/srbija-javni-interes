@@ -219,7 +219,7 @@ Organizovana grupa iste metode koristi i u socijalnoj zaštiti.
 3. Dostupnost svedoka i dokaza
 4. Dokumentacija koja može biti podložna manipulaciji
 
-### Preporučeni pravci istrage
+### Mogući pravci istrage
 1. Formiranje istražnog tima sa međunarodnom saradnjom
 2. Analiza finansijskih tokova sa EUROPOL/OLAF
 3. Opsežan pregled svih transakcija učesnika
