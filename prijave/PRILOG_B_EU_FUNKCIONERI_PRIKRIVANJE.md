@@ -80,13 +80,11 @@ Funkcioneri navedeni iznad imali su pristup relevantnim informacijama o sledeći
 
 ## VI. DOKUMENTOVANI IZVORI
 
-1. EC Progress Reports (2019–2025) – pokazuje pogorsanje, URL: `https://neighbourhood-enlargement.ec.europa.eu/serbia_en`  
-2. Evropski parlament – rezolucija „Serbia one year after Novi Sad tragedy“, URL: `https://www.europarl.europa.eu/doceo/document/B-10-2025-0462_EN.html`  
-3. Evropski revizorski sud – Special Report 01/2022, URL: `https://www.eca.europa.eu/en/publications/SR22_01`  
-4. Politico – istraga o V�rhelyiju, URL: `https://www.politico.eu/article/oliver-varhelyi-rule-of-law-concerns/`  
-5. EWB – Bilcik/Telekom, URL: `https://europeanwesternbalkans.com/2023/03/07/telekom-srbija-amendments/`  
-6. IPA alokacije – `https://neighbourhood-enlargement.ec.europa.eu/serbia-financial-assistance-ipa_en`  
-7. OLAF godisnji izveštaji – `https://anti-fraud.ec.europa.eu/annual-reports_en`
+1. EC Progress Reports (2019–2025) – pokazuje pogorsanje, URL: `https://enlargement.ec.europa.eu/serbia_en`  
+2. Evropski parlament – rezolucija „Serbia one year after Novi Sad tragedy" (B-10-2025-0462), URL: `https://www.europarl.europa.eu/doceo/document/B-10-2025-0462_EN.html`  
+3. Evropski revizorski sud – Special Report 01/2022 „EU support for the rule of law in the Western Balkans", URL: `https://www.eca.europa.eu/en/publications/SR22_01`  
+4. IPA alokacije – `https://enlargement.ec.europa.eu/serbia-financial-assistance-ipa_en`
+5. OLAF (Evropska kancelarija za borbu protiv prevara) – `https://anti-fraud.ec.europa.eu/`
 
 ---
 
