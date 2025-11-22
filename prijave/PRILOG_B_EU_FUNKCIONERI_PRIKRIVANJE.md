@@ -78,7 +78,7 @@ Funkcioneri navedeni iznad imali su pristup relevantnim informacijama o sledeći
 
 ---
 
-## VI. SCREENSHOT DOKAZI ZA PRIKUPLJANJE
+## VI. DOKUMENTOVANI IZVORI
 
 1. EC Progress Reports (2019–2025) – pokazuje pogorsanje, URL: `https://neighbourhood-enlargement.ec.europa.eu/serbia_en`  
 2. Evropski parlament – rezolucija „Serbia one year after Novi Sad tragedy“, URL: `https://www.europarl.europa.eu/doceo/document/B-10-2025-0462_EN.html`  
