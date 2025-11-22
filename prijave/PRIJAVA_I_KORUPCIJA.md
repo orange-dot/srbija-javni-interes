@@ -73,9 +73,9 @@ Podnosim krivičnu prijavu protiv N.N. lica na najvišim državnim funkcijama Re
 **Gerontološki centar Kikinda potvrđuje:**
 > „Nemamo pristup e-upravi i ne možemo nabavljati dokumenta po službenoj dužnosti."
 
-### C. Mehanizmi krađe
+### C. Problematični obrasci u javnim nabavkama
 
-#### Fantomske firme (registrovane neposredno pred tendere)
+#### Novoosnovane firme sa ograničenom operativnom istorijom
 
 Prema dostupnom medijskom istraživanju (KRIK, 2022), izvršeni su tenderi sa firmama koje:
 - Osnovane 1-2 meseca pre tendera
@@ -160,13 +160,13 @@ Korupcija u zdravstvu je deo šireg obrasca zloupotrebe budžeta koji obuhvata i
 1. Dopis gerontološkog centra – nepostojanje digitalizacije  
 2. Medicinska dokumentacija – institucionalni slučajevi (bez ličnih podataka)  
 3. EU monitoring izveštaji – sumnje na prevaru  
-4. APR podaci – fantomske firme  
-5. ASK izveštaji – 45 računa S. Malog  
+4. APR podaci – novoosnovane firme sa ograničenom istorijom
+5. ASK izveštaji – 45 računa S. Malog
 6. RFZO netačne informacije – Sanja Radak De Jongx (09.08.2023) navela da nema obaveze vođenja evidencije odbijenih, suprotno ZUP čl. 211
 
 ### Potrebno pribaviti kroz istragu
-1. Bankovni transferi ka offshore računima  
-2. Ugovori sa fantomskim firmama  
+1. Bankovni transferi ka offshore računima
+2. Ugovori sa novoosnovnim firmama sa ograničenom operativnom istorijom  
 3. Komunikacija sa EU o lažnoj realizaciji projekata  
 4. Finansijski tokovi prema privatnim klinikama
 

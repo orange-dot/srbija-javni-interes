@@ -34,14 +34,14 @@ Podnosim krivičnu prijavu protiv organizovane kriminalne grupe koja deluje na n
 - Direktori velikih zdravstvenih ustanova
 
 #### Izvršioci (operativa)
-- Vlasnici fantomskih firmi  
-- Direktori privatnih klinika koji primaju preusmeren novac  
+- Vlasnici novoosnovanih firmi sa ograničenom operativnom istorijom
+- Direktori privatnih klinika koji primaju preusmeren novac
 - Offshore operateri (Kipar, Malta)
 
 ### Modus operandi
 
-**Faza 1 – planiranje:** identifikacija EU projekata i budžetskih linija, osnivanje fantomskih firmi, dogovor o raspodjeli sredstava.  
-**Faza 2 – izvršenje:** namešteni tenderi, ugovori sa fantomskim firmama, lažno izveštavanje.  
+**Faza 1 – planiranje:** identifikacija EU projekata i budžetskih linija, osnivanje novoosnovanih firmi sa ograničenom istorijom, dogovor o raspodjeli sredstava.
+**Faza 2 – izvršenje:** namešteni tenderi, ugovori sa novoosnovnim firmama, lažno izveštavanje.  
 **Faza 3 – prikrivanje:** novac ide na offshore račune, vraća se kao „investicija“, medijska kontrola.
 
 ---
@@ -61,7 +61,7 @@ Podnosim krivičnu prijavu protiv organizovane kriminalne grupe koja deluje na n
 **Tender struktura:** Prema dostupnim medijskim istraživanjima, tenderi su dodeljeni firmama sa generičkim nazivima i minimalnom dokumentovnom operativnom istorijom
 
 ### B. Operacija „Urgentni centri" (15 miliona EUR)
-- Učesnici: Ministarstvo zdravlja, fantomski izvođači, dobavljači polovne opreme
+- Učesnici: Ministarstvo zdravlja, novoosnovani izvođači sa ograničenom istorijom, dobavljači polovne opreme
 - EU monitoring (2024): 2 od 8 planiranih centara funkcionalna; polovna vozila kupljena kao nova (3x skuplje)
 - Pacijenti odbijani u „modernizovanim" centrima
 
@@ -75,7 +75,7 @@ Podnosim krivičnu prijavu protiv organizovane kriminalne grupe koja deluje na n
 
 ### Offshore komponenta
 - **Kipar:** računi za pranje novca, povratne „investicije“ u privatne klinike  
-- **Malta:** registracija fantomskih firmi i finansijski transferi
+- **Malta:** registracija novoosnovanih firmi sa ograničenom istorijom i finansijski transferi
 
 ### Prevara prema EU
 - Lažno izveštavanje: „65% digitalizacije“ (2023), „8 urgentnih centara“ (2024), „85% ciljeva ostvareno“ (2025) – realnost ispod 15%  
@@ -110,7 +110,7 @@ Organizovana grupa iste metode koristi i u socijalnoj zaštiti.
 
 ## IV. DOKAZI ORGANIZOVANOSTI
 
-1. Sve fantomske firme osnovane 1–2 meseca pre tendera; isti vlasnici/direktori se ponavljaju.  
+1. Sve novoosnovane firme osnovane 1–2 meseca pre tendera; isti vlasnici/direktori se ponavljaju.  
 2. Ministri potpisuju lažne izveštaje, RFZO odobrava sporna plaćanja, mediji istovremeno objavljuju „uspehe“.  
 3. Jasna hijerarhija: komandna linija, disciplina, uzbunjivači trpe pritisak.  
 4. Kontinuitet 2021–2025: modus operandi ne menja se uprkos promenama ministara; obim krađe raste.
@@ -168,7 +168,7 @@ Organizovana grupa iste metode koristi i u socijalnoj zaštiti.
 ### Materijalni dokazi
 1. Dopisi gerontoloških centara – potvrda nepostojanja digitalizacije  
 2. EU monitoring – potvrda nepostojanja urgentnih centara  
-3. APR – registracija fantomskih firmi  
+3. APR – registracija novoosnovanih firmi sa ograničenom operativnom istorijom  
 4. Bankovni transferi – offshore tokovi (za pribaviti)  
 5. Četiri hapšenja – već potvrđen kriminalni obrazac  
 6. RFZO netransparentnost – Sanja Radak De Jongx (09.08.2023) navela da ne postoji obaveza vođenja statistike, suprotno ZUP čl. 211
