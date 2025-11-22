@@ -45,13 +45,18 @@ Phantom kompanija BTL Medical Montenegro primila je 8,9 miliona evra za 400 resp
 **Osnovna činjenica:**  
 Ministar/potpredsednik Sinisa Mali upravljao je sa 45 bankovnih racuna sa iznosima koji ne odgovaraju njegovoj zvanicnoj zaradi.
 
-**Ključevi podaci:**  
-- Sluzbena zarada: <1.000 EUR mesecno  
-- Broj racuna: 45 (period 2015–2023)  
-- Nekretnine: 24 apartmana (Kipar, Hrvatska, Srbija) procenjene na 12–48 miliona EUR  
-- Poreklo novca neobjasnjeno; istraga ASK pokrenuta 2022, Viši tužilac odbio da postupi
+**Ključevi podaci:**
+- Zvanicna zarada: prema javnom budžetu Srbije ~800–1.200 EUR mesecno (ministar/potpredsednik)
+- Broj racuna: 45 (period 2015–2023)
+- Nekretnine: 24 apartmana (Kipar, Hrvatska, Srbija) procenjene na 12–48 miliona EUR
+- Neslaganje između neimovinacijske deklaracije i stvarnih sredstava; istraga ASK pokrenuta 2022, Viši tužilac odbio da postupi
 
-**Dokazni izvori:** KRIK istraživanje („Mali kontrolisao 45 bankovnih racuna“), dokumentacija ASK, izveštaj Kancelarije za sprecavanje pranja novca, medijski izveštaji.
+**Dokazni izvori:**
+- KRIK istraživanje: „Sinisa Mali kontrolisao 45 bankovnih računa" (2022)
+- Javni budžet Srbije – plate funkcionera dostupne na www.trezor.gov.rs
+- ASK istraga: Slučaj 2022 (prekinuta, Viši tužilac nije postupio)
+- Kancelarija za sprečavanje pranja novca – izveštaji o sumnjivim transakcijama
+- Medijski izveštaji: KRIK, Balkan Insight, Reuters, N1
 
 ---
 

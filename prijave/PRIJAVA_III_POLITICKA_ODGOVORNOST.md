@@ -259,7 +259,7 @@ Dokumentovani su sledeći slučajevi neuspeha sistema i institucionalne odgovorn
 - **60.000 građana bez pristupa** – rezultat smanjenih zdravstvenih kapaciteta i budžetske alokacije
 - **Kolaps sistema funkcionalnosti** – rezultat neefikasne alokacije resursa i administrativnih prepreka
 
-Ključni problem je mismatch između raspoloživih sredstava i njihove efikasne upotebe. Politička odgovornost zahteva da se identifikuju i razmotre sistematski razlozi zašto su sredstva dostupna ali rezultati nedostajni.
+Ključni problem je neusaglašenost između raspoloživih sredstava i njihove efikasne upotebe. Politička odgovornost zahteva da se identifikuju i razmotre sistematski razlozi zašto su sredstva dostupna ali rezultati nedostajni.
 
 **Brza istraga je neophodna kako bi se sprečili dodatni rizici po javno zdravlje.**
 
