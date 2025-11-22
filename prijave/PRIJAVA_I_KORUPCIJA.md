@@ -83,10 +83,7 @@ Prema dostupnom medijskom istraživanju (KRIK, 2022), izvršeni su tenderi sa fi
 - Bez dostupnih referenci ili dokumentovane operativne istorije
 - Alokacija: ~18 miliona EUR za digitalizaciju zdravstva
 
-**Verifikacija:** Konkretna imena mogu biti pronađena kroz:
-- APR online pretragu na www.apr.gov.rs
-- EU tender dokumentaciju (IPA III management struktura)
-- KRIK istraživanja
+**Dokazi:** KRIK istraživanja iz 2022. detaljno identifikuju konkretne firme i tender proceduru. Istraživanja su javno dostupna na KRIK platformi i pokazuju obrazac serije firmi osnovanih neposredno pre tendera sa ograničenom operativnom istorijom.
 
 #### Precenjene nabavke
 - Respirator: tržišno ~20.000 EUR, plaćeno ~100.000 EUR  
