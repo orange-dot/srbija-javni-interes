@@ -49,9 +49,16 @@ Podnosim krivičnu prijavu protiv organizovane kriminalne grupe koja deluje na n
 ## II. KONKRETNI KRIMINALNI PODUHVATI
 
 ### A. Operacija „Digitalizacija" (30 miliona EUR)
-- Učesnici: Ministarstvo zdravlja, Health Tech Solutions (8M), Digital Transformation Experts (6M)
-- Firme osnovane mesec dana pre tendera; vlasnici povezani sa funkcionerima
-- Rezultat: 30M isplaćeno, bez rezultata u Kikinidi (potvrđeno dopisom); 60.000 ljudi i dalje na papirnim listama
+
+**Dokumentovani problemi:**
+- EU IPA sredstva: 30 miliona EUR alocirano (2021-2024)
+- HIS maturity status 2024: 2.5/5 (povećanje samo sa 1.6/5 iz 2021)
+- Rezultat u Kikinidi: digitalizacija nerealizovana (potvrđeno dopisom Gerontološkog centra)
+- Građani: 60.000 i dalje na papirnim listama čekanja
+
+**Izvor za HIS maturity:** PMC/Global Health Journal - "Maturity Assessment of the Health Information System Using Stages of Continuous Improvement Methodology: Results From Serbia" (2024)
+
+**Tender struktura:** Prema dostupnim medijskim istraživanjima, tenderi su dodeljeni firmama sa generičkim nazivima i minimalnom dokumentovnom operativnom istorijom
 
 ### B. Operacija „Urgentni centri" (15 miliona EUR)
 - Učesnici: Ministarstvo zdravlja, fantomski izvođači, dobavljači polovne opreme

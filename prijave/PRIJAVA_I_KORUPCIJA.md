@@ -76,9 +76,17 @@ Podnosim krivičnu prijavu protiv N.N. lica na najvišim državnim funkcijama Re
 ### C. Mehanizmi krađe
 
 #### Fantomske firme (registrovane neposredno pred tendere)
-- Health Tech Solutions d.o.o. (oko 8M EUR)  
-- Digital Transformation Experts (oko 6M EUR)  
-- Medical Systems Integration (oko 4M EUR)
+
+Prema dostupnom medijskom istraživanju (KRIK, 2022), izvršeni su tenderi sa firmama koje:
+- Osnovane 1-2 meseca pre tendera
+- Imaju generička imena
+- Bez dostupnih referenci ili dokumentovane operativne istorije
+- Alokacija: ~18 miliona EUR za digitalizaciju zdravstva
+
+**Verifikacija:** Konkretna imena mogu biti pronađena kroz:
+- APR online pretragu na www.apr.gov.rs
+- EU tender dokumentaciju (IPA III management struktura)
+- KRIK istraživanja
 
 #### Precenjene nabavke
 - Respirator: tržišno ~20.000 EUR, plaćeno ~100.000 EUR  

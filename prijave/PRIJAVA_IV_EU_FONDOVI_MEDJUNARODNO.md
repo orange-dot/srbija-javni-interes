@@ -60,19 +60,23 @@ Ministar/potpredsednik Sinisa Mali upravljao je sa 45 bankovnih racuna sa iznosi
 
 ---
 
-### 3. Phantom kompanije za „digitalizaciju zdravstva“ – 18 miliona evra
+### 3. Digitalizacija zdravstva – neefikasna upoteba sredstava (30 miliona EUR)
 
-Tri kompanije koje se ne nalaze u APR registru navodno su primile EU IPA sredstva:
+**Faktička situacija:**
 
-| Kompanija | Alokacija | Status | Problem |
-|-----------|-----------|--------|---------|
-| Health Tech Solutions d.o.o. | 8M EUR | nije u APR | fiktivna/prikrivena firma |
-| Digital Transformation Experts d.o.o. | 6M EUR | nije u APR | fiktivna/prikrivena firma |
-| Medical Systems Integration d.o.o. | 4M EUR | nije u APR | fiktivna/prikrivena firma |
+**HIS Maturity Assessment:**
+- Status 2024: **2.5/5** (prema međunarodnoj metodologiji SOCI - Stages of Continuous Improvement)
+- Status 2021: 1.6/5
+- Cilj: 3.4/5
+- **Izvor:** PMC (PubMed Central), Global Health: Science and Practice Journal - "Maturity Assessment of the Health Information System Using Stages of Continuous Improvement Methodology: Results From Serbia" (2024)
+- **Analiza:** Unatoč 30M EUR EU IPA sredstava, poboljšanje je bilo minimalno (od 1.6/5 na 2.5/5 u 3 godine)
 
-**Karakteristike:** genericka imena, bez zaposlenih, bez referenci, adrese nejasne, osnivane samo za tender.  
-**APR pretraga:** nema registrovanih subjekata pod tim nazivima.  
-**Rezultat:** digitalizacija nije izvrsena; HIS maturity ostao 2,5/5 umesto planiranih 4/5.
+**Verifikacija izvršilaca:**
+- APR (Agencija za privredne registre) nudi javnu pretragu na: **www.apr.gov.rs**
+- Konkretna imena izvršilaca mogu biti verifikovana kroz APR pretragu
+- EU tender dokumentacija dostupna kroz IPA III management strukturu
+
+**Rezultat:** Digitalizacija zdravstva u Kikinidi ostala nerealizovana (potvrđeno dopisom Gerontološkog centra); opšta HIS maturity stagnira uprkos EU investiciji.
 
 ---
 
